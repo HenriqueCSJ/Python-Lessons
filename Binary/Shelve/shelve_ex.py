@@ -63,6 +63,5 @@ for f in fruit.items():
 print(fruit.items())
 
 
-
 fruit.close()
 # print(fruit)
