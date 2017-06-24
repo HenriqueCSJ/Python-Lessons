@@ -2,7 +2,6 @@ import random
 import tkinter
 
 
-
 def load_images(card_images):
     suits = ["heart", "club", "diamond", "spade"]
     face_cards = ["jack", "queen", "king"]
@@ -30,7 +29,7 @@ def load_images(card_images):
             card_images.append((10, image,))
 
 
-def deal_card(frame):
+def _deal_card(frame):
     # pop the next card of the top of the deck
     next_card = deck.pop(0)  # Pega uma carta do topo deck (e a retira do deck)
     # And add it to the back of the pack
@@ -63,7 +62,7 @@ def score_hand(hand):
 def deal_dealer():
     dealer_score = score_hand(dealer_hand)
     while 0 < dealer_score < 17:
-        dealer_hand.append(deal_card(dealer_card_frame))
+        dealer_hand.append(_deal_card(dealer_card_frame))
         dealer_score = score_hand(dealer_hand)
         dealer_score_label.set(dealer_score)
 
@@ -81,7 +80,7 @@ def deal_dealer():
 
 
 def deal_player():
-    player_hand.append(deal_card(player_card_frame))
+    player_hand.append(_deal_card(player_card_frame))
     player_score = score_hand(player_hand)
 
     player_score_label.set(player_score)
@@ -104,6 +103,13 @@ def deal_player():
 #     print(locals())
 
 
+def initisal_deal():
+    deal_player()
+    dealer_hand.append(_deal_card(dealer_card_frame))
+    dealer_score_label.set(score_hand(dealer_hand))
+    deal_player()
+
+
 def new_game():
     global dealer_card_frame
     global player_card_frame
@@ -122,16 +128,17 @@ def new_game():
     # Create the list to store Dealer's and Player's hands
     dealer_hand = []
     player_hand = []
-
-    deal_player()
-    dealer_hand.append(deal_card(dealer_card_frame))
-    dealer_score_label.set(score_hand(dealer_hand))
-    deal_player()
+    initisal_deal()
 
 
 def shuffle():
     random.shuffle(deck)
 
+
+def play():
+    initisal_deal()
+
+    mainWindow.mainloop()
 
 mainWindow = tkinter.Tk()
 # Set the screen and the frames for the dealer and the player
@@ -142,7 +149,6 @@ mainWindow.configure(background="green")
 result_text = tkinter.StringVar()
 result = tkinter.Label(mainWindow, textvariable=result_text)
 result.grid(row=0, column=0, columnspan=3)
-
 
 card_frame = tkinter.Frame(mainWindow, relief="sunken",
                            borderwidth=1, background="green")
@@ -182,10 +188,12 @@ player_button = tkinter.Button(
     button_frame, text="Player", command=deal_player)
 player_button.grid(row=0, column=1)
 
-new_game_button = tkinter.Button(button_frame, text="New Game", command=new_game)
+new_game_button = tkinter.Button(
+    button_frame, text="New Game", command=new_game)
 new_game_button.grid(row=0, column=2)
 
-shuttle_button = tkinter.Button(button_frame, text="Re-shuttle", command=shuffle)
+shuttle_button = tkinter.Button(
+    button_frame, text="Re-shuttle", command=shuffle)
 shuttle_button.grid(row=0, column=3)
 
 # Load cards
@@ -200,7 +208,5 @@ shuffle()
 dealer_hand = []
 player_hand = []
 
-new_game()
-
-
-mainWindow.mainloop()
+if __name__ == "__main__":
+    play()
