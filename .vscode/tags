@@ -1,0 +1,636 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	Python\Quadratic_equation\quadratic_equation.py	/^A = int(input("Enter your A index and press enter: "))$/;"	kind:variable	line:8
+Account	Python\OOP\accounts.py	/^class Account:$/;"	kind:class	line:5
+Album	Python\OOP\song.py	/^class Album:$/;"	kind:class	line:15
+App	Python\Date_and_time\timezones.py	/^class App(Frame):$/;"	kind:class	line:29
+Application	Python\TKinter\tkinter_test.py	/^class Application(Frame):$/;"	kind:class	line:6
+ArrayVar	Python\Date_and_time\tktable.py	/^class ArrayVar(tkinter.Variable):$/;"	kind:class	line:53
+Artist	Python\OOP\song.py	/^class Artist:$/;"	kind:class	line:54
+B	Python\Quadratic_equation\quadratic_equation.py	/^B = int(input("Enter your B index and press enter: "))$/;"	kind:variable	line:9
+Button	Python\Date_and_time\tktable.py	/^        from Tkinter import Tk, Label, Button$/;"	kind:namespace	line:564
+Button	Python\Date_and_time\tktable.py	/^        from tkinter import Tk, Label, Button$/;"	kind:namespace	line:562
+C	Python\Quadratic_equation\quadratic_equation.py	/^C = int(input("Enter your C index and press enter: "))$/;"	kind:variable	line:10
+Count_characters.py	Python\Loops\Count_characters.py	1;"	kind:file	line:1
+CreateUI	Python\Date_and_time\timezones.py	/^    def CreateUI(self):$/;"	kind:member	line:39
+Delta	Python\Quadratic_equation\quadratic_equation.py	/^Delta = B**2 - 4 * (A * C)$/;"	kind:variable	line:14
+Developer	Python\OOP\inheritance.py	/^class Developer(Employee):$/;"	kind:class	line:19
+Employee	Python\OOP\decorators.py	/^class Employee:$/;"	kind:class	line:2
+Employee	Python\OOP\employee.py	/^class Employee:$/;"	kind:class	line:4
+Employee	Python\OOP\inheritance.py	/^class Employee:$/;"	kind:class	line:2
+Employee	Python\OOP\magic_methods.py	/^class Employee:$/;"	kind:class	line:2
+Fran	Python\OOP\employee.py	/^Fran = Employee("Franciele", "Bach", 500000)$/;"	kind:variable	line:41
+Henrique	Python\OOP\employee.py	/^Henrique = Employee("Henrique", "Castro", 150000)$/;"	kind:variable	line:40
+Ka	Python\Equations\henderson-hesselbalch.py	/^    Ka = (1e-14) \/ Kb$/;"	kind:variable	line:14
+Ka	Python\Equations\henderson-hesselbalch.py	/^    Ka = float(input("Type the Ka of your weak acid (Ex.: 1.8e-5): "))$/;"	kind:variable	line:11
+Kb	Python\Equations\henderson-hesselbalch.py	/^    Kb = float(input("Type the Kb of your weak base (Ex.: 1.8e-5): "))$/;"	kind:variable	line:13
+Kettle	Python\OOP\oop.py	/^class Kettle(object):$/;"	kind:class	line:1
+Label	Python\Date_and_time\tktable.py	/^        from Tkinter import Tk, Label, Button$/;"	kind:namespace	line:564
+Label	Python\Date_and_time\tktable.py	/^        from tkinter import Tk, Label, Button$/;"	kind:namespace	line:562
+LoadTable	Python\Date_and_time\timezones.py	/^    def LoadTable(self):$/;"	kind:member	line:55
+Maicon	Python\OOP\employee.py	/^Maicon = Employee("Maicon", "Silva", 240000)$/;"	kind:variable	line:43
+Manager	Python\OOP\inheritance.py	/^class Manager(Employee):$/;"	kind:class	line:27
+Mari	Python\OOP\employee.py	/^Mari = Employee("Mariane", "Bach", 250000)$/;"	kind:variable	line:42
+Rate	Python\Equations\henderson-hesselbalch.py	/^Rate = conc_base \/ conc_acid$/;"	kind:variable	line:16
+Song	Python\OOP\song.py	/^class Song:$/;"	kind:class	line:1
+SplitString	Python\Input\input.py	/^SplitString = "This string has been\\nsplit in several\\nlines."$/;"	kind:variable	line:4
+Table	Python\Date_and_time\tktable.py	/^class Table(tkinter.Widget):$/;"	kind:class	line:104
+Tati	Python\OOP\employee.py	/^Tati = Employee("Tatiane", "Reis", 300000)$/;"	kind:variable	line:44
+Tk	Python\Date_and_time\tktable.py	/^        from Tkinter import Tk, Label, Button$/;"	kind:namespace	line:564
+Tk	Python\Date_and_time\tktable.py	/^        from tkinter import Tk, Label, Button$/;"	kind:namespace	line:562
+While_loops.py	Python\Loops\While_loops.py	1;"	kind:file	line:1
+X1	Python\Quadratic_equation\quadratic_equation.py	/^    X1 = (-B + sqrt(Delta)) \/ (2 * A)$/;"	kind:variable	line:21
+X2	Python\Quadratic_equation\quadratic_equation.py	/^    X2 = (-B - sqrt(Delta)) \/ (2 * A)$/;"	kind:variable	line:22
+_0Button	Python\TKinter\challenge_tkinter.py	/^_0Button = tkinter.Button(mainWindow, text="0")$/;"	kind:variable	line:88
+_1Button	Python\TKinter\challenge_tkinter.py	/^_1Button = tkinter.Button(mainWindow, text="1")$/;"	kind:variable	line:78
+_2Button	Python\TKinter\challenge_tkinter.py	/^_2Button = tkinter.Button(mainWindow, text="2")$/;"	kind:variable	line:79
+_3Button	Python\TKinter\challenge_tkinter.py	/^_3Button = tkinter.Button(mainWindow, text="3")$/;"	kind:variable	line:80
+_4Button	Python\TKinter\challenge_tkinter.py	/^_4Button = tkinter.Button(mainWindow, text="4")$/;"	kind:variable	line:68
+_5Button	Python\TKinter\challenge_tkinter.py	/^_5Button = tkinter.Button(mainWindow, text="5")$/;"	kind:variable	line:69
+_6Button	Python\TKinter\challenge_tkinter.py	/^_6Button = tkinter.Button(mainWindow, text="6")$/;"	kind:variable	line:70
+_7Button	Python\TKinter\challenge_tkinter.py	/^_7Button = tkinter.Button(mainWindow, text="7")$/;"	kind:variable	line:58
+_8Button	Python\TKinter\challenge_tkinter.py	/^_8Button = tkinter.Button(mainWindow, text="8")$/;"	kind:variable	line:59
+_9Button	Python\TKinter\challenge_tkinter.py	/^_9Button = tkinter.Button(mainWindow, text="9")$/;"	kind:variable	line:60
+_TKTABLE_LOADED	Python\Date_and_time\tktable.py	/^_TKTABLE_LOADED = False$/;"	kind:variable	line:101
+__add__	Python\OOP\magic_methods.py	/^    def __add__(self, other):$/;"	kind:member	line:24
+__all__	Python\Date_and_time\tktable.py	/^__all__ = ["ArrayVar", "Table"]$/;"	kind:variable	line:32
+__author__	Python\Date_and_time\tktable.py	/^__author__ = "Guilherme Polo <ggpolo@gmail.com>"$/;"	kind:variable	line:31
+__del__	Python\Date_and_time\tktable.py	/^    def __del__(self):$/;"	kind:member	line:70
+__getitem__	Python\Date_and_time\tktable.py	/^    def __getitem__(self, key):$/;"	kind:member	line:77
+__init__	Python\Date_and_time\timezones.py	/^    def __init__(self, parent):$/;"	kind:member	line:31
+__init__	Python\Date_and_time\tktable.py	/^    def __init__(self, master=None, **kw):$/;"	kind:member	line:112
+__init__	Python\Date_and_time\tktable.py	/^    def __init__(self, master=None, name=None):$/;"	kind:member	line:60
+__init__	Python\OOP\accounts.py	/^    def __init__(self, name, balance):$/;"	kind:member	line:13
+__init__	Python\OOP\decorators.py	/^    def __init__(self, first, last):$/;"	kind:member	line:4
+__init__	Python\OOP\employee.py	/^    def __init__(self, first, last, pay):$/;"	kind:member	line:9
+__init__	Python\OOP\inheritance.py	/^    def __init__(self, first, last, pay):$/;"	kind:member	line:6
+__init__	Python\OOP\inheritance.py	/^    def __init__(self, first, last, pay, employees=None):$/;"	kind:member	line:28
+__init__	Python\OOP\inheritance.py	/^    def __init__(self, first, last, pay, prog_lang):$/;"	kind:member	line:22
+__init__	Python\OOP\magic_methods.py	/^    def __init__(self, first, last, pay):$/;"	kind:member	line:6
+__init__	Python\OOP\oop.py	/^    def __init__(self, make, price):$/;"	kind:member	line:5
+__init__	Python\OOP\song.py	/^    def __init__(self, name):$/;"	kind:member	line:66
+__init__	Python\OOP\song.py	/^    def __init__(self, name, year, artist=None):$/;"	kind:member	line:29
+__init__	Python\OOP\song.py	/^    def __init__(self, title, artist, duration=0):$/;"	kind:member	line:9
+__init__	Python\TKinter\tkinter_test.py	/^    def __init__(self, master=None):$/;"	kind:member	line:7
+__len__	Python\Date_and_time\tktable.py	/^    def __len__(self):$/;"	kind:member	line:74
+__len__	Python\OOP\magic_methods.py	/^    def __len__(self):$/;"	kind:member	line:27
+__repr__	Python\OOP\magic_methods.py	/^    def __repr__(self):$/;"	kind:member	line:18
+__setitem__	Python\Date_and_time\tktable.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:80
+__str__	Python\OOP\magic_methods.py	/^    def __str__(self):$/;"	kind:member	line:21
+_current_time	Python\OOP\accounts.py	/^    def _current_time():$/;"	kind:member	line:9
+_deal_card	Python\Blackjack\blackjack.py	/^def _deal_card(frame):$/;"	kind:function	line:32
+_handle_switches	Python\Date_and_time\tktable.py	/^    def _handle_switches(self, args):$/;"	kind:member	line:165
+_options	Python\Date_and_time\tktable.py	/^    def _options(self, cnf, kw=None):$/;"	kind:member	line:131
+_setup_master	Python\Date_and_time\tktable.py	/^def _setup_master(master):$/;"	kind:function	line:43
+_switches	Python\Date_and_time\tktable.py	/^    _switches = ('holddimensions', 'holdselection', 'holdtags', 'holdwindows', 'keeptitles', '-')$/;"	kind:variable	line:107
+_tabsubst	Python\Date_and_time\tktable.py	/^    def _tabsubst(self, *args):$/;"	kind:member	line:146
+_tabsubst_commands	Python\Date_and_time\tktable.py	/^    _tabsubst_commands = ('browsecommand', 'browsecmd', 'command',$/;"	kind:variable	line:109
+_tabsubst_format	Python\Date_and_time\tktable.py	/^    _tabsubst_format = ('%c', '%C', '%i', '%r', '%s', '%S', '%W')$/;"	kind:variable	line:108
+a	Python\Binary\binary.py	/^a = 65534  # FF FE$/;"	kind:variable	line:16
+a	Python\Variables\variables.py	/^a = 12$/;"	kind:variable	line:1
+a_string	Python\OOP\demo.py	/^a_string = "Tis is\\ta string \\for split\\t\\tand tabbed"$/;"	kind:variable	line:1
+accounts.py	Python\OOP\accounts.py	1;"	kind:file	line:1
+activate	Python\Date_and_time\tktable.py	/^    def activate(self, index):$/;"	kind:member	line:169
+add_album	Python\OOP\song.py	/^    def add_album(self, album):$/;"	kind:member	line:70
+add_empl	Python\OOP\inheritance.py	/^    def add_empl(self, emp):$/;"	kind:member	line:35
+add_song	Python\OOP\song.py	/^    def add_song(self, song, position=None):$/;"	kind:member	line:39
+adventuregame.py	Python\Dictionaries\adventuregame.py	1;"	kind:file	line:1
+age	Python\Challenges\challenge1.py	/^age = int(input("Please, enter you age: "))$/;"	kind:variable	line:9
+age	Python\If_program\if_program2.py	/^age = int(input("How old are you? "))$/;"	kind:variable	line:30
+age	Python\String\stringformatting.py	/^age = 38$/;"	kind:variable	line:1
+allExits	Python\Binary\Shelve\Challenge\cave_game.py	/^        allExits = locations[loc]["exits"].copy()$/;"	kind:variable	line:17
+allExits	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^        allExits = locations[loc]["exits"].copy()$/;"	kind:variable	line:54
+allExits	Python\Dictionaries\game_challenge2.py	/^        allExits = locations[loc]["exits"].copy()$/;"	kind:variable	line:50
+allExits	Python\Dictionaries\game_improved.py	/^        allExits = exits[loc].copy()$/;"	kind:variable	line:41
+answer	Python\Challenges\challenge3-vid38-while.py	/^answer = random.randint(1, highest)$/;"	kind:variable	line:4
+answer	Python\Loops\While_loops.py	/^answer = random.randint(1, highest)$/;"	kind:variable	line:22
+app	Python\TKinter\tkinter_test.py	/^app = Application()$/;"	kind:variable	line:34
+apply_raise	Python\OOP\employee.py	/^    def apply_raise(self):$/;"	kind:member	line:21
+apply_raise	Python\OOP\inheritance.py	/^    def apply_raise(self):$/;"	kind:member	line:15
+apply_raise	Python\OOP\magic_methods.py	/^    def apply_raise(self):$/;"	kind:member	line:15
+atoms	Python\Dictionaries\dictionaries4.py	/^atoms = {1: "Hydrogen",$/;"	kind:variable	line:1
+augmented_assignment.py	Python\Assignment\augmented_assignment.py	1;"	kind:file	line:1
+availableExits	Python\Binary\Shelve\Challenge\cave_game.py	/^    availableExits = ", ".join(locations[loc]["exits"].keys())$/;"	kind:variable	line:10
+availableExits	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^    availableExits = ", ".join(locations[loc]["exits"].keys())$/;"	kind:variable	line:47
+availableExits	Python\Dictionaries\challenge.py	/^    availableExits = ", ".join(exits[loc].keys())$/;"	kind:variable	line:37
+availableExits	Python\Dictionaries\game_challenge2.py	/^    availableExits = ", ".join(locations[loc]["exits"].keys())$/;"	kind:variable	line:43
+availableExits	Python\Dictionaries\game_dictionaries.py	/^    availableExits = ", ".join(exits[loc].keys())  # Concatena os valores WENSQ$/;"	kind:variable	line:27
+availableExits	Python\Dictionaries\game_improved.py	/^    availableExits = ", ".join(exits[loc].keys())$/;"	kind:variable	line:34
+b	Python\Binary\binary.py	/^b = 65535  # FF FF$/;"	kind:variable	line:17
+b	Python\Variables\variables.py	/^b = 3$/;"	kind:variable	line:2
+b_string	Python\OOP\demo.py	/^b_string = "This is" + chr(10) + "a string split" + chr(9) + chr(9) + "and tabbed"$/;"	kind:variable	line:7
+backstring	Python\Ranges\ranges-vid44.py	/^backstring = "egaugnal lufrewop yrev a si nohtyP"$/;"	kind:variable	line:67
+bad	Python\Tuples\tuples.py	/^bad = "Bad Company", "Bad Company", 1974$/;"	kind:variable	line:8
+basis_sets.py	Python\ORCA_input_generator\basis_sets.py	1;"	kind:file	line:1
+bbox	Python\Date_and_time\tktable.py	/^    def bbox(self, first, last=None):$/;"	kind:member	line:173
+bike	Python\Dictionaries\motorbike.py	/^bike = {"make": "Honda", "model": "250 Dream", "Colour": "Red", "Engine_size": 250}$/;"	kind:variable	line:1
+binary.py	Python\Binary\binary.py	1;"	kind:file	line:1
+blackjack	Python\Blackjack\import_blackjack.py	/^import blackjack$/;"	kind:namespace	line:1
+blackjack.py	Python\Blackjack\blackjack.py	1;"	kind:file	line:1
+books	Python\Binary\Shelve\Challenge\shelve_challenge.py	/^books = shelve.open("\/Users\/henri\/Documents\/Python\/Binary\/Shelve\/Challenge\/book")$/;"	kind:variable	line:3
+browsecmd	Python\Date_and_time\tktable.py	/^    def browsecmd(event):$/;"	kind:function	line:572
+browser.py	Python\Modimport\browser.py	1;"	kind:file	line:1
+btnClick	Python\TKinter\tkinter_test.py	/^    def btnClick(self):$/;"	kind:member	line:30
+budgie	Python\Tuples\tuples.py	/^budgie = "Nightflight", "Budgie", 1981$/;"	kind:variable	line:9
+button1	Python\TKinter\start_tkinter.py	/^button1 = tkinter.Button(rightFrame, text="Button1")$/;"	kind:variable	line:22
+button1	Python\TKinter\start_tkinter2.py	/^button1 = tkinter.Button(rightFrame, text="Button1")$/;"	kind:variable	line:19
+button2	Python\TKinter\start_tkinter.py	/^button2 = tkinter.Button(rightFrame, text="Button2")$/;"	kind:variable	line:23
+button2	Python\TKinter\start_tkinter2.py	/^button2 = tkinter.Button(rightFrame, text="Button2")$/;"	kind:variable	line:20
+button3	Python\TKinter\start_tkinter.py	/^button3 = tkinter.Button(rightFrame, text="Button3")$/;"	kind:variable	line:24
+button3	Python\TKinter\start_tkinter2.py	/^button3 = tkinter.Button(rightFrame, text="Button3")$/;"	kind:variable	line:21
+button_frame	Python\Blackjack\blackjack.py	/^button_frame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:180
+c	Python\Binary\binary.py	/^c = 65536  # 00 01 00 00$/;"	kind:variable	line:18
+cButton	Python\TKinter\challenge_tkinter.py	/^cButton = tkinter.Button(mainWindow, text="C")$/;"	kind:variable	line:52
+cancelButton	Python\TKinter\start_tkinter3.py	/^cancelButton = tkinter.Button(mainWindow, text="Cancel", command=mainWindow.destroy)$/;"	kind:variable	line:92
+canvas	Python\Functions\parabola.py	/^canvas = tkinter.Canvas(mainWindow, width=640, height=480)$/;"	kind:variable	line:78
+canvas	Python\TKinter\start_tkinter.py	/^canvas = tkinter.Canvas(leftFrame, relief="raised", borderwidth=1)$/;"	kind:variable	line:15
+canvas	Python\TKinter\start_tkinter2.py	/^canvas = tkinter.Canvas(leftFrame, relief="raised", borderwidth=1)$/;"	kind:variable	line:12
+caracteres	Python\Loops\Count_characters.py	/^caracteres = ""$/;"	kind:variable	line:13
+card_frame	Python\Blackjack\blackjack.py	/^card_frame = tkinter.Frame(mainWindow, relief="sunken",$/;"	kind:variable	line:153
+cards	Python\Blackjack\blackjack.py	/^cards = []$/;"	kind:variable	line:200
+cave_game.py	Python\Binary\Shelve\Challenge\cave_game.py	1;"	kind:file	line:1
+cave_initialise.py	Python\Binary\Shelve\Challenge\cave_initialise.py	1;"	kind:file	line:1
+ceButton	Python\TKinter\challenge_tkinter.py	/^ceButton = tkinter.Button(mainWindow, text="CE")$/;"	kind:variable	line:54
+center_text	Python\Functions\functions.py	/^def center_text(*args, sep=" "):$/;"	kind:function	line:8
+challenge-vid47.py	Python\Tuples\challenge-vid47.py	1;"	kind:file	line:1
+challenge.py	Python\Dictionaries\challenge.py	1;"	kind:file	line:1
+challenge.py	Python\FileIO\challenge.py	1;"	kind:file	line:1
+challenge1.py	Python\Challenges\challenge1.py	1;"	kind:file	line:1
+challenge1.py	Python\Iterators\challenge1.py	1;"	kind:file	line:1
+challenge2.py	Python\Challenges\challenge2.py	1;"	kind:file	line:1
+challenge3-vid38-while.py	Python\Challenges\challenge3-vid38-while.py	1;"	kind:file	line:1
+challenge_sets.py	Python\Sets\challenge_sets.py	1;"	kind:file	line:1
+challenge_time.py	Python\Date_and_time\challenge_time.py	1;"	kind:file	line:1
+challenge_tkinter.py	Python\TKinter\challenge_tkinter.py	1;"	kind:file	line:1
+challenge_tkinter_solved.py	Python\TKinter\challenge_tkinter_solved.py	1;"	kind:file	line:1
+chrome	Python\Modimport\browser.py	/^chrome = webbrowser.get(using="google-chrome")$/;"	kind:variable	line:10
+circle	Python\Functions\parabola.py	/^def circle(page, radius, g, h):$/;"	kind:function	line:49
+cleanNumber	Python\Assignment\augmented_assignment.py	/^cleanNumber = ''$/;"	kind:variable	line:2
+cleanNumber	Python\Loops\forloops.py	/^        cleanNumber = cleanNumber + number[i]$/;"	kind:variable	line:9
+cleanNumber	Python\Loops\forloops.py	/^cleanNumber = ''$/;"	kind:variable	line:5
+clear	Python\Date_and_time\tktable.py	/^    def clear(self, option, first=None, last=None):$/;"	kind:member	line:179
+clear_all	Python\Date_and_time\tktable.py	/^    def clear_all(self, first=None, last=None):$/;"	kind:member	line:201
+clear_cache	Python\Date_and_time\tktable.py	/^    def clear_cache(self, first=None, last=None):$/;"	kind:member	line:186
+clear_sizes	Python\Date_and_time\tktable.py	/^    def clear_sizes(self, first=None, last=None):$/;"	kind:member	line:191
+clear_tags	Python\Date_and_time\tktable.py	/^    def clear_tags(self, first=None, last=None):$/;"	kind:member	line:197
+col	Python\TKinter\challenge_tkinter_solved.py	/^    col = 0$/;"	kind:variable	line:24
+collections	Python\Date_and_time\tktable.py	/^import collections$/;"	kind:namespace	line:34
+conc_acid	Python\Equations\henderson-hesselbalch.py	/^conc_acid = float($/;"	kind:variable	line:5
+conc_base	Python\Equations\henderson-hesselbalch.py	/^conc_base = float($/;"	kind:variable	line:7
+contents	Python\FileIO\writing.py	/^    contents = imelda_file.readline()$/;"	kind:variable	line:22
+continue_break.py	Python\Loops\continue_break.py	1;"	kind:file	line:1
+createWidgets	Python\TKinter\tkinter_test.py	/^    def createWidgets(self):$/;"	kind:member	line:12
+csv	Python\TKinter\tkinter_test.py	/^import csv$/;"	kind:namespace	line:3
+curselection	Python\Date_and_time\tktable.py	/^    def curselection(self, value=None):$/;"	kind:member	line:205
+curvalue	Python\Date_and_time\tktable.py	/^    def curvalue(self, value=None):$/;"	kind:member	line:214
+dateFrame	Python\TKinter\start_tkinter3.py	/^dateFrame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:72
+datecalc.py	Python\Date_and_time\datecalc.py	1;"	kind:file	line:1
+datetime	Python\OOP\accounts.py	/^import datetime$/;"	kind:namespace	line:1
+datetime	Python\OOP\employee.py	/^import datetime$/;"	kind:namespace	line:1
+dayLabel	Python\TKinter\start_tkinter3.py	/^dayLabel = tkinter.Label(dateFrame, text="Day")$/;"	kind:variable	line:75
+daySpin	Python\TKinter\start_tkinter3.py	/^daySpin = tkinter.Spinbox(dateFrame, width=5, from_=1, to=31)$/;"	kind:variable	line:82
+deal_dealer	Python\Blackjack\blackjack.py	/^def deal_dealer():$/;"	kind:function	line:62
+deal_player	Python\Blackjack\blackjack.py	/^def deal_player():$/;"	kind:function	line:82
+dealer_button	Python\Blackjack\blackjack.py	/^dealer_button = tkinter.Button($/;"	kind:variable	line:183
+dealer_card_frame	Python\Blackjack\blackjack.py	/^dealer_card_frame = tkinter.Frame(card_frame, background="green")$/;"	kind:variable	line:164
+dealer_hand	Python\Blackjack\blackjack.py	/^dealer_hand = []$/;"	kind:variable	line:208
+dealer_score_label	Python\Blackjack\blackjack.py	/^dealer_score_label = tkinter.IntVar()$/;"	kind:variable	line:157
+deck	Python\Blackjack\blackjack.py	/^deck = list(cards) + list(cards) + list(cards)$/;"	kind:variable	line:204
+decorators.py	Python\OOP\decorators.py	1;"	kind:file	line:1
+delete_active	Python\Date_and_time\tktable.py	/^    def delete_active(self, index1, index2=None):$/;"	kind:member	line:219
+delete_cols	Python\Date_and_time\tktable.py	/^    def delete_cols(self, index, count=None, switches=None):$/;"	kind:member	line:225
+delete_rows	Python\Date_and_time\tktable.py	/^    def delete_rows(self, index, count=None, switches=None):$/;"	kind:member	line:229
+demo.py	Python\OOP\demo.py	1;"	kind:file	line:1
+dens_functionals	Python\ORCA_input_generator\functionals.py	/^dens_functionals = {$/;"	kind:variable	line:1
+deposit	Python\OOP\accounts.py	/^    def deposit(self, amount):$/;"	kind:member	line:20
+dev_1	Python\OOP\inheritance.py	/^dev_1 = Developer('Corey', 'Schafer', 50000, "Python")$/;"	kind:variable	line:48
+dev_2	Python\OOP\inheritance.py	/^dev_2 = Developer('Test', 'Employee', 60000, "Java")$/;"	kind:variable	line:49
+dictionaries.py	Python\Dictionaries\dictionaries.py	1;"	kind:file	line:1
+dictionaries3.py	Python\Dictionaries\dictionaries3.py	1;"	kind:file	line:1
+dictionaries4.py	Python\Dictionaries\dictionaries4.py	1;"	kind:file	line:1
+dictionaries5.py	Python\Dictionaries\dictionaries5.py	1;"	kind:file	line:1
+dictionaries_test.py	Python\Dictionaries\dictionaries_test.py	1;"	kind:file	line:1
+dir_list	Python\Scope\files_and_system.py	/^    def dir_list(d):$/;"	kind:function	line:6
+direction	Python\Binary\Shelve\Challenge\cave_game.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:28
+direction	Python\Binary\Shelve\Challenge\cave_game.py	/^    direction = input("Available exits are " + availableExits).upper()$/;"	kind:variable	line:20
+direction	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:65
+direction	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^    direction = input("Available exits are " + availableExits).upper()$/;"	kind:variable	line:57
+direction	Python\Dictionaries\challenge.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:51
+direction	Python\Dictionaries\challenge.py	/^    direction = input("Available exits are: " + availableExits + " ").upper()$/;"	kind:variable	line:44
+direction	Python\Dictionaries\game_challenge2.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:61
+direction	Python\Dictionaries\game_challenge2.py	/^    direction = input("Available exits are " + availableExits).upper()$/;"	kind:variable	line:53
+direction	Python\Dictionaries\game_dictionaries.py	/^    direction = input("Available exits are: " +$/;"	kind:variable	line:33
+direction	Python\Dictionaries\game_improved.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:51
+direction	Python\Dictionaries\game_improved.py	/^    direction = input("Available exits are: " + availableExits + " ").upper()$/;"	kind:variable	line:44
+divisionButton	Python\TKinter\challenge_tkinter.py	/^divisionButton = tkinter.Button(mainWindow, text="\/")$/;"	kind:variable	line:90
+draw_axes	Python\Functions\parabola.py	/^def draw_axes(page):$/;"	kind:function	line:62
+e	Python\Binary\binary.py	/^    e = int.from_bytes(bin_file.read(2), "big")$/;"	kind:variable	line:29
+email	Python\OOP\decorators.py	/^    def email(self):$/;"	kind:member	line:9
+emp_1	Python\OOP\decorators.py	/^emp_1 = Employee('John', 'Smith')$/;"	kind:variable	line:29
+emp_1	Python\OOP\magic_methods.py	/^emp_1 = Employee('Corey', 'Schafer', 50000)$/;"	kind:variable	line:31
+emp_2	Python\OOP\magic_methods.py	/^emp_2 = Employee('Test', 'Employee', 60000)$/;"	kind:variable	line:32
+emp_str_1	Python\OOP\employee.py	/^emp_str_1 = 'John-Doe-70000'$/;"	kind:variable	line:46
+emp_str_2	Python\OOP\employee.py	/^emp_str_2 = 'Steve-Smith-30000'$/;"	kind:variable	line:47
+emp_str_3	Python\OOP\employee.py	/^emp_str_3 = 'Jane-Doe-90000'$/;"	kind:variable	line:48
+employee.py	Python\OOP\employee.py	1;"	kind:file	line:1
+end_time	Python\Date_and_time\datecalc.py	/^end_time = my_timer()$/;"	kind:variable	line:45
+equalButton	Python\TKinter\challenge_tkinter.py	/^equalButton = tkinter.Button(mainWindow, text="=")$/;"	kind:variable	line:89
+even	Python\Binary\Pickle\pickling.py	/^even = list(range(0, 10, 2))$/;"	kind:variable	line:38
+even	Python\Lists\lists-vid41.py	/^even = [2, 4, 6, 8]$/;"	kind:variable	line:23
+even	Python\Sets\sets.py	/^even = frozenset(range(0, 100, 2))$/;"	kind:variable	line:92
+even_list	Python\Binary\Pickle\pickling.py	/^    even_list = pickle.load(imelda_pickled)$/;"	kind:variable	line:49
+exits	Python\Dictionaries\challenge.py	/^exits = {0: {"Q": 0},$/;"	kind:variable	line:17
+exits	Python\Dictionaries\game_dictionaries.py	/^exits = [{"Q", 0},$/;"	kind:variable	line:8
+exits	Python\Dictionaries\game_improved.py	/^exits = {0: {"Q": 0},$/;"	kind:variable	line:8
+exits	Python\Dictionaries\game_test.py	/^exits = [{"Q", 0},$/;"	kind:variable	line:8
+extending_for_loops.py	Python\Loops\extending_for_loops.py	1;"	kind:file	line:1
+f	Python\Binary\binary.py	/^    f = int.from_bytes(bin_file.read(2), "big")$/;"	kind:variable	line:31
+f_tuple	Python\Dictionaries\dictionaries3.py	/^f_tuple = tuple(fruit.items())$/;"	kind:variable	line:10
+fact	Python\Scope\scope.py	/^def fact(n):$/;"	kind:function	line:1
+factorial	Python\Scope\scope.py	/^def factorial(n):$/;"	kind:function	line:12
+fg	Python\Blackjack\blackjack.py	/^              fg="white").grid(row=2, column=0)$/;"	kind:variable	line:172
+fib	Python\Scope\scope.py	/^def fib(n):$/;"	kind:function	line:21
+fibonacci	Python\Scope\scope.py	/^def fibonacci(n):$/;"	kind:function	line:29
+fileList	Python\TKinter\start_tkinter3.py	/^fileList = tkinter.Listbox(mainWindow)$/;"	kind:variable	line:23
+filedialog	Python\TKinter\tkinter_test.py	/^import tkinter.filedialog$/;"	kind:namespace	line:2
+fileio.py	Python\FileIO\fileio.py	1;"	kind:file	line:1
+files_and_system.py	Python\Scope\files_and_system.py	1;"	kind:file	line:1
+forloops.py	Python\Loops\forloops.py	1;"	kind:file	line:1
+from_string	Python\OOP\employee.py	/^    def from_string(cls, emp_str):$/;"	kind:member	line:29
+fruit	Python\Binary\Shelve\shelve_ex.py	/^fruit = shelve.open("ShelfTest")$/;"	kind:variable	line:15
+fruit	Python\Dictionaries\dictionaries.py	/^fruit = {"orange": "a sweet, orange, citrus fruit",$/;"	kind:variable	line:1
+fruit	Python\Dictionaries\dictionaries3.py	/^fruit = {"orange": "a sweet, orange, citrus fruit",$/;"	kind:variable	line:1
+fruit	Python\Dictionaries\dictionaries5.py	/^fruit = {"orange": "a sweet, orange, citrus fruit",$/;"	kind:variable	line:1
+fruit_keys	Python\Dictionaries\dictionaries.py	/^fruit_keys = fruit.keys()$/;"	kind:variable	line:67
+fullname	Python\OOP\decorators.py	/^    def fullname(self):$/;"	kind:member	line:13
+fullname	Python\OOP\decorators.py	/^    def fullname(self):$/;"	kind:member	line:23
+fullname	Python\OOP\decorators.py	/^    def fullname(self, name):$/;"	kind:member	line:17
+fullname	Python\OOP\employee.py	/^    def fullname(self):$/;"	kind:member	line:18
+fullname	Python\OOP\inheritance.py	/^    def fullname(self):$/;"	kind:member	line:12
+fullname	Python\OOP\magic_methods.py	/^    def fullname(self):$/;"	kind:member	line:12
+functionals.py	Python\ORCA_input_generator\functionals.py	1;"	kind:file	line:1
+functions.py	Python\Functions\functions.py	1;"	kind:file	line:1
+g	Python\Binary\binary.py	/^    g = int.from_bytes(bin_file.read(4), "big")$/;"	kind:variable	line:33
+g	Python\Blackjack\import_blackjack.py	/^g = sorted(globals())$/;"	kind:variable	line:3
+game_challenge2.py	Python\Dictionaries\game_challenge2.py	1;"	kind:file	line:1
+game_dictionaries.py	Python\Dictionaries\game_dictionaries.py	1;"	kind:file	line:1
+game_improved.py	Python\Dictionaries\game_improved.py	1;"	kind:file	line:1
+game_test.py	Python\Dictionaries\game_test.py	1;"	kind:file	line:1
+get	Python\Date_and_time\tktable.py	/^    def get(self, first, last=None):$/;"	kind:member	line:233
+get	Python\Date_and_time\tktable.py	/^    def get(self, key=None):$/;"	kind:member	line:86
+guess	Python\Challenges\challenge3-vid38-while.py	/^            guess = int(input())$/;"	kind:variable	line:21
+guess	Python\Challenges\challenge3-vid38-while.py	/^guess = int(input())$/;"	kind:variable	line:8
+guess	Python\If_program\if_program_flow.py	/^    guess = int(input())  # Segunda chance de tentar$/;"	kind:variable	line:20
+guess	Python\If_program\if_program_flow.py	/^guess = int(input())  # Lê um número$/;"	kind:variable	line:11
+guess	Python\Loops\While_loops.py	/^    guess = int(input())$/;"	kind:variable	line:32
+guess	Python\Loops\While_loops.py	/^guess = int(input())$/;"	kind:variable	line:25
+h	Python\Binary\binary.py	/^    h = int.from_bytes(bin_file.read(4), "big")$/;"	kind:variable	line:35
+hamilton	Python\OOP\oop.py	/^hamilton = Kettle("Hamilton", 14.55)$/;"	kind:variable	line:21
+height	Python\Date_and_time\tktable.py	/^    def height(self, row=None, **kwargs):$/;"	kind:member	line:238
+helloworld.py	Python\HelloWorld\helloworld.py	1;"	kind:file	line:1
+henderson-hesselbalch.py	Python\Equations\henderson-hesselbalch.py	1;"	kind:file	line:1
+hidden	Python\Date_and_time\tktable.py	/^    def hidden(self, *args):$/;"	kind:member	line:252
+highest	Python\Challenges\challenge3-vid38-while.py	/^highest = 10$/;"	kind:variable	line:3
+highest	Python\Loops\While_loops.py	/^highest = 10$/;"	kind:variable	line:21
+hourSpinner	Python\TKinter\start_tkinter3.py	/^hourSpinner = tkinter.Spinbox(timeFrame, width=3, values=tuple(range(0, 24)))$/;"	kind:variable	line:61
+i	Python\Binary\binary.py	/^    i = int.from_bytes(bin_file.read(4), "big")$/;"	kind:variable	line:37
+icursor	Python\Date_and_time\tktable.py	/^    def icursor(self, arg=None):$/;"	kind:member	line:260
+if_program2.py	Python\If_program\if_program2.py	1;"	kind:file	line:1
+if_program_flow.py	Python\If_program\if_program_flow.py	1;"	kind:file	line:1
+imelda	Python\Binary\Pickle\pickling.py	/^imelda = ("More Mayhem",$/;"	kind:variable	line:30
+imelda	Python\FileIO\writing.py	/^imelda = eval(contents)$/;"	kind:variable	line:24
+imelda	Python\Tuples\challenge-vid47.py	/^imelda = "More Mayhem", "Imelda May", 2011, ((1, "Pulling the Rug"), ($/;"	kind:variable	line:7
+imelda2	Python\Binary\Pickle\pickling.py	/^    imelda2 = pickle.load(imelda_pickled)$/;"	kind:variable	line:48
+imelda2	Python\Tuples\tuples.py	/^imelda2 = "More Mayhem", "Emilda May", 2011, 1, "Track 1", 2, "Track 2", 3, "Track 3"$/;"	kind:variable	line:20
+import_blackjack.py	Python\Blackjack\import_blackjack.py	1;"	kind:file	line:1
+index	Python\Date_and_time\tktable.py	/^    def index(self, index, rc=None):$/;"	kind:member	line:270
+inheritance.py	Python\OOP\inheritance.py	1;"	kind:file	line:1
+initisal_deal	Python\Blackjack\blackjack.py	/^def initisal_deal():$/;"	kind:function	line:106
+input.py	Python\Input\input.py	1;"	kind:file	line:1
+insert_active	Python\Date_and_time\tktable.py	/^    def insert_active(self, index, value):$/;"	kind:member	line:280
+insert_cols	Python\Date_and_time\tktable.py	/^    def insert_cols(self, index, count=None, switches=None):$/;"	kind:member	line:286
+insert_rows	Python\Date_and_time\tktable.py	/^    def insert_rows(self, index, count=None, switches=None):$/;"	kind:member	line:290
+ipAddress	Python\Challenges\challenge2.py	/^ipAddress = input("Please, enter you IP address: ")$/;"	kind:variable	line:29
+is_workday	Python\OOP\employee.py	/^    def is_workday(day):$/;"	kind:member	line:34
+iterators-vid43.py	Python\Iterators\iterators-vid43.py	1;"	kind:file	line:1
+jogo_ptbr.py	Python\Dictionaries\jogo_ptbr.py	1;"	kind:file	line:1
+joins.py	Python\Dictionaries\joins.py	1;"	kind:file	line:1
+jupyter.py	Python\OOP\jupyter.py	1;"	kind:file	line:1
+kenwood	Python\OOP\oop.py	/^kenwood = Kettle("Kenwood", 8.99)$/;"	kind:variable	line:14
+keyPad	Python\TKinter\challenge_tkinter_solved.py	/^keyPad = tkinter.Frame(mainWindow)$/;"	kind:variable	line:19
+keys	Python\TKinter\challenge_tkinter_solved.py	/^keys = [[("C", 1), ("CE", 1)],$/;"	kind:variable	line:3
+label	Python\TKinter\start_tkinter.py	/^label = tkinter.Label(mainWindow, text="Hello World")$/;"	kind:variable	line:9
+label	Python\TKinter\start_tkinter2.py	/^label = tkinter.Label(mainWindow, text="Hello World")$/;"	kind:variable	line:6
+label	Python\TKinter\start_tkinter3.py	/^label = tkinter.Label(mainWindow, text="Tkinter Grid Demo")$/;"	kind:variable	line:9
+leftFrame	Python\TKinter\start_tkinter.py	/^leftFrame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:12
+leftFrame	Python\TKinter\start_tkinter2.py	/^leftFrame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:9
+letters	Python\Dictionaries\joins.py	/^letters = "abcdefghijklmnopqrstuvwxyz"$/;"	kind:variable	line:9
+lines	Python\FileIO\fileio.py	/^    lines = jabber.read()$/;"	kind:variable	line:42
+listScroll	Python\TKinter\start_tkinter3.py	/^listScroll = tkinter.Scrollbar($/;"	kind:variable	line:29
+list_directories	Python\Scope\files_and_system.py	/^def list_directories(s):$/;"	kind:function	line:4
+list_o	Python\Ranges\ranges-vid44.py	/^list_o = list(o)$/;"	kind:variable	line:76
+list_p	Python\Ranges\ranges-vid44.py	/^list_p = list(p)$/;"	kind:variable	line:81
+lists-vid40.py	Python\Lists\lists-vid40.py	1;"	kind:file	line:1
+lists-vid41.py	Python\Lists\lists-vid41.py	1;"	kind:file	line:1
+lists-vid42.py	Python\Lists\lists-vid42.py	1;"	kind:file	line:1
+load_images	Python\Blackjack\blackjack.py	/^def load_images(card_images):$/;"	kind:function	line:5
+loc	Python\Binary\Shelve\Challenge\cave_game.py	/^        loc = allExits[direction]$/;"	kind:variable	line:32
+loc	Python\Binary\Shelve\Challenge\cave_game.py	/^loc = "1"   # String$/;"	kind:variable	line:8
+loc	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^        loc = allExits[direction]$/;"	kind:variable	line:69
+loc	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^loc = 1$/;"	kind:variable	line:45
+loc	Python\Dictionaries\challenge.py	/^        loc = exits[loc][direction]$/;"	kind:variable	line:58
+loc	Python\Dictionaries\challenge.py	/^loc = 1$/;"	kind:variable	line:35
+loc	Python\Dictionaries\dictionaries_test.py	/^loc = 1$/;"	kind:variable	line:21
+loc	Python\Dictionaries\game_challenge2.py	/^        loc = allExits[direction]$/;"	kind:variable	line:65
+loc	Python\Dictionaries\game_challenge2.py	/^loc = 1$/;"	kind:variable	line:41
+loc	Python\Dictionaries\game_dictionaries.py	/^        loc = exits[loc][direction]$/;"	kind:variable	line:45
+loc	Python\Dictionaries\game_dictionaries.py	/^loc = 1  # começa na posição 1$/;"	kind:variable	line:15
+loc	Python\Dictionaries\game_improved.py	/^        loc = allExits[direction]$/;"	kind:variable	line:55
+loc	Python\Dictionaries\game_improved.py	/^loc = 1$/;"	kind:variable	line:32
+loc	Python\Dictionaries\game_test.py	/^loc = exits[1]["E"]$/;"	kind:variable	line:15
+locais	Python\Dictionaries\jogo_ptbr.py	/^locais = {0: "Você está na frente do computador aprendendo Python.",$/;"	kind:variable	line:6
+localiz	Python\Dictionaries\jogo_ptbr.py	/^        localiz = saidas[localiz][saidaEscolhida]$/;"	kind:variable	line:36
+localiz	Python\Dictionaries\jogo_ptbr.py	/^localiz = randint(1, 5)  # É preciso começar em algum lugar$/;"	kind:variable	line:20
+locations	Python\Binary\Shelve\Challenge\cave_game.py	/^locations = shelve.open($/;"	kind:variable	line:3
+locations	Python\Binary\Shelve\Challenge\cave_initialise.py	/^locations = shelve.open($/;"	kind:variable	line:3
+locations	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^locations = {0: {"desc": "You are sitting in front of a computer learning Python",$/;"	kind:variable	line:14
+locations	Python\Dictionaries\challenge.py	/^locations = {0: "You are sitting in front of a computer learning Python",$/;"	kind:variable	line:10
+locations	Python\Dictionaries\dictionaries_test.py	/^locations = {0: {"desc": "You are sitting in front of a computer learning Python",$/;"	kind:variable	line:1
+locations	Python\Dictionaries\game_challenge2.py	/^locations = {0: {"desc": "You are sitting in front of a computer learning Python",$/;"	kind:variable	line:10
+locations	Python\Dictionaries\game_dictionaries.py	/^locations = {0: "You're sitting in front of the computer learning Python.",$/;"	kind:variable	line:1
+locations	Python\Dictionaries\game_improved.py	/^locations = {0: "You are sitting in front of a computer learning Python",$/;"	kind:variable	line:1
+locations	Python\Dictionaries\game_test.py	/^locations = {0: "You're sitting in front of the computer learning Python.",$/;"	kind:variable	line:1
+magic_methods.py	Python\OOP\magic_methods.py	1;"	kind:file	line:1
+main	Python\Date_and_time\timezones.py	/^def main():$/;"	kind:function	line:59
+mainWindow	Python\Blackjack\blackjack.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:143
+mainWindow	Python\Functions\parabola.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:74
+mainWindow	Python\TKinter\challenge_tkinter.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:29
+mainWindow	Python\TKinter\challenge_tkinter_solved.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:11
+mainWindow	Python\TKinter\start_tkinter.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:6
+mainWindow	Python\TKinter\start_tkinter2.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:3
+mainWindow	Python\TKinter\start_tkinter3.py	/^mainWindow = tkinter.Tk()$/;"	kind:variable	line:4
+mainWindowPadding	Python\TKinter\challenge_tkinter_solved.py	/^mainWindowPadding = 8$/;"	kind:variable	line:9
+math	Python\Functions\parabola.py	/^import math$/;"	kind:namespace	line:38
+matplot.py	Python\Matplotlib\matplot.py	1;"	kind:file	line:1
+matplotlib	Python\Matplotlib\matplot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+matplotlib	Python\OOP\jupyter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+meal	Python\Loops\continue_break.py	/^meal = ["eggs", "bacon", "spam", "sausages"]$/;"	kind:variable	line:16
+menu	Python\Lists\lists-vid42.py	/^menu = []$/;"	kind:variable	line:1
+mgr_1	Python\OOP\inheritance.py	/^mgr_1 = Manager("Sue", " Smith", 90000, [dev_1])$/;"	kind:variable	line:50
+minusButton	Python\TKinter\challenge_tkinter.py	/^minusButton = tkinter.Button(mainWindow, text="-")$/;"	kind:variable	line:71
+minuteSpinner	Python\TKinter\start_tkinter3.py	/^minuteSpinner = tkinter.Spinbox(timeFrame, width=3, from_=0, to=59)$/;"	kind:variable	line:62
+monthLabel	Python\TKinter\start_tkinter3.py	/^monthLabel = tkinter.Label(dateFrame, text="Month")$/;"	kind:variable	line:76
+monthSpin	Python\TKinter\start_tkinter3.py	/^monthSpin = tkinter.Spinbox(dateFrame, width=5, values=[$/;"	kind:variable	line:83
+motorbike.py	Python\Dictionaries\motorbike.py	1;"	kind:file	line:1
+motorcycle.py	Python\Binary\Shelve\motorcycle.py	1;"	kind:file	line:1
+mpl	Python\OOP\jupyter.py	/^import matplotlib as mpl$/;"	kind:namespace	line:3
+myList	Python\Dictionaries\joins.py	/^myList = ["a", "b", "c", "d"]$/;"	kind:variable	line:1
+my_date	Python\OOP\employee.py	/^my_date = datetime.date(2016, 7, 10)$/;"	kind:variable	line:75
+my_iter	Python\Iterators\challenge1.py	/^my_iter = iter(my_list)$/;"	kind:variable	line:11
+my_iter_count	Python\Iterators\challenge1.py	/^my_iter_count = len(my_list)$/;"	kind:variable	line:12
+my_list	Python\Iterators\challenge1.py	/^my_list = ["dog", "cat", "duck", "bat", "bird", "fish"]$/;"	kind:variable	line:9
+my_range	Python\Desafios\say_hello.py	/^my_range = list(range(0, times_to_say))$/;"	kind:variable	line:4
+my_set	Python\Sets\challenge_sets.py	/^my_set = set(my_text)$/;"	kind:variable	line:10
+my_string	Python\Ranges\ranges-vid44.py	/^my_string = "This is just a test to see how lists work"$/;"	kind:variable	line:85
+my_text	Python\Sets\challenge_sets.py	/^my_text = input("Please, write some text here: ")$/;"	kind:variable	line:8
+my_timer	Python\Date_and_time\datecalc.py	/^from time import perf_counter as my_timer$/;"	kind:namespace	line:35
+name	Python\Challenges\challenge1.py	/^name = input("Please, what is your name? ")$/;"	kind:variable	line:8
+namedExits	Python\Dictionaries\game_improved.py	/^namedExits = {1: {"2": 2, "3": 3, "5": 5, "4": 4},$/;"	kind:variable	line:15
+names	Python\Date_and_time\tktable.py	/^    def names(self):$/;"	kind:member	line:83
+nasty_food_item	Python\Loops\continue_break.py	/^nasty_food_item = ''$/;"	kind:variable	line:18
+newNumber	Python\Assignment\augmented_assignment.py	/^newNumber = int(cleanNumber)$/;"	kind:variable	line:12
+newNumber	Python\Loops\forloops.py	/^newNumber = int(cleanNumber)$/;"	kind:variable	line:10
+newString	Python\Dictionaries\joins.py	/^newString = ""$/;"	kind:variable	line:2
+newString	Python\Dictionaries\joins.py	/^newString = ", ".join(letters)$/;"	kind:variable	line:10
+newString	Python\Dictionaries\joins.py	/^newString = ", ".join(myList)$/;"	kind:variable	line:6
+newString2	Python\Dictionaries\joins.py	/^newString2 = " Mississippi, ".join(numbers)$/;"	kind:variable	line:14
+new_empl_1	Python\OOP\employee.py	/^new_empl_1 = Employee.from_string(emp_str_1)$/;"	kind:variable	line:67
+new_game	Python\Blackjack\blackjack.py	/^def new_game():$/;"	kind:function	line:113
+new_game_button	Python\Blackjack\blackjack.py	/^new_game_button = tkinter.Button($/;"	kind:variable	line:191
+new_set	Python\Sets\challenge_sets.py	/^new_set = my_set.difference(vowels)$/;"	kind:variable	line:12
+nice_and_nasty	Python\Dictionaries\dictionaries5.py	/^nice_and_nasty = fruit.copy()$/;"	kind:variable	line:23
+np	Python\OOP\jupyter.py	/^import numpy as np$/;"	kind:namespace	line:4
+np	Python\Titration\titration.py	/^import numpy as np$/;"	kind:namespace	line:1
+num_of_employees	Python\OOP\employee.py	/^    num_of_employees = 0$/;"	kind:variable	line:7
+number	Python\Assignment\augmented_assignment.py	/^number = "9.223.372.036.854.775.807"$/;"	kind:variable	line:1
+number	Python\Loops\forloops.py	/^number = "9.445.342.777.908.999.567"$/;"	kind:variable	line:4
+numberofElectrons	Python\Dictionaries\dictionaries4.py	/^    numberofElectrons = " + ".join(orbitals[startingAtom].keys())$/;"	kind:variable	line:27
+numbers	Python\Dictionaries\joins.py	/^numbers = "1234567890"$/;"	kind:variable	line:13
+numbers	Python\Lists\lists-vid41.py	/^numbers = [even, odd]$/;"	kind:variable	line:26
+o	Python\Ranges\ranges-vid44.py	/^o = range(0, 100, 4)$/;"	kind:variable	line:75
+odd	Python\Binary\Pickle\pickling.py	/^odd = list(range(1, 10, 2))$/;"	kind:variable	line:39
+odd	Python\Lists\lists-vid41.py	/^odd = [1, 3, 5, 7, 9]$/;"	kind:variable	line:24
+odd_list	Python\Binary\Pickle\pickling.py	/^    odd_list = pickle.load(imelda_pickled)$/;"	kind:variable	line:50
+okButton	Python\TKinter\start_tkinter3.py	/^okButton = tkinter.Button(mainWindow, text="OK")$/;"	kind:variable	line:91
+oop.py	Python\OOP\oop.py	1;"	kind:file	line:1
+optionFrame	Python\TKinter\start_tkinter3.py	/^optionFrame = tkinter.LabelFrame(mainWindow, text="File details")$/;"	kind:variable	line:35
+orbitals	Python\Dictionaries\dictionaries4.py	/^orbitals = [{"1S": 1},$/;"	kind:variable	line:12
+os	Python\Date_and_time\tktable.py	/^import os$/;"	kind:namespace	line:35
+os	Python\Dictionaries\jogo_ptbr.py	/^import os$/;"	kind:namespace	line:2
+os	Python\Scope\files_and_system.py	/^import os$/;"	kind:namespace	line:1
+os	Python\TKinter\challenge_tkinter.py	/^import os$/;"	kind:namespace	line:27
+os	Python\TKinter\start_tkinter3.py	/^import os$/;"	kind:namespace	line:2
+p	Python\Ranges\ranges-vid44.py	/^p = o[::5]$/;"	kind:variable	line:80
+pH	Python\Equations\henderson-hesselbalch.py	/^pH = pKa + log10(Rate)$/;"	kind:variable	line:18
+pKa	Python\Equations\henderson-hesselbalch.py	/^pKa = -log10(Ka)$/;"	kind:variable	line:17
+parabola	Python\Functions\parabola.py	/^def parabola(page, size):$/;"	kind:function	line:41
+parabola.py	Python\Functions\parabola.py	1;"	kind:file	line:1
+paragrafo	Python\Loops\Count_characters.py	/^paragrafo = input("Por favor, digite agora seu parágrafo e digite ENTER ao final: ")$/;"	kind:variable	line:2
+parrot	Python\Variables\variables.py	/^parrot = "Norwegian Blue "$/;"	kind:variable	line:11
+pickle	Python\Binary\Pickle\pickling.py	/^import pickle$/;"	kind:namespace	line:1
+pickling.py	Python\Binary\Pickle\pickling.py	1;"	kind:file	line:1
+play	Python\Blackjack\blackjack.py	/^def play():$/;"	kind:function	line:138
+player_button	Python\Blackjack\blackjack.py	/^player_button = tkinter.Button($/;"	kind:variable	line:187
+player_card_frame	Python\Blackjack\blackjack.py	/^player_card_frame = tkinter.Frame(card_frame, background="green")$/;"	kind:variable	line:177
+player_hand	Python\Blackjack\blackjack.py	/^player_hand = []$/;"	kind:variable	line:209
+player_score_label	Python\Blackjack\blackjack.py	/^player_score_label = tkinter.IntVar()$/;"	kind:variable	line:167
+plot	Python\Functions\parabola.py	/^def plot(page, x, y):$/;"	kind:function	line:71
+plt	Python\Matplotlib\matplot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+plt	Python\OOP\jupyter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+plusButton	Python\TKinter\challenge_tkinter.py	/^plusButton = tkinter.Button(mainWindow, text="+")$/;"	kind:variable	line:61
+power_source	Python\OOP\oop.py	/^    power_source = "electricity"$/;"	kind:variable	line:3
+print_emps	Python\OOP\inheritance.py	/^    def print_emps(self):$/;"	kind:member	line:43
+python_food	Python\Functions\functions.py	/^def python_food():$/;"	kind:function	line:1
+pytz	Python\OOP\accounts.py	/^import pytz$/;"	kind:namespace	line:2
+quadratic_equation.py	Python\Quadratic_equation\quadratic_equation.py	1;"	kind:file	line:1
+r	Python\Ranges\ranges-vid44.py	/^r = range(1, 11)$/;"	kind:variable	line:70
+radio1	Python\TKinter\start_tkinter3.py	/^radio1 = tkinter.Radiobutton($/;"	kind:variable	line:41
+radio2	Python\TKinter\start_tkinter3.py	/^radio2 = tkinter.Radiobutton($/;"	kind:variable	line:43
+radio3	Python\TKinter\start_tkinter3.py	/^radio3 = tkinter.Radiobutton($/;"	kind:variable	line:45
+raise_amount	Python\OOP\employee.py	/^    raise_amount = 1.04$/;"	kind:variable	line:6
+raise_amt	Python\OOP\inheritance.py	/^    raise_amt = 1.04$/;"	kind:variable	line:4
+raise_amt	Python\OOP\inheritance.py	/^    raise_amt = 1.10$/;"	kind:variable	line:20
+raise_amt	Python\OOP\magic_methods.py	/^    raise_amt = 1.04$/;"	kind:variable	line:4
+randint	Python\Dictionaries\jogo_ptbr.py	/^from random import randint$/;"	kind:namespace	line:4
+random	Python\Blackjack\blackjack.py	/^import random$/;"	kind:namespace	line:1
+random	Python\Challenges\challenge3-vid38-while.py	/^import random$/;"	kind:namespace	line:1
+random	Python\Date_and_time\datecalc.py	/^import random$/;"	kind:namespace	line:36
+random	Python\Loops\While_loops.py	/^import random$/;"	kind:namespace	line:19
+ranges-vid44.py	Python\Ranges\ranges-vid44.py	1;"	kind:file	line:1
+raw_string	Python\OOP\demo.py	/^raw_string = r"Tis is\\ta string split\\t\\tand tabbed"$/;"	kind:variable	line:4
+rbValue	Python\TKinter\start_tkinter3.py	/^rbValue = tkinter.IntVar()$/;"	kind:variable	line:38
+readCSV	Python\TKinter\tkinter_test.py	/^    def readCSV(self):$/;"	kind:member	line:20
+recipies.py	Python\Binary\Shelve\recipies.py	1;"	kind:file	line:1
+remove_emp	Python\OOP\inheritance.py	/^    def remove_emp(self, emp):$/;"	kind:member	line:39
+reread	Python\Date_and_time\tktable.py	/^    def reread(self):$/;"	kind:member	line:308
+result	Python\Blackjack\blackjack.py	/^result = tkinter.Label(mainWindow, textvariable=result_text)$/;"	kind:variable	line:150
+result	Python\TKinter\challenge_tkinter.py	/^result = tkinter.Entry(mainWindow)$/;"	kind:variable	line:47
+result	Python\TKinter\challenge_tkinter_solved.py	/^result = tkinter.Entry(mainWindow)$/;"	kind:variable	line:16
+result	Python\TKinter\start_tkinter3.py	/^result = tkinter.Entry(mainWindow)$/;"	kind:variable	line:54
+resultLabel	Python\TKinter\start_tkinter3.py	/^resultLabel = tkinter.Label(mainWindow, text="Result")$/;"	kind:variable	line:52
+result_text	Python\Blackjack\blackjack.py	/^result_text = tkinter.StringVar()$/;"	kind:variable	line:149
+rightFrame	Python\TKinter\start_tkinter.py	/^rightFrame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:19
+rightFrame	Python\TKinter\start_tkinter2.py	/^rightFrame = tkinter.Frame(mainWindow)$/;"	kind:variable	line:16
+row	Python\TKinter\challenge_tkinter_solved.py	/^row = 0$/;"	kind:variable	line:22
+s1	Python\Functions\functions.py	/^    s1 = center_text("Spam and eggs")$/;"	kind:variable	line:21
+s2	Python\Functions\functions.py	/^    s2 = center_text("Spam, spam and eggs")$/;"	kind:variable	line:23
+s5	Python\Functions\functions.py	/^    s5 = center_text("Center", "3", 4, "arg", sep="--")$/;"	kind:variable	line:27
+saidaEscolhida	Python\Dictionaries\jogo_ptbr.py	/^    saidaEscolhida = input($/;"	kind:variable	line:27
+saidas	Python\Dictionaries\jogo_ptbr.py	/^saidas = {0: {"Q": 0},$/;"	kind:variable	line:13
+saidasDisponiveis	Python\Dictionaries\jogo_ptbr.py	/^    saidasDisponiveis = ", ".join(saidas[localiz])$/;"	kind:variable	line:23
+sample_test	Python\Date_and_time\tktable.py	/^def sample_test():$/;"	kind:function	line:560
+say_hello.py	Python\Desafios\say_hello.py	1;"	kind:file	line:1
+scan_dragto	Python\Date_and_time\tktable.py	/^    def scan_dragto(self, x, y):$/;"	kind:member	line:317
+scan_mark	Python\Date_and_time\tktable.py	/^    def scan_mark(self, x, y):$/;"	kind:member	line:314
+scope.py	Python\Scope\scope.py	1;"	kind:file	line:1
+score_hand	Python\Blackjack\blackjack.py	/^def score_hand(hand):$/;"	kind:function	line:43
+scratchpad.py	Python\FileIO\scratchpad.py	1;"	kind:file	line:1
+secondSpinner	Python\TKinter\start_tkinter3.py	/^secondSpinner = tkinter.Spinbox(timeFrame, width=3, from_=0, to=59)$/;"	kind:variable	line:63
+see	Python\Date_and_time\tktable.py	/^    def see(self, index):$/;"	kind:member	line:320
+segment	Python\Challenges\challenge2.py	/^segment = 1  # variável para armazenar o número de segmentos$/;"	kind:variable	line:33
+segment_lenght	Python\Challenges\challenge2.py	/^        segment_lenght = 0$/;"	kind:variable	line:41
+segment_lenght	Python\Challenges\challenge2.py	/^segment_lenght = 0  # E o comprimento de cada segmento$/;"	kind:variable	line:34
+selection_anchor	Python\Date_and_time\tktable.py	/^    def selection_anchor(self, index):$/;"	kind:member	line:323
+selection_clear	Python\Date_and_time\tktable.py	/^    def selection_clear(self, first, last=None):$/;"	kind:member	line:326
+selection_includes	Python\Date_and_time\tktable.py	/^    def selection_includes(self, index):$/;"	kind:member	line:329
+selection_set	Python\Date_and_time\tktable.py	/^    def selection_set(self, first, last=None):$/;"	kind:member	line:332
+sentencas	Python\Loops\Count_characters.py	/^sentencas = 0$/;"	kind:variable	line:11
+set	Python\Date_and_time\tktable.py	/^    def set(self, **kw):$/;"	kind:member	line:92
+set	Python\Date_and_time\tktable.py	/^    def set(self, rc=None, index=None, *args, **kwargs):$/;"	kind:member	line:335
+set_raise_amount	Python\OOP\employee.py	/^    def set_raise_amount(cls, amount):$/;"	kind:member	line:25
+sets.py	Python\Sets\sets.py	1;"	kind:file	line:1
+shelve	Python\Binary\Shelve\Challenge\cave_game.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Binary\Shelve\Challenge\cave_initialise.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Binary\Shelve\Challenge\shelve_challenge.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Binary\Shelve\motorcycle.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Binary\Shelve\recipies.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Binary\Shelve\shelve_ex.py	/^import shelve$/;"	kind:namespace	line:1
+shelve	Python\Modimport\systemmodulos.py	/^import shelve$/;"	kind:namespace	line:1
+shelve_challenge.py	Python\Binary\Shelve\Challenge\shelve_challenge.py	1;"	kind:file	line:1
+shelve_ex.py	Python\Binary\Shelve\shelve_ex.py	1;"	kind:file	line:1
+shelvechallenge.py	Python\Binary\Shelve\Challenge\shelvechallenge.py	1;"	kind:file	line:1
+shopping_list	Python\Loops\continue_break.py	/^shopping_list = ["milk", "pasta", "eggs", "spam", "bread", "rice"]$/;"	kind:variable	line:1
+show_balance	Python\OOP\accounts.py	/^    def show_balance(self):$/;"	kind:member	line:35
+show_transactions	Python\OOP\accounts.py	/^    def show_transactions(self):$/;"	kind:member	line:38
+shuffle	Python\Blackjack\blackjack.py	/^def shuffle():$/;"	kind:function	line:134
+shuttle_button	Python\Blackjack\blackjack.py	/^shuttle_button = tkinter.Button($/;"	kind:variable	line:195
+song.py	Python\OOP\song.py	1;"	kind:file	line:1
+spam.py	Python\Scope\spam.py	1;"	kind:file	line:1
+spam1	Python\Scope\spam.py	/^def spam1():$/;"	kind:function	line:1
+spam2	Python\Scope\spam.py	/^    def spam2():$/;"	kind:function	line:2
+spam3	Python\Scope\spam.py	/^        def spam3():$/;"	kind:function	line:3
+spans	Python\Date_and_time\tktable.py	/^    def spans(self, index=None, **kwargs):$/;"	kind:member	line:360
+sqrt	Python\Quadratic_equation\quadratic_equation.py	/^from math import sqrt$/;"	kind:namespace	line:1
+start_time	Python\Date_and_time\datecalc.py	/^start_time = my_timer()$/;"	kind:variable	line:42
+start_tkinter.py	Python\TKinter\start_tkinter.py	1;"	kind:file	line:1
+start_tkinter2.py	Python\TKinter\start_tkinter2.py	1;"	kind:file	line:1
+start_tkinter3.py	Python\TKinter\start_tkinter3.py	1;"	kind:file	line:1
+startingAtom	Python\Dictionaries\dictionaries4.py	/^startingAtom = int(input("Enter the initial atom: "))$/;"	kind:variable	line:23
+steph	Python\OOP\accounts.py	/^    steph = Account("Steph", 800)$/;"	kind:variable	line:62
+string	Python\Iterators\iterators-vid43.py	/^string = "1234567890"$/;"	kind:variable	line:1
+stringformatting.py	Python\String\stringformatting.py	1;"	kind:file	line:1
+switch_on	Python\OOP\oop.py	/^    def switch_on(self):$/;"	kind:member	line:10
+sys	Python\Date_and_time\tktable.py	/^    import sys$/;"	kind:namespace	line:617
+sys	Python\Dictionaries\jogo_ptbr.py	/^import sys$/;"	kind:namespace	line:3
+systemmodulos.py	Python\Modimport\systemmodulos.py	1;"	kind:file	line:1
+tabbedString	Python\Input\input.py	/^tabbedString = "1\\t2\\t3\\t4\\t5\\t6"$/;"	kind:variable	line:8
+tabs.py	Python\Flow_control\tabs.py	1;"	kind:file	line:1
+tag_cell	Python\Date_and_time\tktable.py	/^    def tag_cell(self, tagname, *args):$/;"	kind:member	line:375
+tag_cget	Python\Date_and_time\tktable.py	/^    def tag_cget(self, tagname, option):$/;"	kind:member	line:378
+tag_col	Python\Date_and_time\tktable.py	/^    def tag_col(self, tagname, *args):$/;"	kind:member	line:381
+tag_configure	Python\Date_and_time\tktable.py	/^    def tag_configure(self, tagname, option=None, **kwargs):$/;"	kind:member	line:384
+tag_delete	Python\Date_and_time\tktable.py	/^    def tag_delete(self, tagname):$/;"	kind:member	line:407
+tag_exists	Python\Date_and_time\tktable.py	/^    def tag_exists(self, tagname):$/;"	kind:member	line:410
+tag_includes	Python\Date_and_time\tktable.py	/^    def tag_includes(self, tagname, index):$/;"	kind:member	line:413
+tag_lower	Python\Date_and_time\tktable.py	/^    def tag_lower(self, tagname, belowthis=None):$/;"	kind:member	line:416
+tag_names	Python\Date_and_time\tktable.py	/^    def tag_names(self, pattern=None):$/;"	kind:member	line:419
+tag_raise	Python\Date_and_time\tktable.py	/^    def tag_raise(self, tagname, abovethis=None):$/;"	kind:member	line:422
+tag_row	Python\Date_and_time\tktable.py	/^    def tag_row(self, tagname, *args):$/;"	kind:member	line:425
+tamanho_das_sentencas	Python\Loops\Count_characters.py	/^tamanho_das_sentencas = len(paragrafo)$/;"	kind:variable	line:22
+test_cmd	Python\Date_and_time\tktable.py	/^    def test_cmd(event):$/;"	kind:function	line:566
+teste	Python\Dictionaries\dictionaries_test.py	/^teste = locations[loc]["exits"].copy()$/;"	kind:variable	line:22
+tim	Python\OOP\accounts.py	/^    tim = Account("Tim", 0)$/;"	kind:variable	line:50
+time	Python\Date_and_time\challenge_time.py	/^import time$/;"	kind:namespace	line:7
+time	Python\Date_and_time\datecalc.py	/^import time$/;"	kind:namespace	line:34
+timeFrame	Python\TKinter\start_tkinter3.py	/^timeFrame = tkinter.LabelFrame(mainWindow, text="Time")$/;"	kind:variable	line:58
+timesButton	Python\TKinter\challenge_tkinter.py	/^timesButton = tkinter.Button(mainWindow, text="*")$/;"	kind:variable	line:81
+times_to_say	Python\Desafios\say_hello.py	/^times_to_say = int(input("How many times do you want me to say 'Hello!'?: "))$/;"	kind:variable	line:3
+timezones.py	Python\Date_and_time\timezones.py	1;"	kind:file	line:1
+titration.py	Python\Titration\titration.py	1;"	kind:file	line:1
+titulado_vol	Python\Titration\titration.py	/^titulado_vol = 0.2500 # Em litros$/;"	kind:variable	line:9
+titulante_Ka	Python\Titration\titration.py	/^titulante_Ka = 5.56e-10$/;"	kind:variable	line:5
+titulante_conc	Python\Titration\titration.py	/^titulante_conc = 0.0001$/;"	kind:variable	line:3
+titulante_conc	Python\Titration\titration.py	/^titulante_conc = 0.0500 # Em litros$/;"	kind:variable	line:10
+titulante_vol	Python\Titration\titration.py	/^titulante_vol = np.linspace(0.001, 1, 200)$/;"	kind:variable	line:4
+tkinter	Python\Blackjack\blackjack.py	/^import tkinter$/;"	kind:namespace	line:2
+tkinter	Python\Date_and_time\tktable.py	/^    import Tkinter as tkinter$/;"	kind:namespace	line:40
+tkinter	Python\Date_and_time\tktable.py	/^    import tkinter$/;"	kind:namespace	line:38
+tkinter	Python\Functions\parabola.py	/^import tkinter$/;"	kind:namespace	line:37
+tkinter	Python\TKinter\challenge_tkinter.py	/^import tkinter$/;"	kind:namespace	line:26
+tkinter	Python\TKinter\challenge_tkinter_solved.py	/^import tkinter$/;"	kind:namespace	line:1
+tkinter	Python\TKinter\start_tkinter.py	/^import tkinter$/;"	kind:namespace	line:1
+tkinter	Python\TKinter\start_tkinter2.py	/^import tkinter$/;"	kind:namespace	line:1
+tkinter	Python\TKinter\start_tkinter3.py	/^import tkinter$/;"	kind:namespace	line:1
+tkinter	Python\TKinter\tkinter_test.py	/^import tkinter.filedialog$/;"	kind:namespace	line:2
+tkinter_test.py	Python\TKinter\tkinter_test.py	1;"	kind:file	line:1
+tktable.py	Python\Date_and_time\tktable.py	1;"	kind:file	line:1
+today	Python\Variables\variables.py	/^today = "Friday"$/;"	kind:variable	line:14
+tuples.py	Python\Tuples\tuples.py	1;"	kind:file	line:1
+tuples2.py	Python\Tuples\tuples2.py	1;"	kind:file	line:1
+turtledemo.py	Python\Modimport\turtledemo.py	1;"	kind:file	line:1
+type_of_calculation	Python\Equations\henderson-hesselbalch.py	/^type_of_calculation = input($/;"	kind:variable	line:3
+unset	Python\Date_and_time\tktable.py	/^    def unset(self, pattern=None):$/;"	kind:member	line:95
+validate	Python\Date_and_time\tktable.py	/^    def validate(self, index):$/;"	kind:member	line:428
+variables.py	Python\Variables\variables.py	1;"	kind:file	line:1
+veg	Python\Dictionaries\dictionaries5.py	/^veg = {"cabbage": "every child's favourite",$/;"	kind:variable	line:9
+version	Python\Date_and_time\tktable.py	/^    def version(self):$/;"	kind:member	line:435
+virgulas	Python\Loops\Count_characters.py	/^virgulas = 0$/;"	kind:variable	line:12
+vocabulary	Python\Binary\Shelve\Challenge\cave_game.py	/^vocabulary = shelve.open($/;"	kind:variable	line:5
+vocabulary	Python\Binary\Shelve\Challenge\cave_initialise.py	/^vocabulary = shelve.open($/;"	kind:variable	line:31
+vocabulary	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^vocabulary = {"QUIT": "Q",$/;"	kind:variable	line:34
+vocabulary	Python\Dictionaries\challenge.py	/^vocabulary = {"QUIT":  "Q",$/;"	kind:variable	line:24
+vocabulary	Python\Dictionaries\game_challenge2.py	/^vocabulary = {"QUIT": "Q",$/;"	kind:variable	line:30
+vocabulary	Python\Dictionaries\game_improved.py	/^vocabulary = {"QUIT":  "Q",$/;"	kind:variable	line:21
+vowels	Python\Sets\challenge_sets.py	/^vowels = set(("a", "e", "i", "o", "u"))  # Poderia ser frozenset$/;"	kind:variable	line:9
+wait_time	Python\Date_and_time\datecalc.py	/^wait_time = random.randint(1, 6)$/;"	kind:variable	line:40
+webbrowser	Python\Modimport\browser.py	/^import webbrowser$/;"	kind:namespace	line:1
+welcome	Python\Tuples\tuples.py	/^welcome = "Welcome to my nightmare", "Alice Cooper", 1975$/;"	kind:variable	line:7
+width	Python\Date_and_time\tktable.py	/^    def width(self, column=None, **kwargs):$/;"	kind:member	line:439
+window_cget	Python\Date_and_time\tktable.py	/^    def window_cget(self, index, option):$/;"	kind:member	line:453
+window_configure	Python\Date_and_time\tktable.py	/^    def window_configure(self, index, option=None, **kwargs):$/;"	kind:member	line:456
+window_delete	Python\Date_and_time\tktable.py	/^    def window_delete(self, *indexes):$/;"	kind:member	line:476
+window_move	Python\Date_and_time\tktable.py	/^    def window_move(self, index_from, index_to):$/;"	kind:member	line:479
+window_names	Python\Date_and_time\tktable.py	/^    def window_names(self, pattern=None):$/;"	kind:member	line:482
+withdraw	Python\OOP\accounts.py	/^    def withdraw(self, amount):$/;"	kind:member	line:26
+words	Python\Binary\Shelve\Challenge\cave_game.py	/^        words = direction.split()$/;"	kind:variable	line:25
+words	Python\Binary\Shelve\Challenge\shelvechallenge.py	/^        words = direction.split()$/;"	kind:variable	line:62
+words	Python\Dictionaries\challenge.py	/^        words = direction.split()$/;"	kind:variable	line:48
+words	Python\Dictionaries\game_challenge2.py	/^        words = direction.split()$/;"	kind:variable	line:58
+words	Python\Dictionaries\game_improved.py	/^        words = direction.split()$/;"	kind:variable	line:48
+writing.py	Python\FileIO\writing.py	1;"	kind:file	line:1
+x	Python\Assignment\augmented_assignment.py	/^x = 23$/;"	kind:variable	line:15
+x	Python\Binary\Pickle\pickling.py	/^    x = pickle.load(imelda_pickled)$/;"	kind:variable	line:51
+x	Python\Binary\binary.py	/^x = 2998302  # 02 2D C0 1E$/;"	kind:variable	line:19
+x	Python\OOP\jupyter.py	/^x = np.linspace(0, 20, 100)$/;"	kind:variable	line:6
+xview	Python\Date_and_time\tktable.py	/^    def xview(self, index=None):$/;"	kind:member	line:485
+xview_moveto	Python\Date_and_time\tktable.py	/^    def xview_moveto(self, fraction):$/;"	kind:member	line:496
+xview_scroll	Python\Date_and_time\tktable.py	/^    def xview_scroll(self, *L):$/;"	kind:member	line:502
+yearLabel	Python\TKinter\start_tkinter3.py	/^yearLabel = tkinter.Label(dateFrame, text="Year")$/;"	kind:variable	line:77
+yearSpin	Python\TKinter\start_tkinter3.py	/^yearSpin = tkinter.Spinbox(dateFrame, width=5, from_=2000, to=2099)$/;"	kind:variable	line:85
+yview	Python\Date_and_time\tktable.py	/^    def yview(self, index=None):$/;"	kind:member	line:520
+yview_moveto	Python\Date_and_time\tktable.py	/^    def yview_moveto(self, fraction):$/;"	kind:member	line:534
+yview_scroll	Python\Date_and_time\tktable.py	/^    def yview_scroll(self, *L):$/;"	kind:member	line:540
