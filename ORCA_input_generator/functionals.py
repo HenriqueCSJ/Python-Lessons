@@ -20,8 +20,11 @@ dens_functionals = {
         "PWP": "Perdew-Wang '91 exchange and Perdew '86 correlation"},
 
     "Hybrid functionals": {
-        "B1LYP": "The one - parameter hybrid functional with Becke '88 exchange and Lee - Yang - Parr correlation(25 % HF exchange)",
-        "B3LYP and B3LYP/G": "The popular B3LYP functional (20% HF exchange) as defined in the TurboMole program system and the Gaussian program system, respectively",
+        "B1LYP": "The one - parameter hybrid functional with Becke '88 "
+        "exchange and Lee - Yang - Parr correlation(25 % HF exchange)",
+        "B3LYP and B3LYP/G": "The popular B3LYP functional (20% HF exchange) "
+        "as defined in the TurboMole program system and the Gaussian program "
+        "system, respectively",
         "O3LYP": "The Handy hybrid functional",
         "X3LYP": "The Xu and Goddard hybrid functional",
         "B1P": "The one-parameter hybrid version of BP86",
@@ -37,7 +40,8 @@ dens_functionals = {
     "Meta-GGA and hybrid meta-GGA functionals": {
         "TPSS": "The TPSS meta-GGA functional",
         "TPSSh": "The hybrid version of TPSS (10% HF exchange)",
-        "TPSS0": "A 25% exchange version of TPSSh that yields improved energetics compared to TPSSh but is otherwise not well tested",
+        "TPSS0": "A 25% exchange version of TPSSh that yields improved "
+        "energetics compared to TPSSh but is otherwise not well tested",
         "M06L": "The Minnesota M06-L meta-GGA functional",
         "M06": "The M06 hybrid meta-GGA (27% HF exchange)",
         "M062X": "The M06-2X version with 54% HF exchange"},
@@ -52,11 +56,15 @@ dens_functionals = {
     "Perturbatively corrected double-hybrid functionals": {
         "B2PLYP": "The new mixture of MP2 and DFT from Grimme",
         "RI-B2PLYP": "B2PLYP with RI applied to the MP2 part",
-        "B2PLYP-D": "B2PLYP with Grimme's empirical dispersion correction from 2006 (D2)",
-        "B2PLYP-D3": "B2PLYP with Grimme's atom-pairwise dispersion correction from 2010 and Becke-Johnson damping (D3BJ)",
+        "B2PLYP-D": "B2PLYP with Grimme's empirical dispersion correction "
+        "from 2006 (D2)",
+        "B2PLYP-D3": "B2PLYP with Grimme's atom-pairwise dispersion "
+        "correction from 2010 and Becke-Johnson damping (D3BJ)",
         "RI-B2PLYP RIJONX": "The same but with RI also applied in the SCF part",
-        "mPW2PLYP": "mPW exchange instead of B88 (also with RI and RIJONX as above for B2PLYP). mPW is supposed to improve on weak interactions",
-        "mPW2PLYP-D": "mPW2PLYP with Grimme's empirical dispersion correction from 2006 (D2)",
+        "mPW2PLYP": "mPW exchange instead of B88 (also with RI and RIJONX as "
+        "above for B2PLYP). mPW is supposed to improve on weak interactions",
+        "mPW2PLYP-D": "mPW2PLYP with Grimme's empirical dispersion correction "
+        "from 2006 (D2)",
         "B2GP-PLYP": "Gershom Martin's 'general purpose' reparameterization",
         "B2K-PLYP": "Gershom Martin's 'kinetic' reparameterization",
         "B2T-PLYP": "Gershom Martin's 'thermochemistry' reparameterization",
@@ -64,7 +72,8 @@ dens_functionals = {
         "RI-PWPB95": "PWPB95 with RI for the MP2 part"},
 
     "Dispersion corrections": {
-        "D3BJ": "Atom-pairwise dispersion correction to the DFT energy with Becke-Johnson damping (recommended)",
+        "D3BJ": "Atom-pairwise dispersion correction to the DFT energy with "
+        "Becke-Johnson damping (recommended)",
         "D3ZERO": "Atom-pairwise dispersion correction with zero damping",
         "D2": "Empirical dispersion correction from 2006 (not recommended)"}}
 
