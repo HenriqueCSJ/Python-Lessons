@@ -1,0 +1,81 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Account	.\accounts.py	/^class Account:$/;"	c
+Developer	.\inheritance.py	/^class Developer(Employee):$/;"	c
+Employee	.\decorators.py	/^class Employee:$/;"	c
+Employee	.\employee.py	/^class Employee:$/;"	c
+Employee	.\inheritance.py	/^class Employee:$/;"	c
+Employee	.\magic_methods.py	/^class Employee:$/;"	c
+Fran	.\employee.py	/^Fran = Employee("Franciele", "Bach", 500000)$/;"	v
+Henrique	.\employee.py	/^Henrique = Employee("Henrique", "Castro", 150000)$/;"	v
+Kettle	.\oop.py	/^class Kettle(object):$/;"	c
+Maicon	.\employee.py	/^Maicon = Employee("Maicon", "Silva", 240000)$/;"	v
+Manager	.\inheritance.py	/^class Manager(Employee):$/;"	c
+Mari	.\employee.py	/^Mari = Employee("Mariane", "Bach", 250000)$/;"	v
+Song	.\song.py	/^class Song:$/;"	c
+Tati	.\employee.py	/^Tati = Employee("Tatiane", "Reis", 300000)$/;"	v
+__add__	.\magic_methods.py	/^    def __add__(self, other):$/;"	m	class:Employee	file:
+__init__	.\accounts.py	/^    def __init__(self, name, balance):$/;"	m	class:Account
+__init__	.\decorators.py	/^    def __init__(self, first, last):$/;"	m	class:Employee
+__init__	.\employee.py	/^    def __init__(self, first, last, pay):$/;"	m	class:Employee
+__init__	.\inheritance.py	/^    def __init__(self, first, last, pay):$/;"	m	class:Employee
+__init__	.\inheritance.py	/^    def __init__(self, first, last, pay, employees=None):$/;"	m	class:Manager
+__init__	.\inheritance.py	/^    def __init__(self, first, last, pay, prog_lang):$/;"	m	class:Developer
+__init__	.\magic_methods.py	/^    def __init__(self, first, last, pay):$/;"	m	class:Employee
+__init__	.\oop.py	/^    def __init__(self, make, price):$/;"	m	class:Kettle
+__init__	.\song.py	/^    def __init__(self, title, artist, duration=0):$/;"	m	class:Song
+__len__	.\magic_methods.py	/^    def __len__(self):$/;"	m	class:Employee	file:
+__repr__	.\magic_methods.py	/^    def __repr__(self):$/;"	m	class:Employee	file:
+__str__	.\magic_methods.py	/^    def __str__(self):$/;"	m	class:Employee	file:
+_current_time	.\accounts.py	/^    def _current_time():$/;"	m	class:Account
+a_string	.\demo.py	/^a_string = "Tis is\\ta string \\for split\\t\\tand tabbed"$/;"	v
+add_empl	.\inheritance.py	/^    def add_empl(self, emp):$/;"	m	class:Manager
+apply_raise	.\employee.py	/^    def apply_raise(self):$/;"	m	class:Employee
+apply_raise	.\inheritance.py	/^    def apply_raise(self):$/;"	m	class:Employee
+apply_raise	.\magic_methods.py	/^    def apply_raise(self):$/;"	m	class:Employee
+b_string	.\demo.py	/^b_string = "This is" + chr(10) + "a string split" + chr(9) + chr(9) + "and tabbed"$/;"	v
+datetime	.\accounts.py	/^import datetime$/;"	i
+datetime	.\employee.py	/^import datetime$/;"	i
+deposit	.\accounts.py	/^    def deposit(self, amount):$/;"	m	class:Account
+dev_1	.\inheritance.py	/^dev_1 = Developer('Corey', 'Schafer', 50000, "Python")$/;"	v
+dev_2	.\inheritance.py	/^dev_2 = Developer('Test', 'Employee', 60000, "Java")$/;"	v
+email	.\decorators.py	/^    def email(self):$/;"	m	class:Employee
+emp_1	.\decorators.py	/^emp_1 = Employee('John', 'Smith')$/;"	v
+emp_1	.\magic_methods.py	/^emp_1 = Employee('Corey', 'Schafer', 50000)$/;"	v
+emp_2	.\magic_methods.py	/^emp_2 = Employee('Test', 'Employee', 60000)$/;"	v
+emp_str_1	.\employee.py	/^emp_str_1 = 'John-Doe-70000'$/;"	v
+emp_str_2	.\employee.py	/^emp_str_2 = 'Steve-Smith-30000'$/;"	v
+emp_str_3	.\employee.py	/^emp_str_3 = 'Jane-Doe-90000'$/;"	v
+from_string	.\employee.py	/^    def from_string(cls, emp_str):$/;"	m	class:Employee
+fullname	.\decorators.py	/^    def fullname(self):$/;"	m	class:Employee
+fullname	.\decorators.py	/^    def fullname(self, name):$/;"	m	class:Employee
+fullname	.\employee.py	/^    def fullname(self):$/;"	m	class:Employee
+fullname	.\inheritance.py	/^    def fullname(self):$/;"	m	class:Employee
+fullname	.\magic_methods.py	/^    def fullname(self):$/;"	m	class:Employee
+hamilton	.\oop.py	/^hamilton = Kettle("Hamilton", 14.55)$/;"	v
+is_workday	.\employee.py	/^    def is_workday(day):$/;"	m	class:Employee
+kenwood	.\oop.py	/^kenwood = Kettle("Kenwood", 8.99)$/;"	v
+mgr_1	.\inheritance.py	/^mgr_1 = Manager("Sue", " Smith", 90000, [dev_1])$/;"	v
+my_date	.\employee.py	/^my_date = datetime.date(2016, 7, 10)$/;"	v
+new_empl_1	.\employee.py	/^new_empl_1 = Employee.from_string(emp_str_1)$/;"	v
+num_of_employees	.\employee.py	/^    num_of_employees = 0$/;"	v	class:Employee
+power_source	.\oop.py	/^    power_source = "electricity"$/;"	v	class:Kettle
+print_emps	.\inheritance.py	/^    def print_emps(self):$/;"	m	class:Manager
+pytz	.\accounts.py	/^import pytz$/;"	i
+raise_amount	.\employee.py	/^    raise_amount = 1.04$/;"	v	class:Employee
+raise_amt	.\inheritance.py	/^    raise_amt = 1.04$/;"	v	class:Employee
+raise_amt	.\inheritance.py	/^    raise_amt = 1.10$/;"	v	class:Developer
+raise_amt	.\magic_methods.py	/^    raise_amt = 1.04$/;"	v	class:Employee
+raw_string	.\demo.py	/^raw_string = r"Tis is\\ta string split\\t\\tand tabbed"$/;"	v
+remove_emp	.\inheritance.py	/^    def remove_emp(self, emp):$/;"	m	class:Manager
+set_raise_amount	.\employee.py	/^    def set_raise_amount(cls, amount):$/;"	m	class:Employee
+show_balance	.\accounts.py	/^    def show_balance(self):$/;"	m	class:Account
+show_transactions	.\accounts.py	/^    def show_transactions(self):$/;"	m	class:Account
+steph	.\accounts.py	/^    steph = Account("Steph", 800)$/;"	v	class:Account
+switch_on	.\oop.py	/^    def switch_on(self):$/;"	m	class:Kettle
+tim	.\accounts.py	/^    tim = Account("Tim", 0)$/;"	v	class:Account
+withdraw	.\accounts.py	/^    def withdraw(self, amount):$/;"	m	class:Account
