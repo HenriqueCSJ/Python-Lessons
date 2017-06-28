@@ -125,6 +125,7 @@ b	Python\Variables\variables.py	/^b = 3$/;"	kind:variable	line:2
 b_string	Python\OOP\demo.py	/^b_string = "This is" + chr(10) + "a string split" + chr(9) + chr(9) + "and tabbed"$/;"	kind:variable	line:7
 backstring	Python\Ranges\ranges-vid44.py	/^backstring = "egaugnal lufrewop yrev a si nohtyP"$/;"	kind:variable	line:67
 bad	Python\Tuples\tuples.py	/^bad = "Bad Company", "Bad Company", 1974$/;"	kind:variable	line:8
+basis_sets	Python\ORCA_input_generator\basis_sets.py	/^basis_sets = {$/;"	kind:variable	line:1
 basis_sets.py	Python\ORCA_input_generator\basis_sets.py	1;"	kind:file	line:1
 bbox	Python\Date_and_time\tktable.py	/^    def bbox(self, first, last=None):$/;"	kind:member	line:173
 bike	Python\Dictionaries\motorbike.py	/^bike = {"make": "Honda", "model": "250 Dream", "Colour": "Red", "Engine_size": 250}$/;"	kind:variable	line:1
