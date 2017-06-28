@@ -47,8 +47,8 @@ dens_functionals = {
         "M062X": "The M06-2X version with 54% HF exchange"},
 
     "Range-separated hybrid functionals": {
-        "wB97": "Head-Gordon's fully variable DF ωB97",
-        "wB97X": "Head-Gordon's DF ωB97X with minimal Fock exchange",
+        "wB97": "Head-Gordon's fully variable DF wB97",
+        "wB97X": "Head-Gordon's DF wB97X with minimal Fock exchange",
         "wB97X-D3": "Chai's refit incl. D3 correction",
         "CAM-B3LYP": "Handy's fit",
         "LC-BLYP": "Hirao's original application"},
@@ -77,4 +77,6 @@ dens_functionals = {
         "D3ZERO": "Atom-pairwise dispersion correction with zero damping",
         "D2": "Empirical dispersion correction from 2006 (not recommended)"}}
 
-print(dens_functionals.values())
+# for i in dens_functionals:
+#     A = dens_functionals[i]
+#     print(dens_dens_functionals[i][A])
