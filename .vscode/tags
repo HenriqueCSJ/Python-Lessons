@@ -5,6 +5,7 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 A	Python\Quadratic_equation\quadratic_equation.py	/^A = int(input("Enter your A index and press enter: "))$/;"	kind:variable	line:8
+ANO	Python\ORCA_input_generator\basis_sets.py	/^ANO = "Atomic Natural Orbital basis sets"$/;"	kind:variable	line:14
 Account	Python\OOP\accounts.py	/^class Account:$/;"	kind:class	line:5
 Album	Python\OOP\song.py	/^class Album:$/;"	kind:class	line:15
 App	Python\Date_and_time\timezones.py	/^class App(Frame):$/;"	kind:class	line:29
@@ -125,7 +126,7 @@ b	Python\Variables\variables.py	/^b = 3$/;"	kind:variable	line:2
 b_string	Python\OOP\demo.py	/^b_string = "This is" + chr(10) + "a string split" + chr(9) + chr(9) + "and tabbed"$/;"	kind:variable	line:7
 backstring	Python\Ranges\ranges-vid44.py	/^backstring = "egaugnal lufrewop yrev a si nohtyP"$/;"	kind:variable	line:67
 bad	Python\Tuples\tuples.py	/^bad = "Bad Company", "Bad Company", 1974$/;"	kind:variable	line:8
-basis_sets	Python\ORCA_input_generator\basis_sets.py	/^basis_sets = {$/;"	kind:variable	line:1
+basis_sets	Python\ORCA_input_generator\basis_sets.py	/^basis_sets = {$/;"	kind:variable	line:17
 basis_sets.py	Python\ORCA_input_generator\basis_sets.py	1;"	kind:file	line:1
 bbox	Python\Date_and_time\tktable.py	/^    def bbox(self, first, last=None):$/;"	kind:member	line:173
 bike	Python\Dictionaries\motorbike.py	/^bike = {"make": "Honda", "model": "250 Dream", "Colour": "Red", "Engine_size": 250}$/;"	kind:variable	line:1
@@ -155,6 +156,7 @@ card_frame	Python\Blackjack\blackjack.py	/^card_frame = tkinter.Frame(mainWindow
 cards	Python\Blackjack\blackjack.py	/^cards = []$/;"	kind:variable	line:200
 cave_game.py	Python\Binary\Shelve\Challenge\cave_game.py	1;"	kind:file	line:1
 cave_initialise.py	Python\Binary\Shelve\Challenge\cave_initialise.py	1;"	kind:file	line:1
+cc	Python\ORCA_input_generator\basis_sets.py	/^cc = "Correlation-consistent basis sets"$/;"	kind:variable	line:10
 ceButton	Python\TKinter\challenge_tkinter.py	/^ceButton = tkinter.Button(mainWindow, text="CE")$/;"	kind:variable	line:54
 center_text	Python\Functions\functions.py	/^def center_text(*args, sep=" "):$/;"	kind:function	line:8
 challenge-vid47.py	Python\Tuples\challenge-vid47.py	1;"	kind:file	line:1
@@ -202,6 +204,8 @@ dealer_hand	Python\Blackjack\blackjack.py	/^dealer_hand = []$/;"	kind:variable	l
 dealer_score_label	Python\Blackjack\blackjack.py	/^dealer_score_label = tkinter.IntVar()$/;"	kind:variable	line:157
 deck	Python\Blackjack\blackjack.py	/^deck = list(cards) + list(cards) + list(cards)$/;"	kind:variable	line:204
 decorators.py	Python\OOP\decorators.py	1;"	kind:file	line:1
+def1	Python\ORCA_input_generator\basis_sets.py	/^def1 = "Older ('def') Ahlrichs basis sets"$/;"	kind:variable	line:3
+def2	Python\ORCA_input_generator\basis_sets.py	/^def2 = "The def2 basis sets of the Karlsruhe group"$/;"	kind:variable	line:2
 delete_active	Python\Date_and_time\tktable.py	/^    def delete_active(self, index1, index2=None):$/;"	kind:member	line:219
 delete_cols	Python\Date_and_time\tktable.py	/^    def delete_cols(self, index, count=None, switches=None):$/;"	kind:member	line:225
 delete_rows	Python\Date_and_time\tktable.py	/^    def delete_rows(self, index, count=None, switches=None):$/;"	kind:member	line:229
@@ -215,6 +219,7 @@ dictionaries3.py	Python\Dictionaries\dictionaries3.py	1;"	kind:file	line:1
 dictionaries4.py	Python\Dictionaries\dictionaries4.py	1;"	kind:file	line:1
 dictionaries5.py	Python\Dictionaries\dictionaries5.py	1;"	kind:file	line:1
 dictionaries_test.py	Python\Dictionaries\dictionaries_test.py	1;"	kind:file	line:1
+dif_def2	Python\ORCA_input_generator\basis_sets.py	/^dif_def2 = "Diffuse def2 basis sets"$/;"	kind:variable	line:4
 dir_list	Python\Scope\files_and_system.py	/^    def dir_list(d):$/;"	kind:function	line:6
 direction	Python\Binary\Shelve\Challenge\cave_game.py	/^                direction = vocabulary[word]$/;"	kind:variable	line:28
 direction	Python\Binary\Shelve\Challenge\cave_game.py	/^    direction = input("Available exits are " + availableExits).upper()$/;"	kind:variable	line:20
@@ -230,6 +235,7 @@ direction	Python\Dictionaries\game_improved.py	/^    direction = input("Availabl
 divisionButton	Python\TKinter\challenge_tkinter.py	/^divisionButton = tkinter.Button(mainWindow, text="\/")$/;"	kind:variable	line:90
 draw_axes	Python\Functions\parabola.py	/^def draw_axes(page):$/;"	kind:function	line:62
 e	Python\Binary\binary.py	/^    e = int.from_bytes(bin_file.read(2), "big")$/;"	kind:variable	line:29
+ecp_cc	Python\ORCA_input_generator\basis_sets.py	/^ecp_cc = "ECP-based versions of correlation-consistent basis sets"$/;"	kind:variable	line:12
 email	Python\OOP\decorators.py	/^    def email(self):$/;"	kind:member	line:9
 emp_1	Python\OOP\decorators.py	/^emp_1 = Employee('John', 'Smith')$/;"	kind:variable	line:29
 emp_1	Python\OOP\magic_methods.py	/^emp_1 = Employee('Corey', 'Schafer', 50000)$/;"	kind:variable	line:31
@@ -250,6 +256,7 @@ exits	Python\Dictionaries\game_improved.py	/^exits = {0: {"Q": 0},$/;"	kind:vari
 exits	Python\Dictionaries\game_test.py	/^exits = [{"Q", 0},$/;"	kind:variable	line:8
 extending_for_loops.py	Python\Loops\extending_for_loops.py	1;"	kind:file	line:1
 f	Python\Binary\binary.py	/^    f = int.from_bytes(bin_file.read(2), "big")$/;"	kind:variable	line:31
+f12	Python\ORCA_input_generator\basis_sets.py	/^f12 = "F12 and F12-CABS basis sets"$/;"	kind:variable	line:13
 f_tuple	Python\Dictionaries\dictionaries3.py	/^f_tuple = tuple(fruit.items())$/;"	kind:variable	line:10
 fact	Python\Scope\scope.py	/^def fact(n):$/;"	kind:function	line:1
 factorial	Python\Scope\scope.py	/^def factorial(n):$/;"	kind:function	line:12
@@ -318,6 +325,7 @@ insert_rows	Python\Date_and_time\tktable.py	/^    def insert_rows(self, index, c
 ipAddress	Python\Challenges\challenge2.py	/^ipAddress = input("Please, enter you IP address: ")$/;"	kind:variable	line:29
 is_workday	Python\OOP\employee.py	/^    def is_workday(day):$/;"	kind:member	line:34
 iterators-vid43.py	Python\Iterators\iterators-vid43.py	1;"	kind:file	line:1
+jensen	Python\ORCA_input_generator\basis_sets.py	/^jensen = "Jensen basis sets"$/;"	kind:variable	line:8
 jogo_ptbr.py	Python\Dictionaries\jogo_ptbr.py	1;"	kind:file	line:1
 joins.py	Python\Dictionaries\joins.py	1;"	kind:file	line:1
 jupyter.py	Python\OOP\jupyter.py	1;"	kind:file	line:1
@@ -384,6 +392,7 @@ menu	Python\Lists\lists-vid42.py	/^menu = []$/;"	kind:variable	line:1
 mgr_1	Python\OOP\inheritance.py	/^mgr_1 = Manager("Sue", " Smith", 90000, [dev_1])$/;"	kind:variable	line:50
 minusButton	Python\TKinter\challenge_tkinter.py	/^minusButton = tkinter.Button(mainWindow, text="-")$/;"	kind:variable	line:71
 minuteSpinner	Python\TKinter\start_tkinter3.py	/^minuteSpinner = tkinter.Spinbox(timeFrame, width=3, from_=0, to=59)$/;"	kind:variable	line:62
+misc_bs	Python\ORCA_input_generator\basis_sets.py	/^misc_bs = "Miscellaneous and specialized basis sets"$/;"	kind:variable	line:15
 monthLabel	Python\TKinter\start_tkinter3.py	/^monthLabel = tkinter.Label(dateFrame, text="Month")$/;"	kind:variable	line:76
 monthSpin	Python\TKinter\start_tkinter3.py	/^monthSpin = tkinter.Spinbox(dateFrame, width=5, values=[$/;"	kind:variable	line:83
 motorbike.py	Python\Dictionaries\motorbike.py	1;"	kind:file	line:1
@@ -453,6 +462,7 @@ plot	Python\Functions\parabola.py	/^def plot(page, x, y):$/;"	kind:function	line
 plt	Python\Matplotlib\matplot.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
 plt	Python\OOP\jupyter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
 plusButton	Python\TKinter\challenge_tkinter.py	/^plusButton = tkinter.Button(mainWindow, text="+")$/;"	kind:variable	line:61
+pople	Python\ORCA_input_generator\basis_sets.py	/^pople = "Pople-style basis sets"$/;"	kind:variable	line:1
 power_source	Python\OOP\oop.py	/^    power_source = "electricity"$/;"	kind:variable	line:3
 print_emps	Python\OOP\inheritance.py	/^    def print_emps(self):$/;"	kind:member	line:43
 python_food	Python\Functions\functions.py	/^def python_food():$/;"	kind:function	line:1
@@ -476,6 +486,8 @@ raw_string	Python\OOP\demo.py	/^raw_string = r"Tis is\\ta string split\\t\\tand 
 rbValue	Python\TKinter\start_tkinter3.py	/^rbValue = tkinter.IntVar()$/;"	kind:variable	line:38
 readCSV	Python\TKinter\tkinter_test.py	/^    def readCSV(self):$/;"	kind:member	line:20
 recipies.py	Python\Binary\Shelve\recipies.py	1;"	kind:file	line:1
+rel_cc	Python\ORCA_input_generator\basis_sets.py	/^rel_cc = "DKH versions of correlation-consistent basis sets"$/;"	kind:variable	line:11
+rel_def2	Python\ORCA_input_generator\basis_sets.py	/^rel_def2 = "Relativistically recontracted Karlsruhe basis sets"$/;"	kind:variable	line:5
 remove_emp	Python\OOP\inheritance.py	/^    def remove_emp(self, emp):$/;"	kind:member	line:39
 reread	Python\Date_and_time\tktable.py	/^    def reread(self):$/;"	kind:member	line:308
 result	Python\Blackjack\blackjack.py	/^result = tkinter.Label(mainWindow, textvariable=result_text)$/;"	kind:variable	line:150
@@ -494,6 +506,9 @@ saidaEscolhida	Python\Dictionaries\jogo_ptbr.py	/^    saidaEscolhida = input($/;
 saidas	Python\Dictionaries\jogo_ptbr.py	/^saidas = {0: {"Q": 0},$/;"	kind:variable	line:13
 saidasDisponiveis	Python\Dictionaries\jogo_ptbr.py	/^    saidasDisponiveis = ", ".join(saidas[localiz])$/;"	kind:variable	line:23
 sample_test	Python\Date_and_time\tktable.py	/^def sample_test():$/;"	kind:function	line:560
+sapporo	Python\ORCA_input_generator\basis_sets.py	/^sapporo = "Sapporo basis bets"$/;"	kind:variable	line:9
+sarc	Python\ORCA_input_generator\basis_sets.py	/^sarc = "SARC (Segmented all-electron relativistically contracted) basis sets"$/;"	kind:variable	line:6
+sarc2	Python\ORCA_input_generator\basis_sets.py	/^sarc2 = "SARC2 basis sets for the lanthanides"$/;"	kind:variable	line:7
 say_hello.py	Python\Desafios\say_hello.py	1;"	kind:file	line:1
 scan_dragto	Python\Date_and_time\tktable.py	/^    def scan_dragto(self, x, y):$/;"	kind:member	line:317
 scan_mark	Python\Date_and_time\tktable.py	/^    def scan_mark(self, x, y):$/;"	kind:member	line:314
