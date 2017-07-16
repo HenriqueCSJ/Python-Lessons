@@ -11,11 +11,11 @@ def load_images(card_images):
     else:
         extension = "ppm"
 
-    # fur each suit retrieve the image for the cards
+    # for each suit retrieve the image for the cards
     for suit in suits:
         # firts the number cards from 1 to 10
         for card in range(1, 11):
-            name = "/Users/henri/Documents/Python/Blackjack/cards/{}_{}.{}".format(
+            name = "/Users/henri/Documents/Projects/Python-Lessons/Blackjack/cards/{}_{}.{}".format(
                 str(card), suit, extension)
             image = tkinter.PhotoImage(file=name)
             card_images.append((card, image,))
@@ -23,7 +23,7 @@ def load_images(card_images):
         # Next the face cards
 
         for card in face_cards:
-            name = "/Users/henri/Documents/Python/Blackjack/cards/{}_{}.{}".format(
+            name = "/Users/henri/Documents/Projects/Python-Lessons/Blackjack/cards/{}_{}.{}".format(
                 str(card), suit, extension)
             image = tkinter.PhotoImage(file=name)
             card_images.append((10, image,))
