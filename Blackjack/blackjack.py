@@ -140,6 +140,7 @@ def play():
 
     mainWindow.mainloop()
 
+
 mainWindow = tkinter.Tk()
 # Set the screen and the frames for the dealer and the player
 mainWindow.title("Black Jack")
