@@ -38,7 +38,7 @@
 # for line in lines[::-1]:
 #     print(line, end="")
 
-with open("/Users/henri/Documents/Python/FileIO/sample.txt", 'r') as jabber:
+with open("C:/Users/henri/Documents/Projects/Python-Lessons/FileIO/sample.txt", 'r') as jabber:
     lines = jabber.read()
 print(lines)
 
