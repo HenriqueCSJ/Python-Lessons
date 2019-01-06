@@ -1,0 +1,971 @@
+None,Month,Day,Time,Year,Condition,Temp_C
+0,October,21,06:01 AM,2018,Rain Shower,15
+1,August,5,09:18 PM,2017,Rain Shower,16
+2,August,27,04:41 AM,2018,Rain Shower,16
+3,July,11,08:27 PM,2018,Rain Shower,16
+4,July,29,03:42 AM,2016,Showers,16
+5,June,21,07:01 AM,2016,Showers,16
+6,September,22,06:03 AM,2016,Few Showers,17
+7,August,21,01:41 PM,2017,Light Rain,17
+8,August,5,04:08 AM,2017,Rain Shower,17
+9,August,6,10:58 PM,2018,Rain Shower,17
+10,August,7,01:13 AM,2018,Rain Shower,17
+11,August,7,03:38 AM,2018,Rain Shower,17
+12,August,26,07:46 PM,2018,Rain Shower,17
+13,August,26,10:01 PM,2018,Rain Shower,17
+14,May,12,03:03 AM,2017,Rain Shower,17
+15,September,5,09:52 PM,2018,Rain Shower,17
+16,April,29,07:02 AM,2016,Showers,17
+17,November,19,04:46 AM,2016,Showers,17
+18,August,18,01:22 AM,2017,Light Rain,18
+19,June,15,04:41 AM,2018,Light Rain,18
+20,May,11,09:58 PM,2017,Light Rain,18
+21,August,1,10:03 PM,2018,Rain,18
+22,August,2,12:33 AM,2018,Rain,18
+23,August,21,05:46 AM,2017,Rain,18
+24,November,21,02:48 AM,2018,Rain,18
+25,August,2,09:37 PM,2018,Rain Shower,18
+26,August,4,02:52 AM,2018,Rain Shower,18
+27,August,5,06:53 PM,2017,Rain Shower,18
+28,August,20,11:51 PM,2017,Rain Shower,18
+29,August,26,05:27 PM,2018,Rain Shower,18
+30,July,2,05:15 PM,2017,Rain Shower,18
+31,June,17,06:39 AM,2018,Rain Shower,18
+32,May,23,09:34 PM,2018,Rain Shower,18
+33,September,1,02:39 AM,2017,Rain Shower,18
+34,June,7,07:03 AM,2016,Showers,18
+35,June,7,08:13 PM,2016,Showers,18
+36,May,13,07:22 PM,2016,Showers,18
+37,May,15,02:50 AM,2016,Showers,18
+38,September,30,04:26 AM,2016,Few Showers,19
+39,April,23,04:46 AM,2017,Light Rain,19
+40,August,6,06:58 AM,2018,Light Rain,19
+41,July,4,05:10 PM,2017,Light Rain,19
+42,July,31,07:48 PM,2018,Light Rain,19
+43,June,18,09:38 PM,2018,Light Rain,19
+44,May,18,01:43 AM,2017,Light Rain,19
+45,May,19,03:44 AM,2017,Light Rain,19
+46,October,5,10:07 PM,2015,Light Rain,19
+47,October,19,06:34 AM,2015,Light Rain,19
+48,April,28,10:02 AM,2017,Rain,19
+49,August,1,05:03 PM,2018,Rain,19
+50,August,18,04:57 PM,2017,Rain,19
+51,July,25,02:32 AM,2018,Rain,19
+52,June,3,10:52 PM,2016,Rain,19
+53,June,5,06:16 PM,2018,Rain,19
+54,June,7,06:47 AM,2018,Rain,19
+55,June,20,10:41 PM,2017,Rain,19
+56,November,9,03:03 PM,2017,Rain,19
+57,September,1,02:02 AM,2016,Rain,19
+58,September,27,05:20 PM,2017,Rain,19
+59,April,1,11:47 PM,2017,Rain Shower,19
+60,August,3,11:32 PM,2018,Rain Shower,19
+61,August,4,07:43 PM,2017,Rain Shower,19
+62,August,10,10:48 PM,2017,Rain Shower,19
+63,August,16,05:42 PM,2017,Rain Shower,19
+64,August,16,09:35 PM,2018,Rain Shower,19
+65,August,17,06:01 PM,2018,Rain Shower,19
+66,June,4,10:16 AM,2018,Rain Shower,19
+67,June,15,05:54 PM,2018,Rain Shower,19
+68,June,16,10:49 PM,2018,Rain Shower,19
+69,May,7,11:07 PM,2017,Rain Shower,19
+70,May,25,10:46 PM,2018,Rain Shower,19
+71,November,20,08:03 PM,2018,Rain Shower,19
+72,October,6,08:25 PM,2018,Rain Shower,19
+73,October,28,11:22 PM,2018,Rain Shower,19
+74,April,29,08:07 PM,2016,Showers,19
+75,June,2,04:51 AM,2016,Showers,19
+76,June,4,06:50 AM,2016,Showers,19
+77,October,5,02:27 AM,2016,Showers,19
+78,September,1,08:02 AM,2016,Showers,19
+79,December,1,12:26 AM,2016,Few Showers,20
+80,September,8,12:31 AM,2016,Few Showers,20
+81,August,19,07:51 PM,2017,Light Rain,20
+82,August,26,06:22 AM,2018,Light Rain,20
+83,January,19,07:34 AM,2016,Light Rain,20
+84,July,22,04:28 AM,2018,Light Rain,20
+85,November,21,12:38 PM,2015,Light Rain,20
+86,October,5,06:56 AM,2015,Light Rain,20
+87,October,5,07:53 PM,2015,Light Rain,20
+88,October,6,06:10 PM,2018,Light Rain,20
+89,October,18,06:53 PM,2015,Light Rain,20
+90,October,18,08:23 AM,2015,Light Rain,20
+91,August,6,11:18 AM,2018,Rain,20
+92,February,6,03:05 AM,2018,Rain,20
+93,September,14,07:49 PM,2018,Rain,20
+94,August,7,03:58 PM,2018,Rain Shower,20
+95,August,15,06:49 PM,2017,Rain Shower,20
+96,August,27,02:41 PM,2018,Rain Shower,20
+97,August,31,06:39 PM,2017,Rain Shower,20
+98,July,21,10:28 PM,2018,Rain Shower,20
+99,July,24,09:22 PM,2018,Rain Shower,20
+100,June,4,04:16 PM,2018,Rain Shower,20
+101,June,8,12:17 AM,2018,Rain Shower,20
+102,November,1,04:36 AM,2017,Rain Shower,20
+103,October,29,09:21 AM,2018,Rain Shower,20
+104,June,2,11:29 PM,2016,Showers,20
+105,October,2,06:07 PM,2016,Few Showers,21
+106,October,6,07:37 AM,2016,Few Showers,21
+107,October,10,05:36 PM,2016,Few Showers,21
+108,October,10,07:21 PM,2016,Few Showers,21
+109,October,30,10:02 AM,2016,Few Showers,21
+110,September,16,01:38 AM,2016,Few Showers,21
+111,September,26,03:31 PM,2016,Few Showers,21
+112,September,27,06:15 PM,2016,Few Showers,21
+113,September,30,06:11 AM,2016,Few Showers,21
+114,April,21,05:09 AM,2018,Light Rain,21
+115,December,7,02:19 PM,2015,Light Rain,21
+116,February,5,06:16 AM,2018,Light Rain,21
+117,February,29,11:55 PM,2016,Light Rain,21
+118,January,19,12:04 AM,2016,Light Rain,21
+119,January,21,04:29 AM,2016,Light Rain,21
+120,January,21,06:44 AM,2016,Light Rain,21
+121,January,23,03:53 AM,2016,Light Rain,21
+122,July,5,04:29 PM,2017,Light Rain,21
+123,June,6,06:57 PM,2018,Light Rain,21
+124,November,2,07:45 AM,2015,Light Rain,21
+125,November,8,04:32 AM,2015,Light Rain,21
+126,November,21,05:11 PM,2015,Light Rain,21
+127,October,3,06:11 PM,2017,Light Rain,21
+128,October,5,12:06 AM,2015,Light Rain,21
+129,October,8,08:33 PM,2017,Light Rain,21
+130,October,23,05:04 AM,2017,Light Rain,21
+131,October,24,11:55 PM,2015,Light Rain,21
+132,October,26,02:07 AM,2018,Light Rain,21
+133,April,24,02:02 PM,2018,Rain,21
+134,August,3,08:19 PM,2017,Rain,21
+135,August,17,01:22 PM,2017,Rain,21
+136,August,20,07:51 PM,2017,Rain,21
+137,January,8,04:42 AM,2018,Rain,21
+138,June,13,06:07 PM,2017,Rain,21
+139,June,16,01:44 PM,2018,Rain,21
+140,May,14,03:13 PM,2017,Rain,21
+141,November,30,01:34 PM,2017,Rain,21
+142,October,7,02:25 PM,2018,Rain,21
+143,October,23,03:34 AM,2017,Rain,21
+144,September,14,03:49 PM,2018,Rain,21
+145,April,16,05:30 AM,2018,Rain Shower,21
+146,April,18,12:45 AM,2017,Rain Shower,21
+147,April,21,10:59 PM,2018,Rain Shower,21
+148,August,3,03:47 PM,2018,Rain Shower,21
+149,August,16,04:35 PM,2018,Rain Shower,21
+150,August,26,12:22 AM,2018,Rain Shower,21
+151,July,4,03:40 PM,2017,Rain Shower,21
+152,July,10,01:17 AM,2018,Rain Shower,21
+153,July,18,12:11 PM,2017,Rain Shower,21
+154,July,30,10:03 PM,2018,Rain Shower,21
+155,March,28,07:40 PM,2017,Rain Shower,21
+156,March,28,09:11 PM,2017,Rain Shower,21
+157,March,28,10:45 PM,2017,Rain Shower,21
+158,March,29,10:20 PM,2017,Rain Shower,21
+159,May,8,01:25 AM,2018,Rain Shower,21
+160,May,10,11:03 PM,2017,Rain Shower,21
+161,May,20,03:38 AM,2018,Rain Shower,21
+162,November,1,12:41 AM,2017,Rain Shower,21
+163,November,9,09:53 PM,2018,Rain Shower,21
+164,November,17,03:08 AM,2018,Rain Shower,21
+165,November,26,10:58 PM,2018,Rain Shower,21
+166,October,14,10:08 PM,2018,Rain Shower,21
+167,October,16,12:33 AM,2018,Rain Shower,21
+168,September,14,11:49 PM,2018,Rain Shower,21
+169,May,7,07:53 PM,2016,Showers,21
+170,November,23,03:30 AM,2016,Showers,21
+171,October,9,06:16 PM,2016,Showers,21
+172,October,29,08:27 PM,2016,Showers,21
+173,September,9,04:26 PM,2016,Showers,21
+174,September,16,05:28 PM,2016,Showers,21
+175,September,21,05:29 PM,2016,Showers,21
+176,September,26,04:25 PM,2016,Showers,21
+177,September,29,08:22 PM,2016,Showers,21
+178,June,6,08:13 PM,2016,Thunderstorms,21
+179,December,16,10:44 AM,2016,Few Showers,22
+180,September,16,07:38 AM,2016,Few Showers,22
+181,September,19,09:24 PM,2016,Few Showers,22
+182,November,18,04:46 AM,2016,Isolated Thunderstorms,22
+183,April,14,10:50 PM,2017,Light Rain,22
+184,December,1,06:41 PM,2015,Light Rain,22
+185,December,3,01:03 AM,2015,Light Rain,22
+186,December,3,04:08 PM,2015,Light Rain,22
+187,December,3,08:35 AM,2015,Light Rain,22
+188,December,7,04:36 PM,2015,Light Rain,22
+189,December,8,12:11 AM,2015,Light Rain,22
+190,December,26,06:54 AM,2018,Light Rain,22
+191,December,27,12:54 AM,2018,Light Rain,22
+192,February,21,10:56 PM,2016,Light Rain,22
+193,January,9,02:42 AM,2018,Light Rain,22
+194,January,18,09:04 PM,2016,Light Rain,22
+195,January,19,11:19 AM,2016,Light Rain,22
+196,January,20,06:37 PM,2016,Light Rain,22
+197,January,20,11:15 PM,2016,Light Rain,22
+198,January,21,12:44 AM,2016,Light Rain,22
+199,January,22,09:03 AM,2016,Light Rain,22
+200,July,1,05:13 PM,2017,Light Rain,22
+201,July,9,06:52 PM,2018,Light Rain,22
+202,June,14,07:46 AM,2018,Light Rain,22
+203,June,23,05:09 PM,2017,Light Rain,22
+204,March,2,04:49 AM,2016,Light Rain,22
+205,May,13,07:51 AM,2018,Light Rain,22
+206,November,2,05:39 AM,2018,Light Rain,22
+207,November,4,10:12 PM,2015,Light Rain,22
+208,November,4,08:31 PM,2018,Light Rain,22
+209,November,5,11:25 PM,2017,Light Rain,22
+210,November,8,12:02 AM,2015,Light Rain,22
+211,November,25,11:48 PM,2015,Light Rain,22
+212,November,26,02:28 AM,2018,Light Rain,22
+213,October,7,10:45 PM,2018,Light Rain,22
+214,October,14,06:13 PM,2018,Light Rain,22
+215,October,25,08:12 AM,2018,Light Rain,22
+216,October,28,10:03 PM,2015,Light Rain,22
+217,October,29,02:48 AM,2015,Light Rain,22
+218,October,29,06:55 AM,2015,Light Rain,22
+219,September,25,11:30 PM,2015,Light Rain,22
+220,September,28,03:37 AM,2018,Light Rain,22
+221,September,29,06:10 AM,2015,Light Rain,22
+222,November,23,09:12 AM,2015,Light Rain with Thunder,22
+223,April,22,05:09 AM,2017,Rain,22
+224,August,25,08:42 PM,2018,Rain,22
+225,December,7,08:19 PM,2017,Rain,22
+226,June,7,03:32 PM,2018,Rain,22
+227,June,13,05:51 PM,2018,Rain,22
+228,March,1,03:23 PM,2016,Rain,22
+229,March,19,09:38 PM,2017,Rain,22
+230,March,30,11:32 AM,2018,Rain,22
+231,May,21,11:12 PM,2017,Rain,22
+232,November,7,10:38 PM,2018,Rain,22
+233,November,10,11:03 PM,2017,Rain,22
+234,November,21,12:52 AM,2017,Rain,22
+235,November,30,08:44 PM,2017,Rain,22
+236,October,7,02:58 PM,2017,Rain,22
+237,October,23,11:44 AM,2017,Rain,22
+238,October,26,06:35 PM,2017,Rain,22
+239,October,30,01:06 PM,2017,Rain,22
+240,September,3,07:37 PM,2018,Rain,22
+241,September,30,09:30 AM,2017,Rain,22
+242,April,7,11:13 PM,2018,Rain Shower,22
+243,April,18,08:45 AM,2017,Rain Shower,22
+244,April,23,04:02 PM,2018,Rain Shower,22
+245,August,1,11:03 AM,2018,Rain Shower,22
+246,August,2,01:03 PM,2018,Rain Shower,22
+247,December,12,02:47 AM,2017,Rain Shower,22
+248,December,12,04:22 AM,2017,Rain Shower,22
+249,December,12,06:27 PM,2017,Rain Shower,22
+250,February,2,11:09 PM,2017,Rain Shower,22
+251,February,6,11:38 PM,2018,Rain Shower,22
+252,January,5,09:01 AM,2018,Rain Shower,22
+253,January,8,11:17 PM,2018,Rain Shower,22
+254,January,8,12:07 AM,2018,Rain Shower,22
+255,July,3,07:13 PM,2018,Rain Shower,22
+256,July,4,09:13 AM,2018,Rain Shower,22
+257,June,17,05:19 PM,2018,Rain Shower,22
+258,March,20,08:26 PM,2017,Rain Shower,22
+259,May,3,03:35 PM,2017,Rain Shower,22
+260,May,6,09:48 PM,2018,Rain Shower,22
+261,November,6,03:10 PM,2017,Rain Shower,22
+262,November,11,03:58 PM,2017,Rain Shower,22
+263,November,11,05:28 PM,2017,Rain Shower,22
+264,November,11,02:23 AM,2018,Rain Shower,22
+265,November,11,05:23 AM,2018,Rain Shower,22
+266,November,16,08:49 PM,2017,Rain Shower,22
+267,November,27,09:16 PM,2018,Rain Shower,22
+268,October,2,03:41 PM,2017,Rain Shower,22
+269,October,15,04:58 PM,2018,Rain Shower,22
+270,October,25,07:27 PM,2018,Rain Shower,22
+271,May,23,10:47 AM,2016,Scattered Thunderstorms,22
+272,October,11,07:34 PM,2016,Scattered Thunderstorms,22
+273,December,10,03:11 AM,2016,Showers,22
+274,November,30,07:51 PM,2016,Showers,22
+275,October,2,10:37 AM,2016,Showers,22
+276,October,28,05:46 PM,2016,Showers,22
+277,November,23,03:57 AM,2015,Thunder,22
+278,May,10,08:01 PM,2016,Thunderstorms,22
+279,November,24,06:35 AM,2016,Few Showers,23
+280,September,9,02:20 PM,2016,Few Showers,23
+281,September,24,04:08 PM,2016,Few Showers,23
+282,November,10,02:46 AM,2016,Isolated Thunderstorms,23
+283,April,6,01:02 AM,2018,Light Rain,23
+284,December,6,09:20 PM,2018,Light Rain,23
+285,December,8,04:39 AM,2017,Light Rain,23
+286,February,22,10:29 PM,2016,Light Rain,23
+287,January,18,04:31 PM,2016,Light Rain,23
+288,January,20,12:37 PM,2016,Light Rain,23
+289,January,22,12:48 PM,2016,Light Rain,23
+290,January,29,06:51 AM,2016,Light Rain,23
+291,March,1,12:48 PM,2016,Light Rain,23
+292,March,24,05:11 AM,2016,Light Rain,23
+293,November,3,07:05 AM,2015,Light Rain,23
+294,November,4,08:42 AM,2015,Light Rain,23
+295,November,6,09:54 AM,2015,Light Rain,23
+296,November,9,09:14 AM,2015,Light Rain,23
+297,November,9,12:11 AM,2015,Light Rain,23
+298,November,10,11:53 PM,2018,Light Rain,23
+299,November,17,03:53 AM,2015,Light Rain,23
+300,November,23,07:06 PM,2015,Light Rain,23
+301,November,23,02:52 AM,2018,Light Rain,23
+302,November,25,08:36 PM,2015,Light Rain,23
+303,November,28,07:16 AM,2017,Light Rain,23
+304,October,3,03:30 AM,2017,Light Rain,23
+305,October,14,03:15 AM,2018,Light Rain,23
+306,October,15,03:37 AM,2017,Light Rain,23
+307,October,18,01:53 AM,2018,Light Rain,23
+308,October,22,06:09 PM,2015,Light Rain,23
+309,October,27,11:00 PM,2015,Light Rain,23
+310,October,28,06:00 PM,2015,Light Rain,23
+311,October,28,08:51 AM,2015,Light Rain,23
+312,September,20,10:53 PM,2018,Light Rain,23
+313,September,26,02:04 AM,2015,Light Rain,23
+314,September,28,09:53 AM,2015,Light Rain,23
+315,September,28,09:14 PM,2018,Light Rain,23
+316,February,16,09:33 PM,2016,Light Rain with Thunder,23
+317,February,21,07:12 PM,2016,Light Rain with Thunder,23
+318,November,28,11:04 PM,2015,Light Rain with Thunder,23
+319,April,22,09:14 AM,2017,Rain,23
+320,August,18,01:24 PM,2017,Rain,23
+321,December,16,02:21 PM,2017,Rain,23
+322,February,1,02:44 PM,2017,Rain,23
+323,January,8,08:57 AM,2018,Rain,23
+324,January,12,03:04 PM,2018,Rain,23
+325,January,16,02:59 PM,2018,Rain,23
+326,January,29,02:35 PM,2017,Rain,23
+327,March,18,05:03 AM,2017,Rain,23
+328,March,18,11:18 PM,2017,Rain,23
+329,November,2,07:39 PM,2015,Rain,23
+330,November,7,12:48 PM,2018,Rain,23
+331,November,10,05:58 PM,2017,Rain,23
+332,November,11,02:48 PM,2018,Rain,23
+333,November,11,10:28 PM,2018,Rain,23
+334,October,3,04:41 PM,2017,Rain,23
+335,October,3,08:51 AM,2017,Rain,23
+336,October,8,12:55 PM,2018,Rain,23
+337,October,21,09:44 PM,2017,Rain,23
+338,October,24,06:37 PM,2018,Rain,23
+339,October,28,12:29 AM,2017,Rain,23
+340,September,17,01:47 PM,2018,Rain,23
+341,September,20,02:18 PM,2018,Rain,23
+342,September,27,02:02 PM,2018,Rain,23
+343,April,6,11:02 PM,2018,Rain Shower,23
+344,April,14,11:35 PM,2018,Rain Shower,23
+345,April,15,01:05 AM,2018,Rain Shower,23
+346,April,16,09:30 AM,2018,Rain Shower,23
+347,April,25,04:03 PM,2018,Rain Shower,23
+348,April,27,04:37 AM,2017,Rain Shower,23
+349,August,9,06:06 PM,2018,Rain Shower,23
+350,August,25,04:42 PM,2018,Rain Shower,23
+351,August,31,12:39 PM,2017,Rain Shower,23
+352,December,1,11:19 AM,2017,Rain Shower,23
+353,December,7,04:53 PM,2018,Rain Shower,23
+354,February,14,07:10 AM,2018,Rain Shower,23
+355,January,5,10:31 AM,2018,Rain Shower,23
+356,January,22,11:53 PM,2017,Rain Shower,23
+357,January,30,04:14 AM,2018,Rain Shower,23
+358,June,3,01:26 PM,2018,Rain Shower,23
+359,June,18,01:44 PM,2018,Rain Shower,23
+360,June,24,05:09 PM,2017,Rain Shower,23
+361,March,9,07:54 AM,2018,Rain Shower,23
+362,March,14,04:08 AM,2017,Rain Shower,23
+363,March,20,01:31 PM,2017,Rain Shower,23
+364,March,28,07:36 PM,2018,Rain Shower,23
+365,May,7,05:40 PM,2018,Rain Shower,23
+366,May,8,11:01 AM,2018,Rain Shower,23
+367,November,4,06:56 PM,2018,Rain Shower,23
+368,November,11,02:28 PM,2017,Rain Shower,23
+369,November,19,08:37 PM,2017,Rain Shower,23
+370,November,22,06:52 AM,2017,Rain Shower,23
+371,November,22,09:02 PM,2018,Rain Shower,23
+372,November,23,06:37 AM,2018,Rain Shower,23
+373,November,28,05:41 AM,2017,Rain Shower,23
+374,October,2,09:30 PM,2017,Rain Shower,23
+375,October,7,11:25 AM,2018,Rain Shower,23
+376,October,11,05:15 AM,2018,Rain Shower,23
+377,October,12,07:45 AM,2018,Rain Shower,23
+378,October,14,04:18 PM,2018,Rain Shower,23
+379,October,14,06:33 AM,2018,Rain Shower,23
+380,September,27,07:32 PM,2018,Rain Shower,23
+381,May,11,11:23 AM,2016,Scattered Thunderstorms,23
+382,November,12,04:09 AM,2016,Scattered Thunderstorms,23
+383,December,5,06:45 PM,2016,Showers,23
+384,December,17,08:45 AM,2016,Showers,23
+385,October,5,02:17 PM,2016,Showers,23
+386,November,6,07:17 PM,2015,Thunderstorm,23
+387,December,5,09:20 AM,2016,Isolated Thunderstorms,24
+388,January,12,07:33 AM,2017,Isolated Thunderstorms,24
+389,April,4,06:52 PM,2018,Light Rain,24
+390,April,12,05:55 PM,2018,Light Rain,24
+391,April,27,03:57 PM,2017,Light Rain,24
+392,December,5,09:44 PM,2015,Light Rain,24
+393,December,6,08:45 PM,2015,Light Rain,24
+394,December,9,11:58 PM,2015,Light Rain,24
+395,December,16,08:26 PM,2017,Light Rain,24
+396,December,27,09:04 PM,2018,Light Rain,24
+397,February,11,08:52 PM,2016,Light Rain,24
+398,February,15,06:59 PM,2016,Light Rain,24
+399,February,18,02:42 AM,2016,Light Rain,24
+400,February,26,02:32 AM,2017,Light Rain,24
+401,January,2,03:29 AM,2016,Light Rain,24
+402,January,9,10:32 PM,2018,Light Rain,24
+403,January,12,01:15 AM,2016,Light Rain,24
+404,January,14,04:04 AM,2016,Light Rain,24
+405,January,15,05:39 PM,2016,Light Rain,24
+406,January,16,09:39 PM,2016,Light Rain,24
+407,January,23,02:55 AM,2018,Light Rain,24
+408,January,30,08:36 PM,2017,Light Rain,24
+409,June,7,10:47 AM,2018,Light Rain,24
+410,June,20,02:36 PM,2017,Light Rain,24
+411,March,3,02:24 AM,2017,Light Rain,24
+412,March,8,09:49 PM,2017,Light Rain,24
+413,March,21,06:31 PM,2017,Light Rain,24
+414,March,25,07:53 AM,2016,Light Rain,24
+415,March,27,05:56 PM,2018,Light Rain,24
+416,March,29,05:32 PM,2018,Light Rain,24
+417,March,31,05:07 PM,2018,Light Rain,24
+418,May,5,02:50 PM,2017,Light Rain,24
+419,November,3,04:12 PM,2015,Light Rain,24
+420,November,6,12:56 PM,2015,Light Rain,24
+421,November,9,11:58 AM,2018,Light Rain,24
+422,November,10,10:08 AM,2018,Light Rain,24
+423,November,11,08:08 PM,2018,Light Rain,24
+424,November,19,07:02 PM,2017,Light Rain,24
+425,November,24,06:31 PM,2015,Light Rain,24
+426,November,29,08:14 PM,2015,Light Rain,24
+427,November,30,09:58 PM,2018,Light Rain,24
+428,October,3,11:21 AM,2017,Light Rain,24
+429,October,4,08:52 PM,2018,Light Rain,24
+430,October,9,06:50 PM,2017,Light Rain,24
+431,October,18,05:58 AM,2018,Light Rain,24
+432,October,27,10:09 PM,2017,Light Rain,24
+433,October,27,08:17 PM,2018,Light Rain,24
+434,October,31,09:11 PM,2018,Light Rain,24
+435,September,18,04:08 PM,2018,Light Rain,24
+436,September,27,08:00 PM,2015,Light Rain,24
+437,September,30,05:09 PM,2018,Light Rain,24
+438,March,12,08:17 PM,2016,Light Rain with Thunder,24
+439,April,2,08:58 PM,2018,Rain,24
+440,April,3,08:13 PM,2018,Rain,24
+441,April,7,01:42 PM,2018,Rain,24
+442,April,8,03:08 PM,2018,Rain,24
+443,April,22,01:31 PM,2017,Rain,24
+444,December,1,03:21 PM,2018,Rain,24
+445,December,18,02:19 PM,2017,Rain,24
+446,December,21,06:53 AM,2017,Rain,24
+447,December,23,03:26 PM,2017,Rain,24
+448,December,26,02:20 PM,2018,Rain,24
+449,December,26,02:54 PM,2018,Rain,24
+450,December,27,02:54 PM,2018,Rain,24
+451,February,2,06:34 PM,2017,Rain,24
+452,February,13,06:55 PM,2018,Rain,24
+453,February,16,02:58 PM,2018,Rain,24
+454,February,26,01:08 PM,2018,Rain,24
+455,February,28,01:20 PM,2017,Rain,24
+456,January,4,10:23 PM,2019,Rain,24
+457,January,5,08:13 PM,2018,Rain,24
+458,January,12,05:45 AM,2016,Rain,24
+459,January,13,09:03 PM,2016,Rain,24
+460,January,13,01:26 PM,2018,Rain,24
+461,January,17,02:49 PM,2018,Rain,24
+462,January,21,02:34 PM,2017,Rain,24
+463,January,22,02:33 PM,2017,Rain,24
+464,January,23,08:25 PM,2018,Rain,24
+465,January,30,02:31 PM,2017,Rain,24
+466,January,30,04:50 PM,2017,Rain,24
+467,January,30,07:49 AM,2018,Rain,24
+468,March,1,05:05 PM,2017,Rain,24
+469,March,10,04:19 PM,2017,Rain,24
+470,May,22,10:22 AM,2017,Rain,24
+471,November,3,04:34 PM,2018,Rain,24
+472,November,13,05:58 PM,2018,Rain,24
+473,November,14,05:58 PM,2018,Rain,24
+474,November,19,12:37 PM,2017,Rain,24
+475,November,19,01:08 PM,2018,Rain,24
+476,November,21,02:52 PM,2017,Rain,24
+477,November,26,10:08 AM,2018,Rain,24
+478,November,27,02:06 PM,2017,Rain,24
+479,October,10,12:55 PM,2018,Rain,24
+480,October,13,08:05 PM,2018,Rain,24
+481,October,18,01:33 PM,2018,Rain,24
+482,October,30,08:56 PM,2017,Rain,24
+483,September,27,04:17 PM,2018,Rain,24
+484,April,8,09:57 PM,2017,Rain Shower,24
+485,April,12,03:35 PM,2018,Rain Shower,24
+486,April,14,09:20 PM,2018,Rain Shower,24
+487,April,15,09:30 AM,2018,Rain Shower,24
+488,August,19,04:01 PM,2017,Rain Shower,24
+489,December,2,05:35 PM,2017,Rain Shower,24
+490,December,2,07:01 PM,2018,Rain Shower,24
+491,December,3,09:30 PM,2017,Rain Shower,24
+492,December,4,02:20 PM,2018,Rain Shower,24
+493,December,5,08:20 PM,2018,Rain Shower,24
+494,December,7,11:18 AM,2018,Rain Shower,24
+495,December,12,09:02 AM,2017,Rain Shower,24
+496,December,12,12:57 PM,2017,Rain Shower,24
+497,February,14,11:10 PM,2018,Rain Shower,24
+498,February,19,05:24 PM,2017,Rain Shower,24
+499,February,21,12:29 PM,2017,Rain Shower,24
+500,January,4,10:31 AM,2018,Rain Shower,24
+501,January,6,12:11 AM,2018,Rain Shower,24
+502,January,13,02:56 PM,2018,Rain Shower,24
+503,January,18,08:04 PM,2018,Rain Shower,24
+504,January,20,11:54 PM,2018,Rain Shower,24
+505,January,22,12:39 AM,2018,Rain Shower,24
+506,January,27,08:37 AM,2018,Rain Shower,24
+507,January,31,02:44 PM,2017,Rain Shower,24
+508,July,31,01:03 PM,2018,Rain Shower,24
+509,March,14,09:38 PM,2017,Rain Shower,24
+510,March,20,10:21 AM,2017,Rain Shower,24
+511,March,22,01:31 AM,2018,Rain Shower,24
+512,March,23,07:04 PM,2018,Rain Shower,24
+513,March,29,01:46 PM,2018,Rain Shower,24
+514,May,2,03:52 PM,2018,Rain Shower,24
+515,May,13,01:01 PM,2018,Rain Shower,24
+516,May,17,03:37 PM,2018,Rain Shower,24
+517,May,25,03:19 PM,2018,Rain Shower,24
+518,November,4,01:04 AM,2018,Rain Shower,24
+519,November,9,01:33 PM,2018,Rain Shower,24
+520,November,10,08:53 PM,2018,Rain Shower,24
+521,November,12,08:53 PM,2018,Rain Shower,24
+522,November,22,11:52 AM,2017,Rain Shower,24
+523,November,27,03:58 PM,2018,Rain Shower,24
+524,November,28,02:18 PM,2018,Rain Shower,24
+525,November,30,06:08 PM,2018,Rain Shower,24
+526,October,1,01:39 AM,2018,Rain Shower,24
+527,October,9,09:05 AM,2018,Rain Shower,24
+528,October,11,08:30 AM,2018,Rain Shower,24
+529,October,16,10:03 AM,2018,Rain Shower,24
+530,October,17,11:18 PM,2018,Rain Shower,24
+531,October,25,02:42 PM,2018,Rain Shower,24
+532,October,27,07:42 AM,2018,Rain Shower,24
+533,October,31,05:31 PM,2017,Rain Shower,24
+534,September,18,06:47 PM,2018,Rain Shower,24
+535,September,30,09:44 PM,2018,Rain Shower,24
+536,December,4,07:44 AM,2016,Scattered Thunderstorms,24
+537,November,18,08:06 AM,2016,Scattered Thunderstorms,24
+538,September,8,02:14 PM,2016,Scattered Thunderstorms,24
+539,January,13,03:33 AM,2017,Showers,24
+540,January,13,07:08 AM,2017,Showers,24
+541,January,14,12:53 AM,2017,Showers,24
+542,November,22,07:00 PM,2016,Showers,24
+543,November,23,09:40 AM,2016,Showers,24
+544,January,17,05:38 AM,2017,Few Showers,25
+545,November,6,10:30 AM,2016,Few Showers,25
+546,April,7,01:23 AM,2017,Light Rain,25
+547,April,12,03:45 PM,2017,Light Rain,25
+548,April,14,02:15 PM,2017,Light Rain,25
+549,April,27,11:42 AM,2017,Light Rain,25
+550,December,1,02:19 PM,2017,Light Rain,25
+551,December,3,04:35 PM,2017,Light Rain,25
+552,February,11,07:05 AM,2016,Light Rain,25
+553,February,16,04:35 AM,2016,Light Rain,25
+554,February,25,03:52 PM,2017,Light Rain,25
+555,January,2,04:59 PM,2016,Light Rain,25
+556,January,3,07:15 PM,2016,Light Rain,25
+557,January,3,11:00 AM,2016,Light Rain,25
+558,January,11,11:04 PM,2018,Light Rain,25
+559,January,12,09:30 AM,2016,Light Rain,25
+560,January,14,04:49 PM,2016,Light Rain,25
+561,January,14,11:41 PM,2016,Light Rain,25
+562,January,15,09:24 AM,2016,Light Rain,25
+563,January,28,09:09 AM,2016,Light Rain,25
+564,January,28,09:49 PM,2016,Light Rain,25
+565,March,21,01:31 AM,2018,Light Rain,25
+566,March,26,06:46 AM,2016,Light Rain,25
+567,March,27,07:36 PM,2018,Light Rain,25
+568,November,2,01:05 PM,2015,Light Rain,25
+569,November,16,08:18 AM,2018,Light Rain,25
+570,November,20,11:22 AM,2015,Light Rain,25
+571,November,21,08:05 AM,2015,Light Rain,25
+572,November,27,06:51 PM,2017,Light Rain,25
+573,November,30,08:28 PM,2018,Light Rain,25
+574,October,22,04:26 PM,2015,Light Rain,25
+575,October,22,07:44 PM,2017,Light Rain,25
+576,October,24,03:32 PM,2018,Light Rain,25
+577,September,26,04:50 PM,2015,Light Rain,25
+578,January,7,05:17 PM,2018,Light Rain with Thunder,25
+579,February,4,02:31 PM,2017,Rain,25
+580,February,26,12:52 PM,2017,Rain,25
+581,February,26,05:38 PM,2018,Rain,25
+582,January,3,01:42 PM,2018,Rain,25
+583,January,3,08:48 PM,2019,Rain,25
+584,January,4,08:03 PM,2019,Rain,25
+585,January,13,07:32 PM,2018,Rain,25
+586,January,26,05:17 PM,2018,Rain,25
+587,June,12,04:07 PM,2017,Rain,25
+588,June,13,02:07 PM,2017,Rain,25
+589,March,18,10:28 AM,2017,Rain,25
+590,March,23,02:06 PM,2018,Rain,25
+591,May,21,12:22 PM,2017,Rain,25
+592,November,19,05:48 AM,2018,Rain,25
+593,November,22,03:37 PM,2017,Rain,25
+594,April,1,05:08 PM,2018,Rain Shower,25
+595,April,11,01:20 PM,2018,Rain Shower,25
+596,April,14,05:55 PM,2018,Rain Shower,25
+597,December,3,03:05 PM,2017,Rain Shower,25
+598,December,27,12:39 PM,2018,Rain Shower,25
+599,February,11,05:27 PM,2017,Rain Shower,25
+600,February,13,09:35 PM,2018,Rain Shower,25
+601,February,21,01:59 PM,2017,Rain Shower,25
+602,February,22,08:43 PM,2018,Rain Shower,25
+603,January,7,10:32 AM,2018,Rain Shower,25
+604,January,9,01:27 PM,2018,Rain Shower,25
+605,January,9,11:57 AM,2018,Rain Shower,25
+606,January,10,03:49 PM,2018,Rain Shower,25
+607,March,17,02:37 AM,2018,Rain Shower,25
+608,March,28,11:15 AM,2017,Rain Shower,25
+609,May,17,01:22 PM,2018,Rain Shower,25
+610,May,25,01:04 PM,2018,Rain Shower,25
+611,November,25,11:10 PM,2017,Rain Shower,25
+612,October,1,12:39 PM,2018,Rain Shower,25
+613,October,2,05:15 PM,2017,Rain Shower,25
+614,October,4,06:37 PM,2018,Rain Shower,25
+615,October,11,10:00 AM,2018,Rain Shower,25
+616,October,12,09:15 AM,2018,Rain Shower,25
+617,October,21,01:44 PM,2017,Rain Shower,25
+618,October,27,06:02 PM,2018,Rain Shower,25
+619,June,2,05:24 PM,2016,Scattered Thunderstorms,25
+620,September,7,04:02 PM,2016,Showers,25
+621,February,15,09:04 PM,2016,Thunder in the Vicinity,25
+622,November,29,03:45 PM,2015,Thunder,25
+623,November,6,02:30 PM,2016,Few Showers,26
+624,November,24,05:55 PM,2016,Few Showers,26
+625,October,3,01:03 PM,2016,Few Showers,26
+626,April,2,06:38 PM,2018,Light Rain,26
+627,April,6,09:32 PM,2017,Light Rain,26
+628,April,7,04:57 PM,2017,Light Rain,26
+629,April,17,03:25 PM,2017,Light Rain,26
+630,April,27,09:12 AM,2017,Light Rain,26
+631,December,22,01:08 PM,2017,Light Rain,26
+632,December,25,01:29 PM,2018,Light Rain,26
+633,December,31,12:50 PM,2017,Light Rain,26
+634,February,7,08:51 PM,2017,Light Rain,26
+635,February,10,12:12 PM,2017,Light Rain,26
+636,February,11,04:10 PM,2016,Light Rain,26
+637,February,11,12:38 PM,2016,Light Rain,26
+638,February,18,01:13 PM,2018,Light Rain,26
+639,February,29,09:18 AM,2016,Light Rain,26
+640,January,1,08:44 PM,2016,Light Rain,26
+641,January,2,10:18 PM,2019,Light Rain,26
+642,January,4,12:47 PM,2018,Light Rain,26
+643,January,4,02:28 AM,2019,Light Rain,26
+644,January,6,04:31 PM,2018,Light Rain,26
+645,January,20,11:24 AM,2017,Light Rain,26
+646,January,21,10:14 PM,2018,Light Rain,26
+647,January,28,06:52 PM,2016,Light Rain,26
+648,January,29,08:36 PM,2017,Light Rain,26
+649,March,4,03:48 AM,2016,Light Rain,26
+650,March,11,09:12 AM,2016,Light Rain,26
+651,March,26,08:26 PM,2016,Light Rain,26
+652,November,12,02:48 PM,2018,Light Rain,26
+653,November,19,02:27 PM,2017,Light Rain,26
+654,September,29,02:09 PM,2018,Light Rain,26
+655,September,29,11:39 AM,2018,Light Rain,26
+656,September,30,01:49 PM,2015,Light Rain,26
+657,December,28,01:01 PM,2018,Light Rain with Thunder,26
+658,March,16,02:50 PM,2016,Light Rain with Thunder,26
+659,April,5,01:44 PM,2018,Rain,26
+660,April,7,01:52 PM,2017,Rain,26
+661,December,20,03:54 PM,2018,Rain,26
+662,December,24,01:26 PM,2018,Rain,26
+663,December,26,01:53 PM,2017,Rain,26
+664,December,30,03:05 PM,2017,Rain,26
+665,December,30,02:21 PM,2018,Rain,26
+666,December,31,02:23 PM,2018,Rain,26
+667,February,5,01:49 PM,2017,Rain,26
+668,February,10,06:15 PM,2018,Rain,26
+669,February,14,02:25 PM,2018,Rain,26
+670,February,27,04:03 PM,2018,Rain,26
+671,February,28,01:08 PM,2018,Rain,26
+672,January,2,01:48 PM,2019,Rain,26
+673,March,2,05:59 PM,2017,Rain,26
+674,March,3,05:02 PM,2018,Rain,26
+675,March,8,09:40 AM,2018,Rain,26
+676,March,15,04:42 PM,2018,Rain,26
+677,November,22,02:07 PM,2017,Rain,26
+678,April,2,02:08 PM,2018,Rain Shower,26
+679,April,4,01:28 PM,2018,Rain Shower,26
+680,April,8,11:23 AM,2018,Rain Shower,26
+681,December,7,04:29 PM,2017,Rain Shower,26
+682,December,9,10:57 AM,2017,Rain Shower,26
+683,December,16,10:49 PM,2018,Rain Shower,26
+684,December,30,10:35 AM,2017,Rain Shower,26
+685,February,15,03:13 PM,2018,Rain Shower,26
+686,February,17,03:03 PM,2018,Rain Shower,26
+687,February,23,10:28 AM,2018,Rain Shower,26
+688,February,25,02:33 PM,2018,Rain Shower,26
+689,February,27,01:21 PM,2017,Rain Shower,26
+690,January,1,03:12 PM,2018,Rain Shower,26
+691,January,1,08:38 PM,2019,Rain Shower,26
+692,January,8,11:12 AM,2018,Rain Shower,26
+693,January,12,06:54 PM,2018,Rain Shower,26
+694,January,21,02:29 PM,2018,Rain Shower,26
+695,January,28,03:04 PM,2018,Rain Shower,26
+696,March,9,10:54 AM,2018,Rain Shower,26
+697,March,10,06:34 PM,2018,Rain Shower,26
+698,March,10,11:39 AM,2018,Rain Shower,26
+699,March,22,11:02 AM,2018,Rain Shower,26
+700,November,11,09:53 AM,2017,Rain Shower,26
+701,November,17,12:57 PM,2017,Rain Shower,26
+702,November,18,07:42 PM,2017,Rain Shower,26
+703,November,23,07:27 PM,2018,Rain Shower,26
+704,November,25,12:53 PM,2018,Rain Shower,26
+705,November,26,02:01 PM,2017,Rain Shower,26
+706,October,4,07:57 AM,2018,Rain Shower,26
+707,October,9,02:31 PM,2018,Rain Shower,26
+708,October,11,12:16 PM,2018,Rain Shower,26
+709,October,12,10:45 AM,2018,Rain Shower,26
+710,October,13,04:15 PM,2018,Rain Shower,26
+711,October,19,04:08 PM,2018,Rain Shower,26
+712,October,27,03:02 PM,2018,Rain Shower,26
+713,October,28,01:14 PM,2017,Rain Shower,26
+714,September,27,05:57 PM,2018,Rain Shower,26
+715,September,28,01:17 PM,2018,Rain Shower,26
+716,September,28,11:37 AM,2018,Rain Shower,26
+717,December,17,10:20 AM,2016,Showers,26
+718,November,6,12:01 PM,2016,Showers,26
+719,November,24,12:51 PM,2016,Showers,26
+720,November,29,02:52 AM,2016,Showers,26
+721,September,2,02:04 PM,2016,Showers,26
+722,December,17,06:41 PM,2015,Thunder,26
+723,December,19,09:48 PM,2015,Thunder in the Vicinity,26
+724,January,12,07:15 PM,2016,Thunderstorm,26
+725,October,13,09:13 PM,2016,Few Showers,27
+726,October,13,09:45 PM,2016,Few Showers,27
+727,October,21,04:24 PM,2016,Few Showers,27
+728,September,29,12:29 PM,2016,Few Showers,27
+729,December,14,09:09 AM,2016,Isolated Thunderstorms,27
+730,April,6,12:27 PM,2018,Light Rain,27
+731,April,10,02:10 PM,2017,Light Rain,27
+732,April,12,12:00 PM,2017,Light Rain,27
+733,December,26,04:53 PM,2017,Light Rain,27
+734,December,27,06:23 PM,2017,Light Rain,27
+735,December,27,10:53 AM,2017,Light Rain,27
+736,February,7,06:36 PM,2017,Light Rain,27
+737,February,8,10:56 AM,2017,Light Rain,27
+738,February,21,06:43 PM,2018,Light Rain,27
+739,February,27,11:33 AM,2018,Light Rain,27
+740,February,28,04:58 PM,2018,Light Rain,27
+741,January,3,08:58 PM,2019,Light Rain,27
+742,January,7,03:47 PM,2018,Light Rain,27
+743,January,11,07:21 PM,2016,Light Rain,27
+744,January,13,05:18 PM,2016,Light Rain,27
+745,March,5,03:35 PM,2017,Light Rain,27
+746,March,11,12:47 AM,2016,Light Rain,27
+747,March,11,02:53 PM,2017,Light Rain,27
+748,March,13,04:10 PM,2018,Light Rain,27
+749,March,29,07:27 PM,2016,Light Rain,27
+750,November,20,05:20 AM,2015,Light Rain,27
+751,October,17,05:38 PM,2018,Light Rain,27
+752,February,16,06:23 PM,2016,Light Rain Shower,27
+753,April,3,05:08 PM,2018,Light Rain with Thunder,27
+754,February,19,02:56 PM,2018,Light Rain with Thunder,27
+755,February,21,02:08 PM,2018,Light Rain with Thunder,27
+756,January,22,04:46 PM,2018,Light Rain with Thunder,27
+757,January,25,04:54 PM,2017,Light Rain with Thunder,27
+758,January,28,04:30 PM,2016,Light Rain with Thunder,27
+759,March,6,08:11 PM,2016,Light Rain with Thunder,27
+760,March,23,06:56 PM,2016,Light Rain with Thunder,27
+761,November,15,02:28 PM,2018,Light Rain with Thunder,27
+762,March,2,01:08 PM,2018,Rain,27
+763,March,2,04:17 PM,2018,Rain,27
+764,October,25,10:42 AM,2016,Rain,27
+765,April,6,03:42 PM,2017,Rain Shower,27
+766,April,26,02:03 PM,2018,Rain Shower,27
+767,December,15,04:12 PM,2018,Rain Shower,27
+768,December,16,04:09 PM,2018,Rain Shower,27
+769,December,21,03:39 PM,2018,Rain Shower,27
+770,December,23,02:11 PM,2018,Rain Shower,27
+771,December,25,11:54 AM,2018,Rain Shower,27
+772,December,28,09:23 AM,2017,Rain Shower,27
+773,February,3,03:21 PM,2017,Rain Shower,27
+774,February,11,04:15 PM,2018,Rain Shower,27
+775,February,20,06:36 PM,2018,Rain Shower,27
+776,February,23,04:34 PM,2017,Rain Shower,27
+777,February,24,01:33 PM,2018,Rain Shower,27
+778,February,25,02:22 PM,2017,Rain Shower,27
+779,February,25,05:22 PM,2017,Rain Shower,27
+780,February,26,10:32 AM,2017,Rain Shower,27
+781,January,1,01:43 PM,2019,Rain Shower,27
+782,January,2,03:57 PM,2018,Rain Shower,27
+783,January,5,05:26 PM,2018,Rain Shower,27
+784,January,5,02:28 PM,2019,Rain Shower,27
+785,January,11,05:34 PM,2018,Rain Shower,27
+786,January,14,04:21 PM,2018,Rain Shower,27
+787,January,19,09:39 PM,2018,Rain Shower,27
+788,January,20,01:44 PM,2018,Rain Shower,27
+789,January,24,06:53 PM,2017,Rain Shower,27
+790,January,29,04:39 PM,2018,Rain Shower,27
+791,March,2,02:54 PM,2017,Rain Shower,27
+792,March,13,03:43 PM,2017,Rain Shower,27
+793,March,21,02:51 PM,2018,Rain Shower,27
+794,May,3,12:07 PM,2018,Rain Shower,27
+795,November,5,11:45 AM,2017,Rain Shower,27
+796,November,24,03:10 PM,2017,Rain Shower,27
+797,November,25,03:10 PM,2017,Rain Shower,27
+798,October,1,02:54 PM,2018,Rain Shower,27
+799,October,12,11:58 AM,2016,Scattered Thunderstorms,27
+800,September,6,12:33 PM,2016,Showers,27
+801,December,18,08:17 PM,2015,Thunder,27
+802,February,22,07:20 PM,2016,Thunder,27
+803,December,21,07:00 PM,2015,Thunder in the Vicinity,27
+804,March,30,07:54 PM,2016,Thunder in the Vicinity,27
+805,March,17,05:38 PM,2016,Thunder,27
+806,November,18,06:07 PM,2015,Thunder,27
+807,November,3,01:20 AM,2016,Few Showers,28
+808,October,23,03:39 PM,2016,Few Showers,28
+809,December,12,08:47 AM,2016,Isolated Thunderstorms,28
+810,February,13,01:05 PM,2018,Light Rain,28
+811,March,6,03:40 PM,2017,Light Rain,28
+812,March,11,12:15 PM,2016,Light Rain,28
+813,March,4,08:44 PM,2016,Light Rain with Thunder,28
+814,October,22,11:27 AM,2015,Light Rain with Thunder,28
+815,April,5,10:37 AM,2018,Rain Shower,28
+816,April,8,12:22 PM,2017,Rain Shower,28
+817,April,9,01:52 PM,2017,Rain Shower,28
+818,December,4,12:45 PM,2017,Rain Shower,28
+819,December,5,02:59 PM,2017,Rain Shower,28
+820,December,5,11:59 AM,2017,Rain Shower,28
+821,December,5,01:35 PM,2018,Rain Shower,28
+822,December,16,06:11 PM,2017,Rain Shower,28
+823,December,19,12:04 PM,2017,Rain Shower,28
+824,December,21,01:08 PM,2017,Rain Shower,28
+825,December,21,03:54 PM,2018,Rain Shower,28
+826,December,29,11:25 AM,2017,Rain Shower,28
+827,December,29,02:21 PM,2018,Rain Shower,28
+828,December,30,01:40 PM,2017,Rain Shower,28
+829,February,12,04:25 PM,2018,Rain Shower,28
+830,February,15,05:28 PM,2018,Rain Shower,28
+831,January,4,02:29 PM,2019,Rain Shower,28
+832,January,15,02:51 PM,2018,Rain Shower,28
+833,January,24,03:40 PM,2018,Rain Shower,28
+834,January,25,02:05 PM,2018,Rain Shower,28
+835,January,26,03:44 PM,2017,Rain Shower,28
+836,March,1,12:23 PM,2018,Rain Shower,28
+837,March,4,11:37 AM,2018,Rain Shower,28
+838,March,6,12:35 PM,2017,Rain Shower,28
+839,March,7,03:45 PM,2017,Rain Shower,28
+840,March,7,09:40 AM,2018,Rain Shower,28
+841,March,8,11:34 AM,2017,Rain Shower,28
+842,March,9,04:59 PM,2017,Rain Shower,28
+843,March,13,01:20 PM,2018,Rain Shower,28
+844,March,18,12:56 PM,2018,Rain Shower,28
+845,March,21,12:36 PM,2018,Rain Shower,28
+846,October,27,12:47 PM,2018,Rain Shower,28
+847,November,8,10:36 AM,2016,Scattered Thunderstorms,28
+848,September,7,11:18 AM,2016,Scattered Thunderstorms,28
+849,September,17,01:23 PM,2016,Scattered Thunderstorms,28
+850,August,21,01:37 PM,2016,Showers,28
+851,October,26,10:42 AM,2016,Showers,28
+852,December,12,07:09 PM,2015,Thunder,28
+853,December,14,10:14 PM,2015,Thunder,28
+854,December,15,09:50 PM,2015,Thunder,28
+855,February,25,04:28 PM,2016,Thunder,28
+856,December,13,09:25 PM,2015,Thunder in the Vicinity,28
+857,November,7,10:30 AM,2016,Few Showers,29
+858,March,5,11:37 AM,2018,Light Rain,29
+859,April,27,12:33 PM,2018,Rain Shower,29
+860,August,20,02:26 PM,2017,Rain Shower,29
+861,December,19,02:19 PM,2017,Rain Shower,29
+862,December,21,08:29 PM,2018,Rain Shower,29
+863,February,10,03:12 PM,2017,Rain Shower,29
+864,February,20,01:21 PM,2018,Rain Shower,29
+865,January,12,01:29 PM,2018,Rain Shower,29
+866,January,23,03:35 PM,2018,Rain Shower,29
+867,March,4,02:54 PM,2017,Rain Shower,29
+868,March,18,04:46 PM,2018,Rain Shower,29
+869,March,20,01:32 PM,2018,Rain Shower,29
+870,November,1,02:14 PM,2018,Rain Shower,29
+871,December,18,11:50 AM,2016,Scattered Thunderstorms,29
+872,November,26,04:22 PM,2016,Scattered Thunderstorms,29
+873,November,29,11:06 AM,2016,Scattered Thunderstorms,29
+874,April,27,10:45 AM,2016,Showers,29
+875,August,31,01:38 PM,2016,Showers,29
+876,November,22,12:50 PM,2016,Showers,29
+877,February,17,06:38 PM,2016,Thunder,29
+878,February,26,06:02 PM,2016,Thunder,29
+879,April,1,04:10 PM,2016,Thunder in the Vicinity,29
+880,March,31,05:27 PM,2016,Thunder,29
+881,January,11,02:47 PM,2016,Light Rain,30
+882,December,14,04:12 PM,2018,Rain Shower,30
+883,December,27,01:53 PM,2017,Rain Shower,30
+884,January,19,11:54 AM,2017,Scattered Thunderstorms,30
+885,November,16,11:50 AM,2016,Scattered Thunderstorms,30
+886,February,19,07:03 PM,2016,Thunder,30
+887,February,20,04:53 PM,2016,Thunder,30
+888,December,9,10:36 AM,2016,Isolated Thunderstorms,31
+889,January,14,02:13 PM,2017,Isolated Thunderstorms,31
+890,January,14,12:38 PM,2017,Isolated Thunderstorms,31
+891,November,9,12:06 PM,2016,Isolated Thunderstorms,31
+892,January,23,06:10 PM,2018,Light Rain with Thunder,31
+893,December,1,01:51 PM,2018,Rain Shower,31
+894,December,15,02:01 PM,2017,Rain Shower,31
+895,December,20,06:28 PM,2017,Rain Shower,31
+896,February,7,01:21 PM,2017,Rain Shower,31
+897,February,20,01:59 PM,2017,Rain Shower,31
+898,January,23,03:48 PM,2017,Rain Shower,31
+899,March,3,11:02 AM,2018,Rain Shower,31
+900,March,18,02:31 PM,2018,Rain Shower,31
+901,January,8,11:16 AM,2017,Scattered Thunderstorms,31
+902,November,15,02:05 PM,2016,Scattered Thunderstorms,31
+903,November,17,12:16 PM,2016,Scattered Thunderstorms,31
+904,October,15,10:06 AM,2016,Scattered Thunderstorms,31
+905,September,12,04:16 PM,2016,Scattered Thunderstorms,31
+906,December,3,12:24 PM,2016,Isolated Thunderstorms,32
+907,December,25,12:11 PM,2016,Isolated Thunderstorms,32
+908,January,7,11:06 AM,2017,Isolated Thunderstorms,32
+909,September,12,01:18 PM,2016,Isolated Thunderstorms,32
+910,September,12,02:12 PM,2016,Isolated Thunderstorms,32
+911,February,6,12:36 PM,2017,Rain Shower,32
+912,February,22,12:03 PM,2018,Rain Shower,32
+913,February,24,01:37 PM,2017,Rain Shower,32
+914,January,19,03:39 PM,2018,Rain Shower,32
+915,March,15,01:38 PM,2017,Rain Shower,32
+916,March,26,03:23 PM,2018,Rain Shower,32
+917,December,12,10:22 AM,2016,Scattered Thunderstorms,32
+918,December,13,11:02 AM,2016,Scattered Thunderstorms,32
+919,January,3,11:43 AM,2017,Scattered Thunderstorms,32
+920,January,15,11:53 AM,2017,Scattered Thunderstorms,32
+921,January,16,10:28 AM,2017,Scattered Thunderstorms,32
+922,November,3,11:46 AM,2016,Scattered Thunderstorms,32
+923,October,14,10:15 AM,2016,Scattered Thunderstorms,32
+924,October,24,01:43 PM,2016,Showers,32
+925,November,19,04:00 PM,2015,Thunder,32
+926,November,3,08:35 AM,2016,Few Showers,33
+927,December,11,10:27 AM,2016,Isolated Thunderstorms,33
+928,December,19,01:20 PM,2016,Isolated Thunderstorms,33
+929,November,11,03:04 PM,2016,Isolated Thunderstorms,33
+930,November,27,03:57 PM,2016,Isolated Thunderstorms,33
+931,December,8,11:11 AM,2016,Scattered Thunderstorms,33
+932,December,10,12:07 PM,2016,Scattered Thunderstorms,33
+933,December,21,01:01 PM,2016,Scattered Thunderstorms,33
+934,January,11,11:18 AM,2017,Scattered Thunderstorms,33
+935,November,10,12:11 PM,2016,Scattered Thunderstorms,33
+936,October,20,12:35 PM,2016,Scattered Thunderstorms,33
+937,January,18,05:33 PM,2017,Showers,33
+938,February,27,04:32 PM,2016,Thunder,33
+939,February,28,04:46 PM,2016,Thunder,33
+940,January,2,12:28 PM,2017,Isolated Thunderstorms,34
+941,January,9,11:51 AM,2017,Isolated Thunderstorms,34
+942,October,16,11:26 AM,2016,Isolated Thunderstorms,34
+943,October,18,01:20 PM,2016,Isolated Thunderstorms,34
+944,December,17,03:04 PM,2017,Rain Shower,34
+945,January,22,03:15 PM,2018,Rain Shower,34
+946,March,3,02:04 PM,2017,Rain Shower,34
+947,November,18,03:27 PM,2017,Rain Shower,34
+948,December,24,12:56 PM,2016,Scattered Thunderstorms,34
+949,December,29,03:38 PM,2016,Scattered Thunderstorms,34
+950,January,4,12:44 PM,2017,Scattered Thunderstorms,34
+951,January,6,12:54 PM,2017,Scattered Thunderstorms,34
+952,January,10,11:13 AM,2017,Scattered Thunderstorms,34
+953,December,20,02:36 PM,2016,Isolated Thunderstorms,35
+954,January,3,02:33 PM,2019,Rain Shower,35
+955,December,22,02:37 PM,2016,Scattered Thunderstorms,35
+956,December,23,12:56 PM,2016,Scattered Thunderstorms,35
+957,December,24,01:56 PM,2017,Rain Shower,36
+958,October,3,02:52 PM,2018,Rain Shower,36
+959,December,31,12:36 PM,2016,Scattered Thunderstorms,36
+960,November,2,02:50 PM,2016,Scattered Thunderstorms,36
+961,November,28,02:37 PM,2016,Scattered Thunderstorms,36
+962,October,17,03:22 PM,2016,Scattered Thunderstorms,36
+963,December,30,12:37 PM,2016,Isolated Thunderstorms,37
+964,October,27,03:31 PM,2016,Isolated Thunderstorms,37
+965,December,24,03:26 PM,2017,Rain Shower,37
+966,December,26,02:34 PM,2016,Scattered Thunderstorms,37
+967,January,1,12:23 PM,2017,Scattered Thunderstorms,37
+968,January,5,12:44 PM,2017,Scattered Thunderstorms,37
+969,December,27,02:49 PM,2016,Scattered Thunderstorms,39
