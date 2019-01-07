@@ -1,0 +1,8 @@
+DateTime,TodaysCondition,HTempC,LTempC,CurrTemp,CurrCond,WSpeedKmh,Direction,UV,Hum
+"January 07, 2019 at 09:00AM",Isolated Thunderstorms,39,24,29,Sunny,14,North,4,66
+"January 07, 2019 at 10:00AM",Isolated Thunderstorms,39,24,32,Sunny,16,North,7,56
+"January 07, 2019 at 11:00AM",Partly Cloudy,39,24,33,Sunny,18,North,11,53
+"January 07, 2019 at 12:00PM",Isolated Thunderstorms,38,24,36,Fair,18,North,11,45
+"January 07, 2019 at 01:00PM",Scattered Thunderstorms,39,24,37,Partly Cloudy,18,North,11,41
+"January 07, 2019 at 02:00PM",Scattered Thunderstorms,39,24,38,Partly Cloudy,18,North,11,38
+"January 07, 2019 at 03:00PM",Scattered Thunderstorms,39,24,39,Partly Cloudy,18,Northeast,11,34
