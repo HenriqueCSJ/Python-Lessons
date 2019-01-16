@@ -1,971 +1,183 @@
-Year,Month,Day,Time,Temp_C,Condition
-2018,Oct,21,06:01:00,15,Rain Shower
-2017,Aug,5,21:18:00,16,Rain Shower
-2018,Aug,27,04:41:00,16,Rain Shower
-2018,Jul,11,20:27:00,16,Rain Shower
-2016,Jul,29,03:42:00,16,Showers
-2016,Jun,21,07:01:00,16,Showers
-2016,Sep,22,06:03:00,17,Few Showers
-2017,Aug,21,13:41:00,17,Light Rain
-2017,Aug,5,04:08:00,17,Rain Shower
-2018,Aug,6,22:58:00,17,Rain Shower
-2018,Aug,7,01:13:00,17,Rain Shower
-2018,Aug,7,03:38:00,17,Rain Shower
-2018,Aug,26,19:46:00,17,Rain Shower
-2018,Aug,26,22:01:00,17,Rain Shower
-2017,May,12,03:03:00,17,Rain Shower
-2018,Sep,5,21:52:00,17,Rain Shower
-2016,Apr,29,07:02:00,17,Showers
-2016,Nov,19,04:46:00,17,Showers
-2017,Aug,18,01:22:00,18,Light Rain
-2018,Jun,15,04:41:00,18,Light Rain
-2017,May,11,21:58:00,18,Light Rain
-2018,Aug,1,22:03:00,18,Rain
-2018,Aug,2,00:33:00,18,Rain
-2017,Aug,21,05:46:00,18,Rain
-2018,Nov,21,02:48:00,18,Rain
-2018,Aug,2,21:37:00,18,Rain Shower
-2018,Aug,4,02:52:00,18,Rain Shower
-2017,Aug,5,18:53:00,18,Rain Shower
-2017,Aug,20,23:51:00,18,Rain Shower
-2018,Aug,26,17:27:00,18,Rain Shower
-2017,Jul,2,17:15:00,18,Rain Shower
-2018,Jun,17,06:39:00,18,Rain Shower
-2018,May,23,21:34:00,18,Rain Shower
-2017,Sep,1,02:39:00,18,Rain Shower
-2016,Jun,7,07:03:00,18,Showers
-2016,Jun,7,20:13:00,18,Showers
-2016,May,13,19:22:00,18,Showers
-2016,May,15,02:50:00,18,Showers
-2016,Sep,30,04:26:00,19,Few Showers
-2017,Apr,23,04:46:00,19,Light Rain
-2018,Aug,6,06:58:00,19,Light Rain
-2017,Jul,4,17:10:00,19,Light Rain
-2018,Jul,31,19:48:00,19,Light Rain
-2018,Jun,18,21:38:00,19,Light Rain
-2017,May,18,01:43:00,19,Light Rain
-2017,May,19,03:44:00,19,Light Rain
-2015,Oct,5,22:07:00,19,Light Rain
-2015,Oct,19,06:34:00,19,Light Rain
-2017,Apr,28,10:02:00,19,Rain
-2018,Aug,1,17:03:00,19,Rain
-2017,Aug,18,16:57:00,19,Rain
-2018,Jul,25,02:32:00,19,Rain
-2016,Jun,3,22:52:00,19,Rain
-2018,Jun,5,18:16:00,19,Rain
-2018,Jun,7,06:47:00,19,Rain
-2017,Jun,20,22:41:00,19,Rain
-2017,Nov,9,15:03:00,19,Rain
-2016,Sep,1,02:02:00,19,Rain
-2017,Sep,27,17:20:00,19,Rain
-2017,Apr,1,23:47:00,19,Rain Shower
-2018,Aug,3,23:32:00,19,Rain Shower
-2017,Aug,4,19:43:00,19,Rain Shower
-2017,Aug,10,22:48:00,19,Rain Shower
-2017,Aug,16,17:42:00,19,Rain Shower
-2018,Aug,16,21:35:00,19,Rain Shower
-2018,Aug,17,18:01:00,19,Rain Shower
-2018,Jun,4,10:16:00,19,Rain Shower
-2018,Jun,15,17:54:00,19,Rain Shower
-2018,Jun,16,22:49:00,19,Rain Shower
-2017,May,7,23:07:00,19,Rain Shower
-2018,May,25,22:46:00,19,Rain Shower
-2018,Nov,20,20:03:00,19,Rain Shower
-2018,Oct,6,20:25:00,19,Rain Shower
-2018,Oct,28,23:22:00,19,Rain Shower
-2016,Apr,29,20:07:00,19,Showers
-2016,Jun,2,04:51:00,19,Showers
-2016,Jun,4,06:50:00,19,Showers
-2016,Oct,5,02:27:00,19,Showers
-2016,Sep,1,08:02:00,19,Showers
-2016,Dec,1,00:26:00,20,Few Showers
-2016,Sep,8,00:31:00,20,Few Showers
-2017,Aug,19,19:51:00,20,Light Rain
-2018,Aug,26,06:22:00,20,Light Rain
-2016,Jan,19,07:34:00,20,Light Rain
-2018,Jul,22,04:28:00,20,Light Rain
-2015,Nov,21,12:38:00,20,Light Rain
-2015,Oct,5,06:56:00,20,Light Rain
-2015,Oct,5,19:53:00,20,Light Rain
-2018,Oct,6,18:10:00,20,Light Rain
-2015,Oct,18,18:53:00,20,Light Rain
-2015,Oct,18,08:23:00,20,Light Rain
-2018,Aug,6,11:18:00,20,Rain
-2018,Feb,6,03:05:00,20,Rain
-2018,Sep,14,19:49:00,20,Rain
-2018,Aug,7,15:58:00,20,Rain Shower
-2017,Aug,15,18:49:00,20,Rain Shower
-2018,Aug,27,14:41:00,20,Rain Shower
-2017,Aug,31,18:39:00,20,Rain Shower
-2018,Jul,21,22:28:00,20,Rain Shower
-2018,Jul,24,21:22:00,20,Rain Shower
-2018,Jun,4,16:16:00,20,Rain Shower
-2018,Jun,8,00:17:00,20,Rain Shower
-2017,Nov,1,04:36:00,20,Rain Shower
-2018,Oct,29,09:21:00,20,Rain Shower
-2016,Jun,2,23:29:00,20,Showers
-2016,Oct,2,18:07:00,21,Few Showers
-2016,Oct,6,07:37:00,21,Few Showers
-2016,Oct,10,17:36:00,21,Few Showers
-2016,Oct,10,19:21:00,21,Few Showers
-2016,Oct,30,10:02:00,21,Few Showers
-2016,Sep,16,01:38:00,21,Few Showers
-2016,Sep,26,15:31:00,21,Few Showers
-2016,Sep,27,18:15:00,21,Few Showers
-2016,Sep,30,06:11:00,21,Few Showers
-2018,Apr,21,05:09:00,21,Light Rain
-2015,Dec,7,14:19:00,21,Light Rain
-2018,Feb,5,06:16:00,21,Light Rain
-2016,Feb,29,23:55:00,21,Light Rain
-2016,Jan,19,00:04:00,21,Light Rain
-2016,Jan,21,04:29:00,21,Light Rain
-2016,Jan,21,06:44:00,21,Light Rain
-2016,Jan,23,03:53:00,21,Light Rain
-2017,Jul,5,16:29:00,21,Light Rain
-2018,Jun,6,18:57:00,21,Light Rain
-2015,Nov,2,07:45:00,21,Light Rain
-2015,Nov,8,04:32:00,21,Light Rain
-2015,Nov,21,17:11:00,21,Light Rain
-2017,Oct,3,18:11:00,21,Light Rain
-2015,Oct,5,00:06:00,21,Light Rain
-2017,Oct,8,20:33:00,21,Light Rain
-2017,Oct,23,05:04:00,21,Light Rain
-2015,Oct,24,23:55:00,21,Light Rain
-2018,Oct,26,02:07:00,21,Light Rain
-2018,Apr,24,14:02:00,21,Rain
-2017,Aug,3,20:19:00,21,Rain
-2017,Aug,17,13:22:00,21,Rain
-2017,Aug,20,19:51:00,21,Rain
-2018,Jan,8,04:42:00,21,Rain
-2017,Jun,13,18:07:00,21,Rain
-2018,Jun,16,13:44:00,21,Rain
-2017,May,14,15:13:00,21,Rain
-2017,Nov,30,13:34:00,21,Rain
-2018,Oct,7,14:25:00,21,Rain
-2017,Oct,23,03:34:00,21,Rain
-2018,Sep,14,15:49:00,21,Rain
-2018,Apr,16,05:30:00,21,Rain Shower
-2017,Apr,18,00:45:00,21,Rain Shower
-2018,Apr,21,22:59:00,21,Rain Shower
-2018,Aug,3,15:47:00,21,Rain Shower
-2018,Aug,16,16:35:00,21,Rain Shower
-2018,Aug,26,00:22:00,21,Rain Shower
-2017,Jul,4,15:40:00,21,Rain Shower
-2018,Jul,10,01:17:00,21,Rain Shower
-2017,Jul,18,12:11:00,21,Rain Shower
-2018,Jul,30,22:03:00,21,Rain Shower
-2017,Mar,28,19:40:00,21,Rain Shower
-2017,Mar,28,21:11:00,21,Rain Shower
-2017,Mar,28,22:45:00,21,Rain Shower
-2017,Mar,29,22:20:00,21,Rain Shower
-2018,May,8,01:25:00,21,Rain Shower
-2017,May,10,23:03:00,21,Rain Shower
-2018,May,20,03:38:00,21,Rain Shower
-2017,Nov,1,00:41:00,21,Rain Shower
-2018,Nov,9,21:53:00,21,Rain Shower
-2018,Nov,17,03:08:00,21,Rain Shower
-2018,Nov,26,22:58:00,21,Rain Shower
-2018,Oct,14,22:08:00,21,Rain Shower
-2018,Oct,16,00:33:00,21,Rain Shower
-2018,Sep,14,23:49:00,21,Rain Shower
-2016,May,7,19:53:00,21,Showers
-2016,Nov,23,03:30:00,21,Showers
-2016,Oct,9,18:16:00,21,Showers
-2016,Oct,29,20:27:00,21,Showers
-2016,Sep,9,16:26:00,21,Showers
-2016,Sep,16,17:28:00,21,Showers
-2016,Sep,21,17:29:00,21,Showers
-2016,Sep,26,16:25:00,21,Showers
-2016,Sep,29,20:22:00,21,Showers
-2016,Jun,6,20:13:00,21,Thunderstorms
-2016,Dec,16,10:44:00,22,Few Showers
-2016,Sep,16,07:38:00,22,Few Showers
-2016,Sep,19,21:24:00,22,Few Showers
-2016,Nov,18,04:46:00,22,Isolated Thunderstorms
-2017,Apr,14,22:50:00,22,Light Rain
-2015,Dec,1,18:41:00,22,Light Rain
-2015,Dec,3,01:03:00,22,Light Rain
-2015,Dec,3,16:08:00,22,Light Rain
-2015,Dec,3,08:35:00,22,Light Rain
-2015,Dec,7,16:36:00,22,Light Rain
-2015,Dec,8,00:11:00,22,Light Rain
-2018,Dec,26,06:54:00,22,Light Rain
-2018,Dec,27,00:54:00,22,Light Rain
-2016,Feb,21,22:56:00,22,Light Rain
-2018,Jan,9,02:42:00,22,Light Rain
-2016,Jan,18,21:04:00,22,Light Rain
-2016,Jan,19,11:19:00,22,Light Rain
-2016,Jan,20,18:37:00,22,Light Rain
-2016,Jan,20,23:15:00,22,Light Rain
-2016,Jan,21,00:44:00,22,Light Rain
-2016,Jan,22,09:03:00,22,Light Rain
-2017,Jul,1,17:13:00,22,Light Rain
-2018,Jul,9,18:52:00,22,Light Rain
-2018,Jun,14,07:46:00,22,Light Rain
-2017,Jun,23,17:09:00,22,Light Rain
-2016,Mar,2,04:49:00,22,Light Rain
-2018,May,13,07:51:00,22,Light Rain
-2018,Nov,2,05:39:00,22,Light Rain
-2015,Nov,4,22:12:00,22,Light Rain
-2018,Nov,4,20:31:00,22,Light Rain
-2017,Nov,5,23:25:00,22,Light Rain
-2015,Nov,8,00:02:00,22,Light Rain
-2015,Nov,25,23:48:00,22,Light Rain
-2018,Nov,26,02:28:00,22,Light Rain
-2018,Oct,7,22:45:00,22,Light Rain
-2018,Oct,14,18:13:00,22,Light Rain
-2018,Oct,25,08:12:00,22,Light Rain
-2015,Oct,28,22:03:00,22,Light Rain
-2015,Oct,29,02:48:00,22,Light Rain
-2015,Oct,29,06:55:00,22,Light Rain
-2015,Sep,25,23:30:00,22,Light Rain
-2018,Sep,28,03:37:00,22,Light Rain
-2015,Sep,29,06:10:00,22,Light Rain
-2015,Nov,23,09:12:00,22,Light Rain with Thunder
-2017,Apr,22,05:09:00,22,Rain
-2018,Aug,25,20:42:00,22,Rain
-2017,Dec,7,20:19:00,22,Rain
-2018,Jun,7,15:32:00,22,Rain
-2018,Jun,13,17:51:00,22,Rain
-2016,Mar,1,15:23:00,22,Rain
-2017,Mar,19,21:38:00,22,Rain
-2018,Mar,30,11:32:00,22,Rain
-2017,May,21,23:12:00,22,Rain
-2018,Nov,7,22:38:00,22,Rain
-2017,Nov,10,23:03:00,22,Rain
-2017,Nov,21,00:52:00,22,Rain
-2017,Nov,30,20:44:00,22,Rain
-2017,Oct,7,14:58:00,22,Rain
-2017,Oct,23,11:44:00,22,Rain
-2017,Oct,26,18:35:00,22,Rain
-2017,Oct,30,13:06:00,22,Rain
-2018,Sep,3,19:37:00,22,Rain
-2017,Sep,30,09:30:00,22,Rain
-2018,Apr,7,23:13:00,22,Rain Shower
-2017,Apr,18,08:45:00,22,Rain Shower
-2018,Apr,23,16:02:00,22,Rain Shower
-2018,Aug,1,11:03:00,22,Rain Shower
-2018,Aug,2,13:03:00,22,Rain Shower
-2017,Dec,12,02:47:00,22,Rain Shower
-2017,Dec,12,04:22:00,22,Rain Shower
-2017,Dec,12,18:27:00,22,Rain Shower
-2017,Feb,2,23:09:00,22,Rain Shower
-2018,Feb,6,23:38:00,22,Rain Shower
-2018,Jan,5,09:01:00,22,Rain Shower
-2018,Jan,8,23:17:00,22,Rain Shower
-2018,Jan,8,00:07:00,22,Rain Shower
-2018,Jul,3,19:13:00,22,Rain Shower
-2018,Jul,4,09:13:00,22,Rain Shower
-2018,Jun,17,17:19:00,22,Rain Shower
-2017,Mar,20,20:26:00,22,Rain Shower
-2017,May,3,15:35:00,22,Rain Shower
-2018,May,6,21:48:00,22,Rain Shower
-2017,Nov,6,15:10:00,22,Rain Shower
-2017,Nov,11,15:58:00,22,Rain Shower
-2017,Nov,11,17:28:00,22,Rain Shower
-2018,Nov,11,02:23:00,22,Rain Shower
-2018,Nov,11,05:23:00,22,Rain Shower
-2017,Nov,16,20:49:00,22,Rain Shower
-2018,Nov,27,21:16:00,22,Rain Shower
-2017,Oct,2,15:41:00,22,Rain Shower
-2018,Oct,15,16:58:00,22,Rain Shower
-2018,Oct,25,19:27:00,22,Rain Shower
-2016,May,23,10:47:00,22,Scattered Thunderstorms
-2016,Oct,11,19:34:00,22,Scattered Thunderstorms
-2016,Dec,10,03:11:00,22,Showers
-2016,Nov,30,19:51:00,22,Showers
-2016,Oct,2,10:37:00,22,Showers
-2016,Oct,28,17:46:00,22,Showers
-2015,Nov,23,03:57:00,22,Thunder
-2016,May,10,20:01:00,22,Thunderstorms
-2016,Nov,24,06:35:00,23,Few Showers
-2016,Sep,9,14:20:00,23,Few Showers
-2016,Sep,24,16:08:00,23,Few Showers
-2016,Nov,10,02:46:00,23,Isolated Thunderstorms
-2018,Apr,6,01:02:00,23,Light Rain
-2018,Dec,6,21:20:00,23,Light Rain
-2017,Dec,8,04:39:00,23,Light Rain
-2016,Feb,22,22:29:00,23,Light Rain
-2016,Jan,18,16:31:00,23,Light Rain
-2016,Jan,20,12:37:00,23,Light Rain
-2016,Jan,22,12:48:00,23,Light Rain
-2016,Jan,29,06:51:00,23,Light Rain
-2016,Mar,1,12:48:00,23,Light Rain
-2016,Mar,24,05:11:00,23,Light Rain
-2015,Nov,3,07:05:00,23,Light Rain
-2015,Nov,4,08:42:00,23,Light Rain
-2015,Nov,6,09:54:00,23,Light Rain
-2015,Nov,9,09:14:00,23,Light Rain
-2015,Nov,9,00:11:00,23,Light Rain
-2018,Nov,10,23:53:00,23,Light Rain
-2015,Nov,17,03:53:00,23,Light Rain
-2015,Nov,23,19:06:00,23,Light Rain
-2018,Nov,23,02:52:00,23,Light Rain
-2015,Nov,25,20:36:00,23,Light Rain
-2017,Nov,28,07:16:00,23,Light Rain
-2017,Oct,3,03:30:00,23,Light Rain
-2018,Oct,14,03:15:00,23,Light Rain
-2017,Oct,15,03:37:00,23,Light Rain
-2018,Oct,18,01:53:00,23,Light Rain
-2015,Oct,22,18:09:00,23,Light Rain
-2015,Oct,27,23:00:00,23,Light Rain
-2015,Oct,28,18:00:00,23,Light Rain
-2015,Oct,28,08:51:00,23,Light Rain
-2018,Sep,20,22:53:00,23,Light Rain
-2015,Sep,26,02:04:00,23,Light Rain
-2015,Sep,28,09:53:00,23,Light Rain
-2018,Sep,28,21:14:00,23,Light Rain
-2016,Feb,16,21:33:00,23,Light Rain with Thunder
-2016,Feb,21,19:12:00,23,Light Rain with Thunder
-2015,Nov,28,23:04:00,23,Light Rain with Thunder
-2017,Apr,22,09:14:00,23,Rain
-2017,Aug,18,13:24:00,23,Rain
-2017,Dec,16,14:21:00,23,Rain
-2017,Feb,1,14:44:00,23,Rain
-2018,Jan,8,08:57:00,23,Rain
-2018,Jan,12,15:04:00,23,Rain
-2018,Jan,16,14:59:00,23,Rain
-2017,Jan,29,14:35:00,23,Rain
-2017,Mar,18,05:03:00,23,Rain
-2017,Mar,18,23:18:00,23,Rain
-2015,Nov,2,19:39:00,23,Rain
-2018,Nov,7,12:48:00,23,Rain
-2017,Nov,10,17:58:00,23,Rain
-2018,Nov,11,14:48:00,23,Rain
-2018,Nov,11,22:28:00,23,Rain
-2017,Oct,3,16:41:00,23,Rain
-2017,Oct,3,08:51:00,23,Rain
-2018,Oct,8,12:55:00,23,Rain
-2017,Oct,21,21:44:00,23,Rain
-2018,Oct,24,18:37:00,23,Rain
-2017,Oct,28,00:29:00,23,Rain
-2018,Sep,17,13:47:00,23,Rain
-2018,Sep,20,14:18:00,23,Rain
-2018,Sep,27,14:02:00,23,Rain
-2018,Apr,6,23:02:00,23,Rain Shower
-2018,Apr,14,23:35:00,23,Rain Shower
-2018,Apr,15,01:05:00,23,Rain Shower
-2018,Apr,16,09:30:00,23,Rain Shower
-2018,Apr,25,16:03:00,23,Rain Shower
-2017,Apr,27,04:37:00,23,Rain Shower
-2018,Aug,9,18:06:00,23,Rain Shower
-2018,Aug,25,16:42:00,23,Rain Shower
-2017,Aug,31,12:39:00,23,Rain Shower
-2017,Dec,1,11:19:00,23,Rain Shower
-2018,Dec,7,16:53:00,23,Rain Shower
-2018,Feb,14,07:10:00,23,Rain Shower
-2018,Jan,5,10:31:00,23,Rain Shower
-2017,Jan,22,23:53:00,23,Rain Shower
-2018,Jan,30,04:14:00,23,Rain Shower
-2018,Jun,3,13:26:00,23,Rain Shower
-2018,Jun,18,13:44:00,23,Rain Shower
-2017,Jun,24,17:09:00,23,Rain Shower
-2018,Mar,9,07:54:00,23,Rain Shower
-2017,Mar,14,04:08:00,23,Rain Shower
-2017,Mar,20,13:31:00,23,Rain Shower
-2018,Mar,28,19:36:00,23,Rain Shower
-2018,May,7,17:40:00,23,Rain Shower
-2018,May,8,11:01:00,23,Rain Shower
-2018,Nov,4,18:56:00,23,Rain Shower
-2017,Nov,11,14:28:00,23,Rain Shower
-2017,Nov,19,20:37:00,23,Rain Shower
-2017,Nov,22,06:52:00,23,Rain Shower
-2018,Nov,22,21:02:00,23,Rain Shower
-2018,Nov,23,06:37:00,23,Rain Shower
-2017,Nov,28,05:41:00,23,Rain Shower
-2017,Oct,2,21:30:00,23,Rain Shower
-2018,Oct,7,11:25:00,23,Rain Shower
-2018,Oct,11,05:15:00,23,Rain Shower
-2018,Oct,12,07:45:00,23,Rain Shower
-2018,Oct,14,16:18:00,23,Rain Shower
-2018,Oct,14,06:33:00,23,Rain Shower
-2018,Sep,27,19:32:00,23,Rain Shower
-2016,May,11,11:23:00,23,Scattered Thunderstorms
-2016,Nov,12,04:09:00,23,Scattered Thunderstorms
-2016,Dec,5,18:45:00,23,Showers
-2016,Dec,17,08:45:00,23,Showers
-2016,Oct,5,14:17:00,23,Showers
-2015,Nov,6,19:17:00,23,Thunderstorm
-2016,Dec,5,09:20:00,24,Isolated Thunderstorms
-2017,Jan,12,07:33:00,24,Isolated Thunderstorms
-2018,Apr,4,18:52:00,24,Light Rain
-2018,Apr,12,17:55:00,24,Light Rain
-2017,Apr,27,15:57:00,24,Light Rain
-2015,Dec,5,21:44:00,24,Light Rain
-2015,Dec,6,20:45:00,24,Light Rain
-2015,Dec,9,23:58:00,24,Light Rain
-2017,Dec,16,20:26:00,24,Light Rain
-2018,Dec,27,21:04:00,24,Light Rain
-2016,Feb,11,20:52:00,24,Light Rain
-2016,Feb,15,18:59:00,24,Light Rain
-2016,Feb,18,02:42:00,24,Light Rain
-2017,Feb,26,02:32:00,24,Light Rain
-2016,Jan,2,03:29:00,24,Light Rain
-2018,Jan,9,22:32:00,24,Light Rain
-2016,Jan,12,01:15:00,24,Light Rain
-2016,Jan,14,04:04:00,24,Light Rain
-2016,Jan,15,17:39:00,24,Light Rain
-2016,Jan,16,21:39:00,24,Light Rain
-2018,Jan,23,02:55:00,24,Light Rain
-2017,Jan,30,20:36:00,24,Light Rain
-2018,Jun,7,10:47:00,24,Light Rain
-2017,Jun,20,14:36:00,24,Light Rain
-2017,Mar,3,02:24:00,24,Light Rain
-2017,Mar,8,21:49:00,24,Light Rain
-2017,Mar,21,18:31:00,24,Light Rain
-2016,Mar,25,07:53:00,24,Light Rain
-2018,Mar,27,17:56:00,24,Light Rain
-2018,Mar,29,17:32:00,24,Light Rain
-2018,Mar,31,17:07:00,24,Light Rain
-2017,May,5,14:50:00,24,Light Rain
-2015,Nov,3,16:12:00,24,Light Rain
-2015,Nov,6,12:56:00,24,Light Rain
-2018,Nov,9,11:58:00,24,Light Rain
-2018,Nov,10,10:08:00,24,Light Rain
-2018,Nov,11,20:08:00,24,Light Rain
-2017,Nov,19,19:02:00,24,Light Rain
-2015,Nov,24,18:31:00,24,Light Rain
-2015,Nov,29,20:14:00,24,Light Rain
-2018,Nov,30,21:58:00,24,Light Rain
-2017,Oct,3,11:21:00,24,Light Rain
-2018,Oct,4,20:52:00,24,Light Rain
-2017,Oct,9,18:50:00,24,Light Rain
-2018,Oct,18,05:58:00,24,Light Rain
-2017,Oct,27,22:09:00,24,Light Rain
-2018,Oct,27,20:17:00,24,Light Rain
-2018,Oct,31,21:11:00,24,Light Rain
-2018,Sep,18,16:08:00,24,Light Rain
-2015,Sep,27,20:00:00,24,Light Rain
-2018,Sep,30,17:09:00,24,Light Rain
-2016,Mar,12,20:17:00,24,Light Rain with Thunder
-2018,Apr,2,20:58:00,24,Rain
-2018,Apr,3,20:13:00,24,Rain
-2018,Apr,7,13:42:00,24,Rain
-2018,Apr,8,15:08:00,24,Rain
-2017,Apr,22,13:31:00,24,Rain
-2018,Dec,1,15:21:00,24,Rain
-2017,Dec,18,14:19:00,24,Rain
-2017,Dec,21,06:53:00,24,Rain
-2017,Dec,23,15:26:00,24,Rain
-2018,Dec,26,14:20:00,24,Rain
-2018,Dec,26,14:54:00,24,Rain
-2018,Dec,27,14:54:00,24,Rain
-2017,Feb,2,18:34:00,24,Rain
-2018,Feb,13,18:55:00,24,Rain
-2018,Feb,16,14:58:00,24,Rain
-2018,Feb,26,13:08:00,24,Rain
-2017,Feb,28,13:20:00,24,Rain
-2019,Jan,4,22:23:00,24,Rain
-2018,Jan,5,20:13:00,24,Rain
-2016,Jan,12,05:45:00,24,Rain
-2016,Jan,13,21:03:00,24,Rain
-2018,Jan,13,13:26:00,24,Rain
-2018,Jan,17,14:49:00,24,Rain
-2017,Jan,21,14:34:00,24,Rain
-2017,Jan,22,14:33:00,24,Rain
-2018,Jan,23,20:25:00,24,Rain
-2017,Jan,30,14:31:00,24,Rain
-2017,Jan,30,16:50:00,24,Rain
-2018,Jan,30,07:49:00,24,Rain
-2017,Mar,1,17:05:00,24,Rain
-2017,Mar,10,16:19:00,24,Rain
-2017,May,22,10:22:00,24,Rain
-2018,Nov,3,16:34:00,24,Rain
-2018,Nov,13,17:58:00,24,Rain
-2018,Nov,14,17:58:00,24,Rain
-2017,Nov,19,12:37:00,24,Rain
-2018,Nov,19,13:08:00,24,Rain
-2017,Nov,21,14:52:00,24,Rain
-2018,Nov,26,10:08:00,24,Rain
-2017,Nov,27,14:06:00,24,Rain
-2018,Oct,10,12:55:00,24,Rain
-2018,Oct,13,20:05:00,24,Rain
-2018,Oct,18,13:33:00,24,Rain
-2017,Oct,30,20:56:00,24,Rain
-2018,Sep,27,16:17:00,24,Rain
-2017,Apr,8,21:57:00,24,Rain Shower
-2018,Apr,12,15:35:00,24,Rain Shower
-2018,Apr,14,21:20:00,24,Rain Shower
-2018,Apr,15,09:30:00,24,Rain Shower
-2017,Aug,19,16:01:00,24,Rain Shower
-2017,Dec,2,17:35:00,24,Rain Shower
-2018,Dec,2,19:01:00,24,Rain Shower
-2017,Dec,3,21:30:00,24,Rain Shower
-2018,Dec,4,14:20:00,24,Rain Shower
-2018,Dec,5,20:20:00,24,Rain Shower
-2018,Dec,7,11:18:00,24,Rain Shower
-2017,Dec,12,09:02:00,24,Rain Shower
-2017,Dec,12,12:57:00,24,Rain Shower
-2018,Feb,14,23:10:00,24,Rain Shower
-2017,Feb,19,17:24:00,24,Rain Shower
-2017,Feb,21,12:29:00,24,Rain Shower
-2018,Jan,4,10:31:00,24,Rain Shower
-2018,Jan,6,00:11:00,24,Rain Shower
-2018,Jan,13,14:56:00,24,Rain Shower
-2018,Jan,18,20:04:00,24,Rain Shower
-2018,Jan,20,23:54:00,24,Rain Shower
-2018,Jan,22,00:39:00,24,Rain Shower
-2018,Jan,27,08:37:00,24,Rain Shower
-2017,Jan,31,14:44:00,24,Rain Shower
-2018,Jul,31,13:03:00,24,Rain Shower
-2017,Mar,14,21:38:00,24,Rain Shower
-2017,Mar,20,10:21:00,24,Rain Shower
-2018,Mar,22,01:31:00,24,Rain Shower
-2018,Mar,23,19:04:00,24,Rain Shower
-2018,Mar,29,13:46:00,24,Rain Shower
-2018,May,2,15:52:00,24,Rain Shower
-2018,May,13,13:01:00,24,Rain Shower
-2018,May,17,15:37:00,24,Rain Shower
-2018,May,25,15:19:00,24,Rain Shower
-2018,Nov,4,01:04:00,24,Rain Shower
-2018,Nov,9,13:33:00,24,Rain Shower
-2018,Nov,10,20:53:00,24,Rain Shower
-2018,Nov,12,20:53:00,24,Rain Shower
-2017,Nov,22,11:52:00,24,Rain Shower
-2018,Nov,27,15:58:00,24,Rain Shower
-2018,Nov,28,14:18:00,24,Rain Shower
-2018,Nov,30,18:08:00,24,Rain Shower
-2018,Oct,1,01:39:00,24,Rain Shower
-2018,Oct,9,09:05:00,24,Rain Shower
-2018,Oct,11,08:30:00,24,Rain Shower
-2018,Oct,16,10:03:00,24,Rain Shower
-2018,Oct,17,23:18:00,24,Rain Shower
-2018,Oct,25,14:42:00,24,Rain Shower
-2018,Oct,27,07:42:00,24,Rain Shower
-2017,Oct,31,17:31:00,24,Rain Shower
-2018,Sep,18,18:47:00,24,Rain Shower
-2018,Sep,30,21:44:00,24,Rain Shower
-2016,Dec,4,07:44:00,24,Scattered Thunderstorms
-2016,Nov,18,08:06:00,24,Scattered Thunderstorms
-2016,Sep,8,14:14:00,24,Scattered Thunderstorms
-2017,Jan,13,03:33:00,24,Showers
-2017,Jan,13,07:08:00,24,Showers
-2017,Jan,14,00:53:00,24,Showers
-2016,Nov,22,19:00:00,24,Showers
-2016,Nov,23,09:40:00,24,Showers
-2017,Jan,17,05:38:00,25,Few Showers
-2016,Nov,6,10:30:00,25,Few Showers
-2017,Apr,7,01:23:00,25,Light Rain
-2017,Apr,12,15:45:00,25,Light Rain
-2017,Apr,14,14:15:00,25,Light Rain
-2017,Apr,27,11:42:00,25,Light Rain
-2017,Dec,1,14:19:00,25,Light Rain
-2017,Dec,3,16:35:00,25,Light Rain
-2016,Feb,11,07:05:00,25,Light Rain
-2016,Feb,16,04:35:00,25,Light Rain
-2017,Feb,25,15:52:00,25,Light Rain
-2016,Jan,2,16:59:00,25,Light Rain
-2016,Jan,3,19:15:00,25,Light Rain
-2016,Jan,3,11:00:00,25,Light Rain
-2018,Jan,11,23:04:00,25,Light Rain
-2016,Jan,12,09:30:00,25,Light Rain
-2016,Jan,14,16:49:00,25,Light Rain
-2016,Jan,14,23:41:00,25,Light Rain
-2016,Jan,15,09:24:00,25,Light Rain
-2016,Jan,28,09:09:00,25,Light Rain
-2016,Jan,28,21:49:00,25,Light Rain
-2018,Mar,21,01:31:00,25,Light Rain
-2016,Mar,26,06:46:00,25,Light Rain
-2018,Mar,27,19:36:00,25,Light Rain
-2015,Nov,2,13:05:00,25,Light Rain
-2018,Nov,16,08:18:00,25,Light Rain
-2015,Nov,20,11:22:00,25,Light Rain
-2015,Nov,21,08:05:00,25,Light Rain
-2017,Nov,27,18:51:00,25,Light Rain
-2018,Nov,30,20:28:00,25,Light Rain
-2015,Oct,22,16:26:00,25,Light Rain
-2017,Oct,22,19:44:00,25,Light Rain
-2018,Oct,24,15:32:00,25,Light Rain
-2015,Sep,26,16:50:00,25,Light Rain
-2018,Jan,7,17:17:00,25,Light Rain with Thunder
-2017,Feb,4,14:31:00,25,Rain
-2017,Feb,26,12:52:00,25,Rain
-2018,Feb,26,17:38:00,25,Rain
-2018,Jan,3,13:42:00,25,Rain
-2019,Jan,3,20:48:00,25,Rain
-2019,Jan,4,20:03:00,25,Rain
-2018,Jan,13,19:32:00,25,Rain
-2018,Jan,26,17:17:00,25,Rain
-2017,Jun,12,16:07:00,25,Rain
-2017,Jun,13,14:07:00,25,Rain
-2017,Mar,18,10:28:00,25,Rain
-2018,Mar,23,14:06:00,25,Rain
-2017,May,21,12:22:00,25,Rain
-2018,Nov,19,05:48:00,25,Rain
-2017,Nov,22,15:37:00,25,Rain
-2018,Apr,1,17:08:00,25,Rain Shower
-2018,Apr,11,13:20:00,25,Rain Shower
-2018,Apr,14,17:55:00,25,Rain Shower
-2017,Dec,3,15:05:00,25,Rain Shower
-2018,Dec,27,12:39:00,25,Rain Shower
-2017,Feb,11,17:27:00,25,Rain Shower
-2018,Feb,13,21:35:00,25,Rain Shower
-2017,Feb,21,13:59:00,25,Rain Shower
-2018,Feb,22,20:43:00,25,Rain Shower
-2018,Jan,7,10:32:00,25,Rain Shower
-2018,Jan,9,13:27:00,25,Rain Shower
-2018,Jan,9,11:57:00,25,Rain Shower
-2018,Jan,10,15:49:00,25,Rain Shower
-2018,Mar,17,02:37:00,25,Rain Shower
-2017,Mar,28,11:15:00,25,Rain Shower
-2018,May,17,13:22:00,25,Rain Shower
-2018,May,25,13:04:00,25,Rain Shower
-2017,Nov,25,23:10:00,25,Rain Shower
-2018,Oct,1,12:39:00,25,Rain Shower
-2017,Oct,2,17:15:00,25,Rain Shower
-2018,Oct,4,18:37:00,25,Rain Shower
-2018,Oct,11,10:00:00,25,Rain Shower
-2018,Oct,12,09:15:00,25,Rain Shower
-2017,Oct,21,13:44:00,25,Rain Shower
-2018,Oct,27,18:02:00,25,Rain Shower
-2016,Jun,2,17:24:00,25,Scattered Thunderstorms
-2016,Sep,7,16:02:00,25,Showers
-2016,Feb,15,21:04:00,25,Thunder in the Vicinity
-2015,Nov,29,15:45:00,25,Thunder
-2016,Nov,6,14:30:00,26,Few Showers
-2016,Nov,24,17:55:00,26,Few Showers
-2016,Oct,3,13:03:00,26,Few Showers
-2018,Apr,2,18:38:00,26,Light Rain
-2017,Apr,6,21:32:00,26,Light Rain
-2017,Apr,7,16:57:00,26,Light Rain
-2017,Apr,17,15:25:00,26,Light Rain
-2017,Apr,27,09:12:00,26,Light Rain
-2017,Dec,22,13:08:00,26,Light Rain
-2018,Dec,25,13:29:00,26,Light Rain
-2017,Dec,31,12:50:00,26,Light Rain
-2017,Feb,7,20:51:00,26,Light Rain
-2017,Feb,10,12:12:00,26,Light Rain
-2016,Feb,11,16:10:00,26,Light Rain
-2016,Feb,11,12:38:00,26,Light Rain
-2018,Feb,18,13:13:00,26,Light Rain
-2016,Feb,29,09:18:00,26,Light Rain
-2016,Jan,1,20:44:00,26,Light Rain
-2019,Jan,2,22:18:00,26,Light Rain
-2018,Jan,4,12:47:00,26,Light Rain
-2019,Jan,4,02:28:00,26,Light Rain
-2018,Jan,6,16:31:00,26,Light Rain
-2017,Jan,20,11:24:00,26,Light Rain
-2018,Jan,21,22:14:00,26,Light Rain
-2016,Jan,28,18:52:00,26,Light Rain
-2017,Jan,29,20:36:00,26,Light Rain
-2016,Mar,4,03:48:00,26,Light Rain
-2016,Mar,11,09:12:00,26,Light Rain
-2016,Mar,26,20:26:00,26,Light Rain
-2018,Nov,12,14:48:00,26,Light Rain
-2017,Nov,19,14:27:00,26,Light Rain
-2018,Sep,29,14:09:00,26,Light Rain
-2018,Sep,29,11:39:00,26,Light Rain
-2015,Sep,30,13:49:00,26,Light Rain
-2018,Dec,28,13:01:00,26,Light Rain with Thunder
-2016,Mar,16,14:50:00,26,Light Rain with Thunder
-2018,Apr,5,13:44:00,26,Rain
-2017,Apr,7,13:52:00,26,Rain
-2018,Dec,20,15:54:00,26,Rain
-2018,Dec,24,13:26:00,26,Rain
-2017,Dec,26,13:53:00,26,Rain
-2017,Dec,30,15:05:00,26,Rain
-2018,Dec,30,14:21:00,26,Rain
-2018,Dec,31,14:23:00,26,Rain
-2017,Feb,5,13:49:00,26,Rain
-2018,Feb,10,18:15:00,26,Rain
-2018,Feb,14,14:25:00,26,Rain
-2018,Feb,27,16:03:00,26,Rain
-2018,Feb,28,13:08:00,26,Rain
-2019,Jan,2,13:48:00,26,Rain
-2017,Mar,2,17:59:00,26,Rain
-2018,Mar,3,17:02:00,26,Rain
-2018,Mar,8,09:40:00,26,Rain
-2018,Mar,15,16:42:00,26,Rain
-2017,Nov,22,14:07:00,26,Rain
-2018,Apr,2,14:08:00,26,Rain Shower
-2018,Apr,4,13:28:00,26,Rain Shower
-2018,Apr,8,11:23:00,26,Rain Shower
-2017,Dec,7,16:29:00,26,Rain Shower
-2017,Dec,9,10:57:00,26,Rain Shower
-2018,Dec,16,22:49:00,26,Rain Shower
-2017,Dec,30,10:35:00,26,Rain Shower
-2018,Feb,15,15:13:00,26,Rain Shower
-2018,Feb,17,15:03:00,26,Rain Shower
-2018,Feb,23,10:28:00,26,Rain Shower
-2018,Feb,25,14:33:00,26,Rain Shower
-2017,Feb,27,13:21:00,26,Rain Shower
-2018,Jan,1,15:12:00,26,Rain Shower
-2019,Jan,1,20:38:00,26,Rain Shower
-2018,Jan,8,11:12:00,26,Rain Shower
-2018,Jan,12,18:54:00,26,Rain Shower
-2018,Jan,21,14:29:00,26,Rain Shower
-2018,Jan,28,15:04:00,26,Rain Shower
-2018,Mar,9,10:54:00,26,Rain Shower
-2018,Mar,10,18:34:00,26,Rain Shower
-2018,Mar,10,11:39:00,26,Rain Shower
-2018,Mar,22,11:02:00,26,Rain Shower
-2017,Nov,11,09:53:00,26,Rain Shower
-2017,Nov,17,12:57:00,26,Rain Shower
-2017,Nov,18,19:42:00,26,Rain Shower
-2018,Nov,23,19:27:00,26,Rain Shower
-2018,Nov,25,12:53:00,26,Rain Shower
-2017,Nov,26,14:01:00,26,Rain Shower
-2018,Oct,4,07:57:00,26,Rain Shower
-2018,Oct,9,14:31:00,26,Rain Shower
-2018,Oct,11,12:16:00,26,Rain Shower
-2018,Oct,12,10:45:00,26,Rain Shower
-2018,Oct,13,16:15:00,26,Rain Shower
-2018,Oct,19,16:08:00,26,Rain Shower
-2018,Oct,27,15:02:00,26,Rain Shower
-2017,Oct,28,13:14:00,26,Rain Shower
-2018,Sep,27,17:57:00,26,Rain Shower
-2018,Sep,28,13:17:00,26,Rain Shower
-2018,Sep,28,11:37:00,26,Rain Shower
-2016,Dec,17,10:20:00,26,Showers
-2016,Nov,6,12:01:00,26,Showers
-2016,Nov,24,12:51:00,26,Showers
-2016,Nov,29,02:52:00,26,Showers
-2016,Sep,2,14:04:00,26,Showers
-2015,Dec,17,18:41:00,26,Thunder
-2015,Dec,19,21:48:00,26,Thunder in the Vicinity
-2016,Jan,12,19:15:00,26,Thunderstorm
-2016,Oct,13,21:13:00,27,Few Showers
-2016,Oct,13,21:45:00,27,Few Showers
-2016,Oct,21,16:24:00,27,Few Showers
-2016,Sep,29,12:29:00,27,Few Showers
-2016,Dec,14,09:09:00,27,Isolated Thunderstorms
-2018,Apr,6,12:27:00,27,Light Rain
-2017,Apr,10,14:10:00,27,Light Rain
-2017,Apr,12,12:00:00,27,Light Rain
-2017,Dec,26,16:53:00,27,Light Rain
-2017,Dec,27,18:23:00,27,Light Rain
-2017,Dec,27,10:53:00,27,Light Rain
-2017,Feb,7,18:36:00,27,Light Rain
-2017,Feb,8,10:56:00,27,Light Rain
-2018,Feb,21,18:43:00,27,Light Rain
-2018,Feb,27,11:33:00,27,Light Rain
-2018,Feb,28,16:58:00,27,Light Rain
-2019,Jan,3,20:58:00,27,Light Rain
-2018,Jan,7,15:47:00,27,Light Rain
-2016,Jan,11,19:21:00,27,Light Rain
-2016,Jan,13,17:18:00,27,Light Rain
-2017,Mar,5,15:35:00,27,Light Rain
-2016,Mar,11,00:47:00,27,Light Rain
-2017,Mar,11,14:53:00,27,Light Rain
-2018,Mar,13,16:10:00,27,Light Rain
-2016,Mar,29,19:27:00,27,Light Rain
-2015,Nov,20,05:20:00,27,Light Rain
-2018,Oct,17,17:38:00,27,Light Rain
-2016,Feb,16,18:23:00,27,Light Rain Shower
-2018,Apr,3,17:08:00,27,Light Rain with Thunder
-2018,Feb,19,14:56:00,27,Light Rain with Thunder
-2018,Feb,21,14:08:00,27,Light Rain with Thunder
-2018,Jan,22,16:46:00,27,Light Rain with Thunder
-2017,Jan,25,16:54:00,27,Light Rain with Thunder
-2016,Jan,28,16:30:00,27,Light Rain with Thunder
-2016,Mar,6,20:11:00,27,Light Rain with Thunder
-2016,Mar,23,18:56:00,27,Light Rain with Thunder
-2018,Nov,15,14:28:00,27,Light Rain with Thunder
-2018,Mar,2,13:08:00,27,Rain
-2018,Mar,2,16:17:00,27,Rain
-2016,Oct,25,10:42:00,27,Rain
-2017,Apr,6,15:42:00,27,Rain Shower
-2018,Apr,26,14:03:00,27,Rain Shower
-2018,Dec,15,16:12:00,27,Rain Shower
-2018,Dec,16,16:09:00,27,Rain Shower
-2018,Dec,21,15:39:00,27,Rain Shower
-2018,Dec,23,14:11:00,27,Rain Shower
-2018,Dec,25,11:54:00,27,Rain Shower
-2017,Dec,28,09:23:00,27,Rain Shower
-2017,Feb,3,15:21:00,27,Rain Shower
-2018,Feb,11,16:15:00,27,Rain Shower
-2018,Feb,20,18:36:00,27,Rain Shower
-2017,Feb,23,16:34:00,27,Rain Shower
-2018,Feb,24,13:33:00,27,Rain Shower
-2017,Feb,25,14:22:00,27,Rain Shower
-2017,Feb,25,17:22:00,27,Rain Shower
-2017,Feb,26,10:32:00,27,Rain Shower
-2019,Jan,1,13:43:00,27,Rain Shower
-2018,Jan,2,15:57:00,27,Rain Shower
-2018,Jan,5,17:26:00,27,Rain Shower
-2019,Jan,5,14:28:00,27,Rain Shower
-2018,Jan,11,17:34:00,27,Rain Shower
-2018,Jan,14,16:21:00,27,Rain Shower
-2018,Jan,19,21:39:00,27,Rain Shower
-2018,Jan,20,13:44:00,27,Rain Shower
-2017,Jan,24,18:53:00,27,Rain Shower
-2018,Jan,29,16:39:00,27,Rain Shower
-2017,Mar,2,14:54:00,27,Rain Shower
-2017,Mar,13,15:43:00,27,Rain Shower
-2018,Mar,21,14:51:00,27,Rain Shower
-2018,May,3,12:07:00,27,Rain Shower
-2017,Nov,5,11:45:00,27,Rain Shower
-2017,Nov,24,15:10:00,27,Rain Shower
-2017,Nov,25,15:10:00,27,Rain Shower
-2018,Oct,1,14:54:00,27,Rain Shower
-2016,Oct,12,11:58:00,27,Scattered Thunderstorms
-2016,Sep,6,12:33:00,27,Showers
-2015,Dec,18,20:17:00,27,Thunder
-2016,Feb,22,19:20:00,27,Thunder
-2015,Dec,21,19:00:00,27,Thunder in the Vicinity
-2016,Mar,30,19:54:00,27,Thunder in the Vicinity
-2016,Mar,17,17:38:00,27,Thunder
-2015,Nov,18,18:07:00,27,Thunder
-2016,Nov,3,01:20:00,28,Few Showers
-2016,Oct,23,15:39:00,28,Few Showers
-2016,Dec,12,08:47:00,28,Isolated Thunderstorms
-2018,Feb,13,13:05:00,28,Light Rain
-2017,Mar,6,15:40:00,28,Light Rain
-2016,Mar,11,12:15:00,28,Light Rain
-2016,Mar,4,20:44:00,28,Light Rain with Thunder
-2015,Oct,22,11:27:00,28,Light Rain with Thunder
-2018,Apr,5,10:37:00,28,Rain Shower
-2017,Apr,8,12:22:00,28,Rain Shower
-2017,Apr,9,13:52:00,28,Rain Shower
-2017,Dec,4,12:45:00,28,Rain Shower
-2017,Dec,5,14:59:00,28,Rain Shower
-2017,Dec,5,11:59:00,28,Rain Shower
-2018,Dec,5,13:35:00,28,Rain Shower
-2017,Dec,16,18:11:00,28,Rain Shower
-2017,Dec,19,12:04:00,28,Rain Shower
-2017,Dec,21,13:08:00,28,Rain Shower
-2018,Dec,21,15:54:00,28,Rain Shower
-2017,Dec,29,11:25:00,28,Rain Shower
-2018,Dec,29,14:21:00,28,Rain Shower
-2017,Dec,30,13:40:00,28,Rain Shower
-2018,Feb,12,16:25:00,28,Rain Shower
-2018,Feb,15,17:28:00,28,Rain Shower
-2019,Jan,4,14:29:00,28,Rain Shower
-2018,Jan,15,14:51:00,28,Rain Shower
-2018,Jan,24,15:40:00,28,Rain Shower
-2018,Jan,25,14:05:00,28,Rain Shower
-2017,Jan,26,15:44:00,28,Rain Shower
-2018,Mar,1,12:23:00,28,Rain Shower
-2018,Mar,4,11:37:00,28,Rain Shower
-2017,Mar,6,12:35:00,28,Rain Shower
-2017,Mar,7,15:45:00,28,Rain Shower
-2018,Mar,7,09:40:00,28,Rain Shower
-2017,Mar,8,11:34:00,28,Rain Shower
-2017,Mar,9,16:59:00,28,Rain Shower
-2018,Mar,13,13:20:00,28,Rain Shower
-2018,Mar,18,12:56:00,28,Rain Shower
-2018,Mar,21,12:36:00,28,Rain Shower
-2018,Oct,27,12:47:00,28,Rain Shower
-2016,Nov,8,10:36:00,28,Scattered Thunderstorms
-2016,Sep,7,11:18:00,28,Scattered Thunderstorms
-2016,Sep,17,13:23:00,28,Scattered Thunderstorms
-2016,Aug,21,13:37:00,28,Showers
-2016,Oct,26,10:42:00,28,Showers
-2015,Dec,12,19:09:00,28,Thunder
-2015,Dec,14,22:14:00,28,Thunder
-2015,Dec,15,21:50:00,28,Thunder
-2016,Feb,25,16:28:00,28,Thunder
-2015,Dec,13,21:25:00,28,Thunder in the Vicinity
-2016,Nov,7,10:30:00,29,Few Showers
-2018,Mar,5,11:37:00,29,Light Rain
-2018,Apr,27,12:33:00,29,Rain Shower
-2017,Aug,20,14:26:00,29,Rain Shower
-2017,Dec,19,14:19:00,29,Rain Shower
-2018,Dec,21,20:29:00,29,Rain Shower
-2017,Feb,10,15:12:00,29,Rain Shower
-2018,Feb,20,13:21:00,29,Rain Shower
-2018,Jan,12,13:29:00,29,Rain Shower
-2018,Jan,23,15:35:00,29,Rain Shower
-2017,Mar,4,14:54:00,29,Rain Shower
-2018,Mar,18,16:46:00,29,Rain Shower
-2018,Mar,20,13:32:00,29,Rain Shower
-2018,Nov,1,14:14:00,29,Rain Shower
-2016,Dec,18,11:50:00,29,Scattered Thunderstorms
-2016,Nov,26,16:22:00,29,Scattered Thunderstorms
-2016,Nov,29,11:06:00,29,Scattered Thunderstorms
-2016,Apr,27,10:45:00,29,Showers
-2016,Aug,31,13:38:00,29,Showers
-2016,Nov,22,12:50:00,29,Showers
-2016,Feb,17,18:38:00,29,Thunder
-2016,Feb,26,18:02:00,29,Thunder
-2016,Apr,1,16:10:00,29,Thunder in the Vicinity
-2016,Mar,31,17:27:00,29,Thunder
-2016,Jan,11,14:47:00,30,Light Rain
-2018,Dec,14,16:12:00,30,Rain Shower
-2017,Dec,27,13:53:00,30,Rain Shower
-2017,Jan,19,11:54:00,30,Scattered Thunderstorms
-2016,Nov,16,11:50:00,30,Scattered Thunderstorms
-2016,Feb,19,19:03:00,30,Thunder
-2016,Feb,20,16:53:00,30,Thunder
-2016,Dec,9,10:36:00,31,Isolated Thunderstorms
-2017,Jan,14,14:13:00,31,Isolated Thunderstorms
-2017,Jan,14,12:38:00,31,Isolated Thunderstorms
-2016,Nov,9,12:06:00,31,Isolated Thunderstorms
-2018,Jan,23,18:10:00,31,Light Rain with Thunder
-2018,Dec,1,13:51:00,31,Rain Shower
-2017,Dec,15,14:01:00,31,Rain Shower
-2017,Dec,20,18:28:00,31,Rain Shower
-2017,Feb,7,13:21:00,31,Rain Shower
-2017,Feb,20,13:59:00,31,Rain Shower
-2017,Jan,23,15:48:00,31,Rain Shower
-2018,Mar,3,11:02:00,31,Rain Shower
-2018,Mar,18,14:31:00,31,Rain Shower
-2017,Jan,8,11:16:00,31,Scattered Thunderstorms
-2016,Nov,15,14:05:00,31,Scattered Thunderstorms
-2016,Nov,17,12:16:00,31,Scattered Thunderstorms
-2016,Oct,15,10:06:00,31,Scattered Thunderstorms
-2016,Sep,12,16:16:00,31,Scattered Thunderstorms
-2016,Dec,3,12:24:00,32,Isolated Thunderstorms
-2016,Dec,25,12:11:00,32,Isolated Thunderstorms
-2017,Jan,7,11:06:00,32,Isolated Thunderstorms
-2016,Sep,12,13:18:00,32,Isolated Thunderstorms
-2016,Sep,12,14:12:00,32,Isolated Thunderstorms
-2017,Feb,6,12:36:00,32,Rain Shower
-2018,Feb,22,12:03:00,32,Rain Shower
-2017,Feb,24,13:37:00,32,Rain Shower
-2018,Jan,19,15:39:00,32,Rain Shower
-2017,Mar,15,13:38:00,32,Rain Shower
-2018,Mar,26,15:23:00,32,Rain Shower
-2016,Dec,12,10:22:00,32,Scattered Thunderstorms
-2016,Dec,13,11:02:00,32,Scattered Thunderstorms
-2017,Jan,3,11:43:00,32,Scattered Thunderstorms
-2017,Jan,15,11:53:00,32,Scattered Thunderstorms
-2017,Jan,16,10:28:00,32,Scattered Thunderstorms
-2016,Nov,3,11:46:00,32,Scattered Thunderstorms
-2016,Oct,14,10:15:00,32,Scattered Thunderstorms
-2016,Oct,24,13:43:00,32,Showers
-2015,Nov,19,16:00:00,32,Thunder
-2016,Nov,3,08:35:00,33,Few Showers
-2016,Dec,11,10:27:00,33,Isolated Thunderstorms
-2016,Dec,19,13:20:00,33,Isolated Thunderstorms
-2016,Nov,11,15:04:00,33,Isolated Thunderstorms
-2016,Nov,27,15:57:00,33,Isolated Thunderstorms
-2016,Dec,8,11:11:00,33,Scattered Thunderstorms
-2016,Dec,10,12:07:00,33,Scattered Thunderstorms
-2016,Dec,21,13:01:00,33,Scattered Thunderstorms
-2017,Jan,11,11:18:00,33,Scattered Thunderstorms
-2016,Nov,10,12:11:00,33,Scattered Thunderstorms
-2016,Oct,20,12:35:00,33,Scattered Thunderstorms
-2017,Jan,18,17:33:00,33,Showers
-2016,Feb,27,16:32:00,33,Thunder
-2016,Feb,28,16:46:00,33,Thunder
-2017,Jan,2,12:28:00,34,Isolated Thunderstorms
-2017,Jan,9,11:51:00,34,Isolated Thunderstorms
-2016,Oct,16,11:26:00,34,Isolated Thunderstorms
-2016,Oct,18,13:20:00,34,Isolated Thunderstorms
-2017,Dec,17,15:04:00,34,Rain Shower
-2018,Jan,22,15:15:00,34,Rain Shower
-2017,Mar,3,14:04:00,34,Rain Shower
-2017,Nov,18,15:27:00,34,Rain Shower
-2016,Dec,24,12:56:00,34,Scattered Thunderstorms
-2016,Dec,29,15:38:00,34,Scattered Thunderstorms
-2017,Jan,4,12:44:00,34,Scattered Thunderstorms
-2017,Jan,6,12:54:00,34,Scattered Thunderstorms
-2017,Jan,10,11:13:00,34,Scattered Thunderstorms
-2016,Dec,20,14:36:00,35,Isolated Thunderstorms
-2019,Jan,3,14:33:00,35,Rain Shower
-2016,Dec,22,14:37:00,35,Scattered Thunderstorms
-2016,Dec,23,12:56:00,35,Scattered Thunderstorms
-2017,Dec,24,13:56:00,36,Rain Shower
-2018,Oct,3,14:52:00,36,Rain Shower
-2016,Dec,31,12:36:00,36,Scattered Thunderstorms
-2016,Nov,2,14:50:00,36,Scattered Thunderstorms
-2016,Nov,28,14:37:00,36,Scattered Thunderstorms
-2016,Oct,17,15:22:00,36,Scattered Thunderstorms
-2016,Dec,30,12:37:00,37,Isolated Thunderstorms
-2016,Oct,27,15:31:00,37,Isolated Thunderstorms
-2017,Dec,24,15:26:00,37,Rain Shower
-2016,Dec,26,14:34:00,37,Scattered Thunderstorms
-2017,Jan,1,12:23:00,37,Scattered Thunderstorms
-2017,Jan,5,12:44:00,37,Scattered Thunderstorms
-2016,Dec,27,14:49:00,39,Scattered Thunderstorms
+DateTime,TodaysCondition,HTempC,LTempC,CurrTemp,CurrCond,WSpeedKmh,Direction,UV,Hum
+"January 07, 2019 at 09:00AM",Isolated Thunderstorms,39,24,29,Sunny,14,North,4,66
+"January 07, 2019 at 10:00AM",Isolated Thunderstorms,39,24,32,Sunny,16,North,7,56
+"January 07, 2019 at 11:00AM",Partly Cloudy,39,24,33,Sunny,18,North,11,53
+"January 07, 2019 at 12:00PM",Isolated Thunderstorms,38,24,36,Fair,18,North,11,45
+"January 07, 2019 at 01:00PM",Scattered Thunderstorms,39,24,37,Partly Cloudy,18,North,11,41
+"January 07, 2019 at 02:00PM",Scattered Thunderstorms,39,24,38,Partly Cloudy,18,North,11,38
+"January 07, 2019 at 03:00PM",Scattered Thunderstorms,39,24,39,Partly Cloudy,18,Northeast,11,34
+"January 07, 2019 at 04:00PM",Thunderstorms Early,,24,38,Partly Cloudy,16,Northeast,8,35
+"January 07, 2019 at 05:00PM",Thunderstorms Early,,24,38,Partly Cloudy,13,Northeast,5,35
+"January 07, 2019 at 06:00PM",Thunderstorms Early,,24,38,Fair,11,Northeast,1,39
+"January 07, 2019 at 06:00PM",Thunderstorms Early,,24,38,Fair,11,Northeast,1,39
+"January 07, 2019 at 07:00PM",Thunderstorms Early,,24,36,Showers in the Vicinity,10,Northeast,0,44
+"January 07, 2019 at 08:00PM",Thunderstorms Early,,24,33,Fair,10,Northeast,0,49
+"January 07, 2019 at 09:00PM",Mostly Clear,,24,31,Clear,8,Northeast,0,57
+"January 07, 2019 at 10:00PM",Mostly Clear,,24,29,Clear,8,North,0,65
+"January 07, 2019 at 11:00PM",Mostly Clear,,24,28,Fair,11,North,0,67
+"January 08, 2019 at 12:00AM",Mostly Clear,,24,27,Fair,11,North,0,69
+"January 08, 2019 at 01:00AM",Mostly Clear,,24,27,Fair,13,North,0,73
+"January 08, 2019 at 02:00AM",Mostly Clear,,24,26,Clear,10,North,0,74
+"January 08, 2019 at 03:01AM",Isolated Thunderstorms,39,23,26,Clear,10,North,0,76
+"January 08, 2019 at 04:00AM",PM Thunderstorms,39,23,26,Clear,10,North,0,79
+"January 08, 2019 at 05:00AM",PM Thunderstorms,39,23,26,Clear,11,North,0,78
+"January 08, 2019 at 06:00AM",PM Thunderstorms,39,23,26,Fair,11,North,0,77
+"January 08, 2019 at 07:00AM",PM Thunderstorms,39,23,27,Sunny,13,North,0,75
+"January 08, 2019 at 08:00AM",Scattered Thunderstorms,38,23,28,Sunny,13,North,1,69
+"January 08, 2019 at 09:00AM",Scattered Thunderstorms,38,23,31,Fair,14,North,4,59
+"January 08, 2019 at 10:00AM",PM Thunderstorms,38,23,34,Fair,14,North,7,52
+"January 08, 2019 at 11:00AM",PM Thunderstorms,38,23,35,Fair,14,North,11,49
+"January 08, 2019 at 12:00PM",PM Thunderstorms,38,23,37,Fair,13,North,11,42
+"January 08, 2019 at 01:00PM",Thunderstorms,38,23,38,Sunny,10,North,11,39
+"January 08, 2019 at 02:00PM",Thunderstorms,31,23,38,Partly Cloudy,6,Northeast,11,39
+"January 08, 2019 at 03:00PM",Thunderstorms,28,23,38,Rain Shower,11,Southeast,11,40
+"January 08, 2019 at 04:00PM",Thunderstorms Early,,23,37,Mostly Cloudy,16,Southeast,7,41
+"January 08, 2019 at 05:00PM",Thunderstorms Early,,23,37,Showers in the Vicinity,13,Southeast,4,42
+"January 08, 2019 at 06:00PM",Thunderstorms Early,,23,36,Partly Cloudy,10,South,1,44
+"January 08, 2019 at 06:00PM",Thunderstorms Early,,23,36,Partly Cloudy,10,South,1,44
+"January 08, 2019 at 07:00PM",Thunderstorms Early,,23,24,Rain,10,South,0,90
+"January 08, 2019 at 08:00PM",Thunderstorms Early,,23,25,Rain Shower,8,Southeast,0,82
+"January 08, 2019 at 09:00PM",Clear,,23,30,Clear,8,East,0,62
+"January 08, 2019 at 10:00PM",Clear,,23,27,Clear,5,North,0,75
+"January 08, 2019 at 11:00PM",Clear,,23,27,Clear,6,North,0,78
+"January 09, 2019 at 12:00AM",Clear,,23,26,Clear,8,Northwest,0,82
+"January 09, 2019 at 01:00AM",Clear,,23,26,Clear,6,North,0,84
+"January 09, 2019 at 02:00AM",Clear,,23,26,Clear,8,Northwest,0,85
+"January 09, 2019 at 03:00AM",Clear,,24,25,Clear,6,North,0,86
+"January 09, 2019 at 04:00AM",Mostly Sunny,37,23,24,Clear,6,North,0,88
+"January 09, 2019 at 05:00AM",Mostly Sunny,37,23,24,Clear,8,North,0,90
+"January 09, 2019 at 06:00AM",Mostly Sunny,37,23,24,Clear,8,Northeast,0,89
+"January 09, 2019 at 07:00AM",Mostly Sunny,37,23,25,Sunny,11,Northeast,0,86
+"January 09, 2019 at 08:00AM",Sunny,37,23,27,Sunny,11,North,1,79
+"January 09, 2019 at 09:00AM",Sunny,37,23,28,Sunny,13,North,3,70
+"January 09, 2019 at 10:00AM",Sunny,36,23,31,Sunny,16,North,7,62
+"January 09, 2019 at 11:00AM",Sunny,36,23,32,Sunny,18,North,11,58
+"January 09, 2019 at 12:00PM",Sunny,36,23,34,Fair,21,Northeast,11,52
+"January 09, 2019 at 01:00PM",Sunny,36,23,34,Sunny,21,Northeast,11,49
+"January 09, 2019 at 02:00PM",Sunny,36,23,35,Sunny,18,Northeast,11,46
+"January 09, 2019 at 03:00PM",Sunny,37,23,36,Sunny,19,Northeast,11,41
+"January 09, 2019 at 04:00PM",Isolated Thunderstorms,,23,37,Sunny,16,Northeast,8,36
+"January 09, 2019 at 05:00PM",Clear,,23,36,Sunny,16,Northeast,5,40
+"January 09, 2019 at 06:00PM",Clear,,23,36,Sunny,13,Northeast,3,38
+"January 09, 2019 at 06:00PM",Clear,,23,36,Sunny,13,Northeast,3,38
+"January 09, 2019 at 07:00PM",Clear,,23,34,Sunny,11,Northeast,0,43
+"January 09, 2019 at 08:00PM",Clear,,23,32,Sunny,11,Northeast,0,50
+"January 09, 2019 at 09:00PM",Clear,,23,29,Clear,8,Northeast,0,57
+"January 09, 2019 at 10:00PM",Clear,,23,27,Clear,5,Northeast,0,67
+"January 09, 2019 at 11:00PM",Clear,,23,27,Clear,8,North,0,68
+"January 10, 2019 at 12:00AM",Clear,,23,26,Clear,8,North,0,71
+"January 10, 2019 at 01:00AM",Clear,,23,25,Clear,10,North,0,73
+"January 10, 2019 at 02:00AM",Clear,,23,24,Clear,10,North,0,74
+"January 10, 2019 at 03:00AM",Clear,,23,24,Clear,11,North,0,77
+"January 10, 2019 at 04:00AM",Sunny,37,23,24,Clear,11,North,0,78
+"January 10, 2019 at 05:00AM",Sunny,37,23,23,Clear,11,North,0,80
+"January 10, 2019 at 06:00AM",Sunny,36,22,24,Clear,11,Northeast,0,81
+"January 10, 2019 at 07:00AM",Sunny,36,21,25,Sunny,14,Northeast,0,78
+"January 10, 2019 at 08:00AM",Sunny,37,23,27,Sunny,13,North,1,70
+"January 10, 2019 at 09:00AM",Sunny,38,23,29,Sunny,16,North,4,60
+"January 10, 2019 at 10:00AM",Sunny,38,23,31,Sunny,19,North,7,55
+"January 10, 2019 at 11:00AM",Sunny,37,23,32,Sunny,19,North,11,50
+"January 10, 2019 at 12:00PM",Sunny,37,23,34,Sunny,19,North,11,45
+"January 10, 2019 at 01:00PM",Sunny,36,23,34,Sunny,18,North,11,43
+"January 10, 2019 at 02:00PM",Sunny,38,23,36,Sunny,16,North,11,38
+"January 10, 2019 at 03:00PM",Sunny,37,23,36,Sunny,14,Northeast,11,37
+"January 10, 2019 at 04:00PM",Mostly Clear,,23,37,Fair,11,Northeast,8,32
+"January 10, 2019 at 05:00PM",Mostly Clear,,23,37,Fair,8,Northeast,5,31
+"January 10, 2019 at 06:00PM",Mostly Clear,,23,37,Fair,8,Northeast,3,33
+"January 10, 2019 at 06:00PM",Mostly Clear,,23,37,Fair,8,Northeast,3,33
+"January 10, 2019 at 07:00PM",Mostly Clear,,23,33,Fair,6,Southeast,0,43
+"January 10, 2019 at 08:00PM",Mostly Clear,,22,31,Sunny,6,Southeast,0,52
+"January 10, 2019 at 09:00PM",Mostly Clear,,22,29,Clear,6,East,0,57
+"January 10, 2019 at 10:00PM",Mostly Clear,,23,27,Clear,5,North,0,69
+"January 10, 2019 at 11:00PM",Mostly Clear,,22,27,Clear,6,North,0,73
+"January 11, 2019 at 12:00AM",Mostly Clear,,23,26,Clear,8,North,0,74
+"January 11, 2019 at 01:00AM",Partly Cloudy,,23,26,Fair,10,North,0,74
+"January 11, 2019 at 02:01AM",Partly Cloudy,,23,25,Clear,10,North,0,77
+"January 11, 2019 at 03:00AM",Partly Cloudy,38,23,24,Clear,10,North,0,78
+"January 11, 2019 at 04:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,78
+"January 11, 2019 at 05:00AM",Partly Cloudy,38,23,24,Clear,10,North,0,81
+"January 11, 2019 at 06:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,83
+"January 11, 2019 at 07:00AM",Partly Cloudy,38,23,24,Fair,11,North,0,83
+"January 11, 2019 at 08:00AM",Partly Cloudy,38,23,25,Fair,11,North,1,79
+"January 11, 2019 at 09:00AM",Partly Cloudy,38,23,30,Partly Cloudy,13,North,4,62
+"January 11, 2019 at 10:00AM",Partly Cloudy,38,23,32,Partly Cloudy,13,North,7,55
+"January 11, 2019 at 11:00AM",Partly Cloudy,38,23,34,Partly Cloudy,14,North,11,49
+"January 11, 2019 at 12:00PM",Mostly Sunny,38,23,36,Fair,13,North,11,42
+"January 11, 2019 at 01:00PM",Scattered Thunderstorms,37,23,35,Partly Cloudy,10,Northwest,11,42
+"January 11, 2019 at 02:00PM",Scattered Thunderstorms,37,23,36,Partly Cloudy,8,North,11,39
+"January 11, 2019 at 03:00PM",Scattered Thunderstorms,37,23,37,Partly Cloudy,8,Southeast,11,36
+"January 11, 2019 at 04:00PM",Thunderstorms Early,,23,36,Partly Cloudy,16,South,8,38
+"January 11, 2019 at 05:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,South,5,42
+"January 11, 2019 at 06:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,Southeast,3,43
+"January 11, 2019 at 06:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,Southeast,3,43
+"January 11, 2019 at 07:00PM",Partly Cloudy,,23,31,Partly Cloudy,14,South,0,52
+"January 11, 2019 at 08:00PM",Partly Cloudy,,23,29,Partly Cloudy,11,South,0,58
+"January 11, 2019 at 09:00PM",Partly Cloudy,,22,28,Partly Cloudy,8,South,0,63
+"January 11, 2019 at 10:00PM",Partly Cloudy,,22,26,Partly Cloudy,5,Southwest,0,77
+"January 11, 2019 at 11:00PM",Partly Cloudy,,22,25,Partly Cloudy,6,Southwest,0,79
+"January 12, 2019 at 12:00AM",Partly Cloudy,,21,25,Fair,6,Northwest,0,82
+"January 12, 2019 at 01:00AM",Partly Cloudy,,22,24,Partly Cloudy,6,Northwest,0,85
+"January 12, 2019 at 02:00AM",Partly Cloudy,,22,24,Fair,6,Northwest,0,87
+"January 12, 2019 at 03:00AM",Partly Cloudy,,22,23,Fair,6,Northwest,0,88
+"January 12, 2019 at 04:00AM",Partly Cloudy,36,23,23,Fair,6,Northwest,0,89
+"January 12, 2019 at 05:00AM",Partly Cloudy,36,22,23,Clear,6,North,0,88
+"January 12, 2019 at 06:00AM",Partly Cloudy,36,23,23,Clear,6,North,0,89
+"January 12, 2019 at 07:00AM",Partly Cloudy,36,23,23,Fair,10,Northwest,0,87
+"January 12, 2019 at 08:00AM",Partly Cloudy,36,23,24,Sunny,10,North,1,82
+"January 12, 2019 at 09:00AM",Mostly Sunny,36,22,28,Fair,8,North,4,68
+"January 12, 2019 at 10:00AM",Partly Cloudy,36,22,31,Partly Cloudy,8,North,7,60
+"January 12, 2019 at 11:00AM",Partly Cloudy,34,21,33,Partly Cloudy,10,North,11,54
+"January 12, 2019 at 12:00PM",Partly Cloudy,35,23,34,Partly Cloudy,10,Northeast,11,49
+"January 12, 2019 at 01:00PM",Partly Cloudy,34,21,34,Partly Cloudy,8,East,11,47
+"January 12, 2019 at 02:00PM",Partly Cloudy,35,23,35,Partly Cloudy,13,Southeast,11,45
+"January 12, 2019 at 03:00PM",Partly Cloudy,35,23,34,Partly Cloudy,14,South,11,46
+"January 12, 2019 at 04:00PM",Isolated Thunderstorms,,22,33,Partly Cloudy,19,South,8,52
+"January 12, 2019 at 05:00PM",Isolated Thunderstorms,,23,33,Partly Cloudy,19,South,5,49
+"January 12, 2019 at 06:00PM",Mostly Clear,,23,32,Partly Cloudy,18,South,3,51
+"January 12, 2019 at 06:00PM",Mostly Clear,,23,32,Partly Cloudy,18,South,3,51
+"January 12, 2019 at 07:01PM",Mostly Clear,,23,31,Fair,14,South,0,56
+"January 12, 2019 at 08:00PM",Mostly Clear,,23,29,Fair,11,South,0,62
+"January 12, 2019 at 09:00PM",Mostly Clear,,23,27,Fair,6,South,0,70
+"January 12, 2019 at 10:00PM",Mostly Clear,,22,26,Fair,5,Southwest,0,76
+"January 12, 2019 at 11:00PM",Clear,,23,25,Clear,3,West,0,82
+"January 13, 2019 at 12:00AM",Clear,,23,25,Clear,5,North,0,82
+"January 13, 2019 at 01:01AM",Clear,,23,24,Clear,6,Northwest,0,85
+"January 13, 2019 at 02:00AM",Clear,,22,24,Clear,6,North,0,87
+"January 13, 2019 at 03:00AM",Mostly Sunny,37,23,23,Clear,6,North,0,89
+"January 13, 2019 at 04:00AM",Sunny,37,23,23,Clear,6,North,0,89
+"January 13, 2019 at 05:00AM",Sunny,37,23,23,Clear,8,North,0,87
+"January 13, 2019 at 06:00AM",Mostly Sunny,37,23,23,Clear,8,Northeast,0,88
+"January 13, 2019 at 07:00AM",Mostly Sunny,37,23,24,Sunny,10,North,0,86
+"January 13, 2019 at 08:00AM",Mostly Sunny,37,23,26,Sunny,10,North,1,77
+"January 13, 2019 at 09:00AM",Mostly Sunny,37,23,28,Sunny,10,North,3,65
+"January 13, 2019 at 10:00AM",Mostly Sunny,37,23,31,Sunny,11,North,7,55
+"January 13, 2019 at 11:00AM",Mostly Sunny,37,23,32,Sunny,13,Northeast,11,50
+"January 13, 2019 at 12:00PM",Mostly Sunny,37,23,34,Sunny,14,Northeast,11,44
+"January 13, 2019 at 01:00PM",Mostly Sunny,36,23,34,Fair,13,Northeast,11,39
+"January 13, 2019 at 02:00PM",Mostly Sunny,36,23,35,Fair,13,Northeast,11,40
+"January 13, 2019 at 03:00PM",Mostly Sunny,37,23,36,Fair,11,Northeast,11,38
+"January 13, 2019 at 04:00PM",Mostly Clear,,23,37,Partly Cloudy,13,Southeast,8,37
+"January 13, 2019 at 05:00PM",Mostly Clear,,23,36,Fair,13,Southeast,5,38
+"January 13, 2019 at 06:00PM",Mostly Clear,,23,36,Fair,13,Southeast,3,38
+"January 13, 2019 at 06:00PM",Mostly Clear,,23,36,Fair,13,Southeast,3,38
+"January 13, 2019 at 07:00PM",Mostly Clear,,23,33,Fair,10,Southeast,0,45
+"January 13, 2019 at 08:00PM",Mostly Clear,,23,31,Fair,11,South,0,51
+"January 13, 2019 at 09:00PM",Mostly Clear,,23,29,Fair,6,South,0,58
+"January 13, 2019 at 10:00PM",Clear,,23,27,Clear,3,Southwest,0,74
+"January 13, 2019 at 11:00PM",Mostly Clear,,23,26,Clear,5,Southeast,0,76
+"January 14, 2019 at 12:00AM",Mostly Clear,,23,26,Clear,5,North,0,80
+"January 14, 2019 at 01:00AM",Partly Cloudy,,23,25,Clear,5,North,0,81
+"January 14, 2019 at 02:00AM",Partly Cloudy,,23,24,Clear,6,North,0,81
+"January 14, 2019 at 03:00AM",Partly Cloudy,,23,24,Clear,6,North,0,82
+"January 14, 2019 at 04:00AM",Partly Cloudy,38,24,24,Clear,8,North,0,82
+"January 14, 2019 at 05:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,83
+"January 14, 2019 at 06:00AM",Partly Cloudy,38,24,24,Partly Cloudy,10,Northeast,0,83
+"January 14, 2019 at 07:00AM",Partly Cloudy,38,24,24,Fair,11,Northeast,0,81
+"January 14, 2019 at 08:00AM",Partly Cloudy,38,24,27,Fair,11,North,1,70
+"January 14, 2019 at 09:00AM",Mostly Sunny,38,24,29,Fair,14,North,3,64
+"January 14, 2019 at 10:00AM",Mostly Sunny,38,24,31,Fair,16,North,6,57
+"January 14, 2019 at 11:00AM",Mostly Sunny,37,23,33,Sunny,16,North,11,51
+"January 14, 2019 at 12:00PM",Isolated Thunderstorms,38,24,34,Fair,16,North,11,47
+"January 14, 2019 at 01:00PM",Isolated Thunderstorms,37,24,36,Fair,13,North,11,43
+"January 14, 2019 at 02:00PM",Scattered Thunderstorms,37,24,37,Partly Cloudy,10,North,11,39
+"January 14, 2019 at 03:00PM",Scattered Thunderstorms,38,24,38,Partly Cloudy,10,Northeast,11,35
