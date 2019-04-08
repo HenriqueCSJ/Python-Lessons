@@ -1,0 +1,533 @@
+DateTime,TodaysCondition,HTempC,LTempC,CurrTemp,CurrCond,WSpeedKmh,Direction,UV,Hum
+"January 07, 2019 at 09:00AM",Isolated Thunderstorms,39,24,29,Sunny,14,North,4,66
+"January 07, 2019 at 10:00AM",Isolated Thunderstorms,39,24,32,Sunny,16,North,7,56
+"January 07, 2019 at 11:00AM",Partly Cloudy,39,24,33,Sunny,18,North,11,53
+"January 07, 2019 at 12:00PM",Isolated Thunderstorms,38,24,36,Fair,18,North,11,45
+"January 07, 2019 at 01:00PM",Scattered Thunderstorms,39,24,37,Partly Cloudy,18,North,11,41
+"January 07, 2019 at 02:00PM",Scattered Thunderstorms,39,24,38,Partly Cloudy,18,North,11,38
+"January 07, 2019 at 03:00PM",Scattered Thunderstorms,39,24,39,Partly Cloudy,18,Northeast,11,34
+"January 07, 2019 at 04:00PM",Thunderstorms Early,,24,38,Partly Cloudy,16,Northeast,8,35
+"January 07, 2019 at 05:00PM",Thunderstorms Early,,24,38,Partly Cloudy,13,Northeast,5,35
+"January 07, 2019 at 06:00PM",Thunderstorms Early,,24,38,Fair,11,Northeast,1,39
+"January 07, 2019 at 06:00PM",Thunderstorms Early,,24,38,Fair,11,Northeast,1,39
+"January 07, 2019 at 07:00PM",Thunderstorms Early,,24,36,Showers in the Vicinity,10,Northeast,0,44
+"January 07, 2019 at 08:00PM",Thunderstorms Early,,24,33,Fair,10,Northeast,0,49
+"January 07, 2019 at 09:00PM",Mostly Clear,,24,31,Clear,8,Northeast,0,57
+"January 07, 2019 at 10:00PM",Mostly Clear,,24,29,Clear,8,North,0,65
+"January 07, 2019 at 11:00PM",Mostly Clear,,24,28,Fair,11,North,0,67
+"January 08, 2019 at 12:00AM",Mostly Clear,,24,27,Fair,11,North,0,69
+"January 08, 2019 at 01:00AM",Mostly Clear,,24,27,Fair,13,North,0,73
+"January 08, 2019 at 02:00AM",Mostly Clear,,24,26,Clear,10,North,0,74
+"January 08, 2019 at 03:01AM",Isolated Thunderstorms,39,23,26,Clear,10,North,0,76
+"January 08, 2019 at 04:00AM",PM Thunderstorms,39,23,26,Clear,10,North,0,79
+"January 08, 2019 at 05:00AM",PM Thunderstorms,39,23,26,Clear,11,North,0,78
+"January 08, 2019 at 06:00AM",PM Thunderstorms,39,23,26,Fair,11,North,0,77
+"January 08, 2019 at 07:00AM",PM Thunderstorms,39,23,27,Sunny,13,North,0,75
+"January 08, 2019 at 08:00AM",Scattered Thunderstorms,38,23,28,Sunny,13,North,1,69
+"January 08, 2019 at 09:00AM",Scattered Thunderstorms,38,23,31,Fair,14,North,4,59
+"January 08, 2019 at 10:00AM",PM Thunderstorms,38,23,34,Fair,14,North,7,52
+"January 08, 2019 at 11:00AM",PM Thunderstorms,38,23,35,Fair,14,North,11,49
+"January 08, 2019 at 12:00PM",PM Thunderstorms,38,23,37,Fair,13,North,11,42
+"January 08, 2019 at 01:00PM",Thunderstorms,38,23,38,Sunny,10,North,11,39
+"January 08, 2019 at 02:00PM",Thunderstorms,31,23,38,Partly Cloudy,6,Northeast,11,39
+"January 08, 2019 at 03:00PM",Thunderstorms,28,23,38,Rain Shower,11,Southeast,11,40
+"January 08, 2019 at 04:00PM",Thunderstorms Early,,23,37,Mostly Cloudy,16,Southeast,7,41
+"January 08, 2019 at 05:00PM",Thunderstorms Early,,23,37,Showers in the Vicinity,13,Southeast,4,42
+"January 08, 2019 at 06:00PM",Thunderstorms Early,,23,36,Partly Cloudy,10,South,1,44
+"January 08, 2019 at 06:00PM",Thunderstorms Early,,23,36,Partly Cloudy,10,South,1,44
+"January 08, 2019 at 07:00PM",Thunderstorms Early,,23,24,Rain,10,South,0,90
+"January 08, 2019 at 08:00PM",Thunderstorms Early,,23,25,Rain Shower,8,Southeast,0,82
+"January 08, 2019 at 09:00PM",Clear,,23,30,Clear,8,East,0,62
+"January 08, 2019 at 10:00PM",Clear,,23,27,Clear,5,North,0,75
+"January 08, 2019 at 11:00PM",Clear,,23,27,Clear,6,North,0,78
+"January 09, 2019 at 12:00AM",Clear,,23,26,Clear,8,Northwest,0,82
+"January 09, 2019 at 01:00AM",Clear,,23,26,Clear,6,North,0,84
+"January 09, 2019 at 02:00AM",Clear,,23,26,Clear,8,Northwest,0,85
+"January 09, 2019 at 03:00AM",Clear,,24,25,Clear,6,North,0,86
+"January 09, 2019 at 04:00AM",Mostly Sunny,37,23,24,Clear,6,North,0,88
+"January 09, 2019 at 05:00AM",Mostly Sunny,37,23,24,Clear,8,North,0,90
+"January 09, 2019 at 06:00AM",Mostly Sunny,37,23,24,Clear,8,Northeast,0,89
+"January 09, 2019 at 07:00AM",Mostly Sunny,37,23,25,Sunny,11,Northeast,0,86
+"January 09, 2019 at 08:00AM",Sunny,37,23,27,Sunny,11,North,1,79
+"January 09, 2019 at 09:00AM",Sunny,37,23,28,Sunny,13,North,3,70
+"January 09, 2019 at 10:00AM",Sunny,36,23,31,Sunny,16,North,7,62
+"January 09, 2019 at 11:00AM",Sunny,36,23,32,Sunny,18,North,11,58
+"January 09, 2019 at 12:00PM",Sunny,36,23,34,Fair,21,Northeast,11,52
+"January 09, 2019 at 01:00PM",Sunny,36,23,34,Sunny,21,Northeast,11,49
+"January 09, 2019 at 02:00PM",Sunny,36,23,35,Sunny,18,Northeast,11,46
+"January 09, 2019 at 03:00PM",Sunny,37,23,36,Sunny,19,Northeast,11,41
+"January 09, 2019 at 04:00PM",Isolated Thunderstorms,,23,37,Sunny,16,Northeast,8,36
+"January 09, 2019 at 05:00PM",Clear,,23,36,Sunny,16,Northeast,5,40
+"January 09, 2019 at 06:00PM",Clear,,23,36,Sunny,13,Northeast,3,38
+"January 09, 2019 at 06:00PM",Clear,,23,36,Sunny,13,Northeast,3,38
+"January 09, 2019 at 07:00PM",Clear,,23,34,Sunny,11,Northeast,0,43
+"January 09, 2019 at 08:00PM",Clear,,23,32,Sunny,11,Northeast,0,50
+"January 09, 2019 at 09:00PM",Clear,,23,29,Clear,8,Northeast,0,57
+"January 09, 2019 at 10:00PM",Clear,,23,27,Clear,5,Northeast,0,67
+"January 09, 2019 at 11:00PM",Clear,,23,27,Clear,8,North,0,68
+"January 10, 2019 at 12:00AM",Clear,,23,26,Clear,8,North,0,71
+"January 10, 2019 at 01:00AM",Clear,,23,25,Clear,10,North,0,73
+"January 10, 2019 at 02:00AM",Clear,,23,24,Clear,10,North,0,74
+"January 10, 2019 at 03:00AM",Clear,,23,24,Clear,11,North,0,77
+"January 10, 2019 at 04:00AM",Sunny,37,23,24,Clear,11,North,0,78
+"January 10, 2019 at 05:00AM",Sunny,37,23,23,Clear,11,North,0,80
+"January 10, 2019 at 06:00AM",Sunny,36,22,24,Clear,11,Northeast,0,81
+"January 10, 2019 at 07:00AM",Sunny,36,21,25,Sunny,14,Northeast,0,78
+"January 10, 2019 at 08:00AM",Sunny,37,23,27,Sunny,13,North,1,70
+"January 10, 2019 at 09:00AM",Sunny,38,23,29,Sunny,16,North,4,60
+"January 10, 2019 at 10:00AM",Sunny,38,23,31,Sunny,19,North,7,55
+"January 10, 2019 at 11:00AM",Sunny,37,23,32,Sunny,19,North,11,50
+"January 10, 2019 at 12:00PM",Sunny,37,23,34,Sunny,19,North,11,45
+"January 10, 2019 at 01:00PM",Sunny,36,23,34,Sunny,18,North,11,43
+"January 10, 2019 at 02:00PM",Sunny,38,23,36,Sunny,16,North,11,38
+"January 10, 2019 at 03:00PM",Sunny,37,23,36,Sunny,14,Northeast,11,37
+"January 10, 2019 at 04:00PM",Mostly Clear,,23,37,Fair,11,Northeast,8,32
+"January 10, 2019 at 05:00PM",Mostly Clear,,23,37,Fair,8,Northeast,5,31
+"January 10, 2019 at 06:00PM",Mostly Clear,,23,37,Fair,8,Northeast,3,33
+"January 10, 2019 at 06:00PM",Mostly Clear,,23,37,Fair,8,Northeast,3,33
+"January 10, 2019 at 07:00PM",Mostly Clear,,23,33,Fair,6,Southeast,0,43
+"January 10, 2019 at 08:00PM",Mostly Clear,,22,31,Sunny,6,Southeast,0,52
+"January 10, 2019 at 09:00PM",Mostly Clear,,22,29,Clear,6,East,0,57
+"January 10, 2019 at 10:00PM",Mostly Clear,,23,27,Clear,5,North,0,69
+"January 10, 2019 at 11:00PM",Mostly Clear,,22,27,Clear,6,North,0,73
+"January 11, 2019 at 12:00AM",Mostly Clear,,23,26,Clear,8,North,0,74
+"January 11, 2019 at 01:00AM",Partly Cloudy,,23,26,Fair,10,North,0,74
+"January 11, 2019 at 02:01AM",Partly Cloudy,,23,25,Clear,10,North,0,77
+"January 11, 2019 at 03:00AM",Partly Cloudy,38,23,24,Clear,10,North,0,78
+"January 11, 2019 at 04:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,78
+"January 11, 2019 at 05:00AM",Partly Cloudy,38,23,24,Clear,10,North,0,81
+"January 11, 2019 at 06:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,83
+"January 11, 2019 at 07:00AM",Partly Cloudy,38,23,24,Fair,11,North,0,83
+"January 11, 2019 at 08:00AM",Partly Cloudy,38,23,25,Fair,11,North,1,79
+"January 11, 2019 at 09:00AM",Partly Cloudy,38,23,30,Partly Cloudy,13,North,4,62
+"January 11, 2019 at 10:00AM",Partly Cloudy,38,23,32,Partly Cloudy,13,North,7,55
+"January 11, 2019 at 11:00AM",Partly Cloudy,38,23,34,Partly Cloudy,14,North,11,49
+"January 11, 2019 at 12:00PM",Mostly Sunny,38,23,36,Fair,13,North,11,42
+"January 11, 2019 at 01:00PM",Scattered Thunderstorms,37,23,35,Partly Cloudy,10,Northwest,11,42
+"January 11, 2019 at 02:00PM",Scattered Thunderstorms,37,23,36,Partly Cloudy,8,North,11,39
+"January 11, 2019 at 03:00PM",Scattered Thunderstorms,37,23,37,Partly Cloudy,8,Southeast,11,36
+"January 11, 2019 at 04:00PM",Thunderstorms Early,,23,36,Partly Cloudy,16,South,8,38
+"January 11, 2019 at 05:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,South,5,42
+"January 11, 2019 at 06:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,Southeast,3,43
+"January 11, 2019 at 06:00PM",Thunderstorms Early,,23,35,Partly Cloudy,16,Southeast,3,43
+"January 11, 2019 at 07:00PM",Partly Cloudy,,23,31,Partly Cloudy,14,South,0,52
+"January 11, 2019 at 08:00PM",Partly Cloudy,,23,29,Partly Cloudy,11,South,0,58
+"January 11, 2019 at 09:00PM",Partly Cloudy,,22,28,Partly Cloudy,8,South,0,63
+"January 11, 2019 at 10:00PM",Partly Cloudy,,22,26,Partly Cloudy,5,Southwest,0,77
+"January 11, 2019 at 11:00PM",Partly Cloudy,,22,25,Partly Cloudy,6,Southwest,0,79
+"January 12, 2019 at 12:00AM",Partly Cloudy,,21,25,Fair,6,Northwest,0,82
+"January 12, 2019 at 01:00AM",Partly Cloudy,,22,24,Partly Cloudy,6,Northwest,0,85
+"January 12, 2019 at 02:00AM",Partly Cloudy,,22,24,Fair,6,Northwest,0,87
+"January 12, 2019 at 03:00AM",Partly Cloudy,,22,23,Fair,6,Northwest,0,88
+"January 12, 2019 at 04:00AM",Partly Cloudy,36,23,23,Fair,6,Northwest,0,89
+"January 12, 2019 at 05:00AM",Partly Cloudy,36,22,23,Clear,6,North,0,88
+"January 12, 2019 at 06:00AM",Partly Cloudy,36,23,23,Clear,6,North,0,89
+"January 12, 2019 at 07:00AM",Partly Cloudy,36,23,23,Fair,10,Northwest,0,87
+"January 12, 2019 at 08:00AM",Partly Cloudy,36,23,24,Sunny,10,North,1,82
+"January 12, 2019 at 09:00AM",Mostly Sunny,36,22,28,Fair,8,North,4,68
+"January 12, 2019 at 10:00AM",Partly Cloudy,36,22,31,Partly Cloudy,8,North,7,60
+"January 12, 2019 at 11:00AM",Partly Cloudy,34,21,33,Partly Cloudy,10,North,11,54
+"January 12, 2019 at 12:00PM",Partly Cloudy,35,23,34,Partly Cloudy,10,Northeast,11,49
+"January 12, 2019 at 01:00PM",Partly Cloudy,34,21,34,Partly Cloudy,8,East,11,47
+"January 12, 2019 at 02:00PM",Partly Cloudy,35,23,35,Partly Cloudy,13,Southeast,11,45
+"January 12, 2019 at 03:00PM",Partly Cloudy,35,23,34,Partly Cloudy,14,South,11,46
+"January 12, 2019 at 04:00PM",Isolated Thunderstorms,,22,33,Partly Cloudy,19,South,8,52
+"January 12, 2019 at 05:00PM",Isolated Thunderstorms,,23,33,Partly Cloudy,19,South,5,49
+"January 12, 2019 at 06:00PM",Mostly Clear,,23,32,Partly Cloudy,18,South,3,51
+"January 12, 2019 at 06:00PM",Mostly Clear,,23,32,Partly Cloudy,18,South,3,51
+"January 12, 2019 at 07:01PM",Mostly Clear,,23,31,Fair,14,South,0,56
+"January 12, 2019 at 08:00PM",Mostly Clear,,23,29,Fair,11,South,0,62
+"January 12, 2019 at 09:00PM",Mostly Clear,,23,27,Fair,6,South,0,70
+"January 12, 2019 at 10:00PM",Mostly Clear,,22,26,Fair,5,Southwest,0,76
+"January 12, 2019 at 11:00PM",Clear,,23,25,Clear,3,West,0,82
+"January 13, 2019 at 12:00AM",Clear,,23,25,Clear,5,North,0,82
+"January 13, 2019 at 01:01AM",Clear,,23,24,Clear,6,Northwest,0,85
+"January 13, 2019 at 02:00AM",Clear,,22,24,Clear,6,North,0,87
+"January 13, 2019 at 03:00AM",Mostly Sunny,37,23,23,Clear,6,North,0,89
+"January 13, 2019 at 04:00AM",Sunny,37,23,23,Clear,6,North,0,89
+"January 13, 2019 at 05:00AM",Sunny,37,23,23,Clear,8,North,0,87
+"January 13, 2019 at 06:00AM",Mostly Sunny,37,23,23,Clear,8,Northeast,0,88
+"January 13, 2019 at 07:00AM",Mostly Sunny,37,23,24,Sunny,10,North,0,86
+"January 13, 2019 at 08:00AM",Mostly Sunny,37,23,26,Sunny,10,North,1,77
+"January 13, 2019 at 09:00AM",Mostly Sunny,37,23,28,Sunny,10,North,3,65
+"January 13, 2019 at 10:00AM",Mostly Sunny,37,23,31,Sunny,11,North,7,55
+"January 13, 2019 at 11:00AM",Mostly Sunny,37,23,32,Sunny,13,Northeast,11,50
+"January 13, 2019 at 12:00PM",Mostly Sunny,37,23,34,Sunny,14,Northeast,11,44
+"January 13, 2019 at 01:00PM",Mostly Sunny,36,23,34,Fair,13,Northeast,11,39
+"January 13, 2019 at 02:00PM",Mostly Sunny,36,23,35,Fair,13,Northeast,11,40
+"January 13, 2019 at 03:00PM",Mostly Sunny,37,23,36,Fair,11,Northeast,11,38
+"January 13, 2019 at 04:00PM",Mostly Clear,,23,37,Partly Cloudy,13,Southeast,8,37
+"January 13, 2019 at 05:00PM",Mostly Clear,,23,36,Fair,13,Southeast,5,38
+"January 13, 2019 at 06:00PM",Mostly Clear,,23,36,Fair,13,Southeast,3,38
+"January 13, 2019 at 06:00PM",Mostly Clear,,23,36,Fair,13,Southeast,3,38
+"January 13, 2019 at 07:00PM",Mostly Clear,,23,33,Fair,10,Southeast,0,45
+"January 13, 2019 at 08:00PM",Mostly Clear,,23,31,Fair,11,South,0,51
+"January 13, 2019 at 09:00PM",Mostly Clear,,23,29,Fair,6,South,0,58
+"January 13, 2019 at 10:00PM",Clear,,23,27,Clear,3,Southwest,0,74
+"January 13, 2019 at 11:00PM",Mostly Clear,,23,26,Clear,5,Southeast,0,76
+"January 14, 2019 at 12:00AM",Mostly Clear,,23,26,Clear,5,North,0,80
+"January 14, 2019 at 01:00AM",Partly Cloudy,,23,25,Clear,5,North,0,81
+"January 14, 2019 at 02:00AM",Partly Cloudy,,23,24,Clear,6,North,0,81
+"January 14, 2019 at 03:00AM",Partly Cloudy,,23,24,Clear,6,North,0,82
+"January 14, 2019 at 04:00AM",Partly Cloudy,38,24,24,Clear,8,North,0,82
+"January 14, 2019 at 05:00AM",Partly Cloudy,38,23,24,Fair,10,North,0,83
+"January 14, 2019 at 06:00AM",Partly Cloudy,38,24,24,Partly Cloudy,10,Northeast,0,83
+"January 14, 2019 at 07:00AM",Partly Cloudy,38,24,24,Fair,11,Northeast,0,81
+"January 14, 2019 at 08:00AM",Partly Cloudy,38,24,27,Fair,11,North,1,70
+"January 14, 2019 at 09:00AM",Mostly Sunny,38,24,29,Fair,14,North,3,64
+"January 14, 2019 at 10:00AM",Mostly Sunny,38,24,31,Fair,16,North,6,57
+"January 14, 2019 at 11:00AM",Mostly Sunny,37,23,33,Sunny,16,North,11,51
+"January 14, 2019 at 12:00PM",Isolated Thunderstorms,38,24,34,Fair,16,North,11,47
+"January 14, 2019 at 01:00PM",Isolated Thunderstorms,37,24,36,Fair,13,North,11,43
+"January 14, 2019 at 02:00PM",Scattered Thunderstorms,37,24,37,Partly Cloudy,10,North,11,39
+"January 14, 2019 at 03:00PM",Scattered Thunderstorms,38,24,38,Partly Cloudy,10,Northeast,11,35
+"January 14, 2019 at 04:00PM",Thunderstorms Early,,23,38,Partly Cloudy,6,Southeast,8,36
+"January 14, 2019 at 05:00PM",Thunderstorms Early,,24,37,Partly Cloudy,6,Southeast,5,38
+"January 14, 2019 at 06:00PM",Thunderstorms Early,,23,28,Rain Shower,11,Southeast,3,64
+"January 14, 2019 at 06:00PM",Thunderstorms Early,,23,28,Rain Shower,11,Southeast,3,64
+"January 14, 2019 at 07:00PM",Thunderstorms Early,,24,33,Fair,6,Southeast,0,49
+"January 14, 2019 at 08:00PM",Partly Cloudy,,24,31,Fair,8,Southeast,0,56
+"January 14, 2019 at 09:01PM",Partly Cloudy,,23,29,Fair,6,Southwest,0,64
+"January 14, 2019 at 10:00PM",Mostly Clear,,24,27,Fair,5,Southwest,0,76
+"January 14, 2019 at 11:00PM",Mostly Clear,,24,27,Clear,6,Northwest,0,77
+"January 15, 2019 at 12:00AM",Mostly Clear,,24,26,Fair,6,North,0,78
+"January 15, 2019 at 01:00AM",Partly Cloudy,,24,26,Fair,6,North,0,80
+"January 15, 2019 at 02:00AM",Partly Cloudy,,24,25,Fair,8,North,0,83
+"January 15, 2019 at 03:00AM",Partly Cloudy,,24,24,Clear,8,North,0,82
+"January 15, 2019 at 04:00AM",PM Thunderstorms,38,24,24,Partly Cloudy,10,North,0,82
+"January 15, 2019 at 05:00AM",PM Thunderstorms,38,24,24,Partly Cloudy,10,North,0,83
+"January 15, 2019 at 06:00AM",Thunderstorms,38,24,24,Partly Cloudy,11,Northeast,0,82
+"January 15, 2019 at 07:00AM",PM Thunderstorms,38,24,25,Partly Cloudy,13,Northeast,0,82
+"January 15, 2019 at 08:00AM",PM Thunderstorms,38,24,27,Partly Cloudy,14,North,1,73
+"January 15, 2019 at 09:00AM",PM Thunderstorms,37,24,30,Fair,13,North,3,63
+"January 15, 2019 at 10:00AM",PM Thunderstorms,36,24,32,Fair,16,North,7,55
+"January 15, 2019 at 11:00AM",PM Thunderstorms,37,24,34,Fair,16,North,11,48
+"January 15, 2019 at 12:00PM",PM Thunderstorms,37,23,36,Fair,16,North,11,42
+"January 15, 2019 at 01:00PM",Thunderstorms,38,24,38,Fair,16,North,11,39
+"January 15, 2019 at 02:00PM",Thunderstorms,29,24,37,Partly Cloudy,13,North,11,43
+"January 15, 2019 at 03:00PM",Thunderstorms,29,24,37,Partly Cloudy,11,North,11,42
+"January 15, 2019 at 04:00PM",Thunderstorms Early,,24,32,Rain Shower,11,South,9,57
+"January 15, 2019 at 05:01PM",Thunderstorms Early,,24,24,Rain,13,South,4,90
+"January 15, 2019 at 06:00PM",Thunderstorms Early,,22,24,Rain,13,South,2,90
+"January 15, 2019 at 06:01PM",Thunderstorms Early,,22,24,Rain,13,South,2,90
+"January 15, 2019 at 07:01PM",Thunderstorms Early,,22,24,Thunderstorm,16,South,1,90
+"January 15, 2019 at 08:00PM",Thunderstorms Early,,24,26,Light Rain,6,Southwest,0,82
+"January 15, 2019 at 09:00PM",Thunderstorms Early,,24,26,Rain Shower,5,West,0,82
+"January 15, 2019 at 10:00PM",Thunderstorms Early,,24,27,Partly Cloudy,6,Northwest,0,79
+"January 15, 2019 at 11:00PM",Thunderstorms Early,,24,26,Fair,6,Northwest,0,83
+"January 16, 2019 at 12:00AM",Isolated Thunderstorms,,24,26,Light Rain,8,North,0,86
+"January 16, 2019 at 01:00AM",Partly Cloudy,,24,26,Clear,8,Northwest,0,86
+"January 16, 2019 at 02:00AM",Partly Cloudy,,23,26,Fair,10,North,0,85
+"January 16, 2019 at 03:00AM",Partly Cloudy,,24,25,Fair,8,North,0,87
+"January 16, 2019 at 04:00AM",PM Thunderstorms,38,23,25,Fair,10,North,0,88
+"January 16, 2019 at 05:00AM",Scattered Thunderstorms,40,24,25,Fair,10,North,0,85
+"January 16, 2019 at 06:00AM",Scattered Thunderstorms,40,24,25,Fair,10,North,0,87
+"January 16, 2019 at 07:00AM",Scattered Thunderstorms,38,23,26,Fair,11,North,0,81
+"January 16, 2019 at 08:00AM",Thunderstorms,38,24,27,Partly Cloudy,14,North,1,71
+"January 16, 2019 at 09:00AM",Thunderstorms,36,23,29,Partly Cloudy,14,Northwest,3,66
+"January 16, 2019 at 10:00AM",PM Thunderstorms,38,24,32,Partly Cloudy,19,Northwest,7,58
+"January 16, 2019 at 11:00AM",PM Thunderstorms,37,24,34,Partly Cloudy,16,Northwest,11,53
+"January 16, 2019 at 12:00PM",PM Thunderstorms,37,24,36,Partly Cloudy,13,Northwest,11,48
+"January 16, 2019 at 01:00PM",Thunderstorms,37,24,37,Partly Cloudy,13,Northwest,11,47
+"January 16, 2019 at 02:00PM",Thunderstorms,29,24,31,Rain Shower,11,West,11,64
+"January 16, 2019 at 03:00PM",Thunderstorms,28,23,37,Rain Shower,11,South,11,47
+"January 16, 2019 at 04:00PM",Thunderstorms Early,,24,33,Rain Shower,13,Southeast,9,57
+"January 16, 2019 at 05:00PM",Thunderstorms Early,,24,34,Partly Cloudy,14,South,4,55
+"January 16, 2019 at 06:00PM",Thunderstorms Early,,24,32,Partly Cloudy,14,South,2,58
+"January 16, 2019 at 06:00PM",Thunderstorms Early,,24,32,Partly Cloudy,14,South,2,58
+"January 16, 2019 at 07:00PM",Thunderstorms Early,,23,31,Partly Cloudy,14,South,1,64
+"January 16, 2019 at 08:00PM",Thunderstorms Early,,24,27,Mostly Cloudy,14,Northwest,0,79
+"January 16, 2019 at 09:00PM",Thunderstorms Early,,23,25,Mostly Cloudy,14,Northwest,0,87
+"January 16, 2019 at 10:00PM",Partly Cloudy,,24,26,Partly Cloudy,11,Northwest,0,82
+"January 16, 2019 at 11:00PM",Partly Cloudy,,24,26,Partly Cloudy,10,Northwest,0,89
+"January 17, 2019 at 12:00AM",Partly Cloudy,,23,25,Partly Cloudy,11,North,0,88
+"January 17, 2019 at 01:00AM",Partly Cloudy,,22,25,Partly Cloudy,11,North,0,87
+"January 17, 2019 at 02:01AM",Mostly Clear,,24,25,Partly Cloudy,10,Northwest,0,85
+"January 17, 2019 at 03:01AM",Clear,,24,25,Fair,10,Northwest,0,86
+"January 17, 2019 at 04:00AM",PM Thunderstorms,39,24,24,Clear,8,Northwest,0,86
+"January 17, 2019 at 05:00AM",Thunderstorms,39,24,24,Clear,10,North,0,87
+"January 17, 2019 at 06:00AM",Thunderstorms,39,24,24,Clear,10,North,0,87
+"January 17, 2019 at 07:00AM",PM Thunderstorms,39,24,24,Sunny,13,North,0,83
+"January 17, 2019 at 08:00AM",PM Thunderstorms,39,24,26,Sunny,13,North,1,76
+"January 17, 2019 at 09:00AM",PM Thunderstorms,39,24,30,Sunny,11,North,3,61
+"January 17, 2019 at 10:01AM",PM Thunderstorms,39,24,33,Sunny,13,North,7,51
+"January 17, 2019 at 11:00AM",PM Thunderstorms,39,24,34,Sunny,13,North,11,45
+"January 17, 2019 at 12:00PM",PM Thunderstorms,39,24,37,Sunny,10,North,11,40
+"January 17, 2019 at 01:00PM",Scattered Thunderstorms,39,24,38,Sunny,8,North,11,35
+"January 17, 2019 at 02:00PM",Scattered Thunderstorms,38,23,39,Partly Cloudy,6,Northeast,11,34
+"January 17, 2019 at 03:00PM",Scattered Thunderstorms,40,24,39,Partly Cloudy,10,Southeast,11,33
+"January 17, 2019 at 04:00PM",Thunderstorms Early,,24,38,Partly Cloudy,13,Southeast,9,38
+"January 17, 2019 at 05:00PM",Thunderstorms Early,,24,28,Rain Shower,13,South,4,65
+"January 17, 2019 at 06:00PM",Thunderstorms Early,,24,29,Rain Shower,13,South,2,66
+"January 17, 2019 at 06:00PM",Thunderstorms Early,,24,29,Rain Shower,13,South,2,66
+"January 17, 2019 at 07:00PM",Thunderstorms Early,,24,33,Partly Cloudy,13,South,1,54
+"January 17, 2019 at 08:00PM",Thunderstorms Early,,23,28,Rain Shower,11,South,0,70
+"January 17, 2019 at 09:00PM",Thunderstorms Early,,24,29,Partly Cloudy,8,Southwest,0,68
+"January 17, 2019 at 10:00PM",Isolated Thunderstorms,,24,28,Partly Cloudy,6,Southwest,0,74
+"January 17, 2019 at 11:00PM",Isolated Thunderstorms,,24,27,Partly Cloudy,6,West,0,76
+"January 18, 2019 at 12:00AM",Partly Cloudy,,23,27,Partly Cloudy,6,Northwest,0,80
+"January 18, 2019 at 01:00AM",Isolated Thunderstorms,,24,26,Partly Cloudy,6,Northwest,0,83
+"January 18, 2019 at 02:00AM",Partly Cloudy,,24,26,Partly Cloudy,6,Northwest,0,82
+"January 18, 2019 at 03:00AM",Mostly Clear,,24,25,Partly Cloudy,6,Northwest,0,85
+"January 18, 2019 at 04:00AM",PM Thunderstorms,36,23,25,Clear,6,Northwest,0,86
+"January 18, 2019 at 05:01AM",PM Thunderstorms,38,24,24,Clear,8,North,0,85
+"January 18, 2019 at 06:00AM",Isolated Thunderstorms,37,24,24,Clear,8,North,0,87
+"January 18, 2019 at 07:00AM",PM Thunderstorms,37,24,25,Sunny,8,North,0,87
+"January 18, 2019 at 08:00AM",PM Thunderstorms,37,24,26,Sunny,6,Northwest,1,84
+"January 18, 2019 at 09:00AM",PM Thunderstorms,37,24,29,Sunny,6,Northwest,3,70
+"January 18, 2019 at 10:00AM",PM Thunderstorms,37,24,32,Sunny,6,Northwest,6,63
+"January 18, 2019 at 11:00AM",PM Thunderstorms,36,24,34,Fair,8,North,11,54
+"January 18, 2019 at 12:00PM",PM Thunderstorms,36,23,36,Fair,10,Northeast,11,50
+"January 18, 2019 at 01:00PM",Scattered Thunderstorms,37,24,36,Partly Cloudy,10,East,11,47
+"January 18, 2019 at 02:00PM",Scattered Thunderstorms,35,23,36,Partly Cloudy,10,Southeast,11,48
+"January 18, 2019 at 03:00PM",Scattered Thunderstorms,35,24,36,Partly Cloudy,11,Southeast,11,48
+"January 18, 2019 at 04:00PM",Scattered Thunderstorms,,24,33,Rain Shower,13,Southeast,7,57
+"January 18, 2019 at 05:00PM",Thunderstorms,,24,35,Partly Cloudy,14,Southeast,5,49
+"January 18, 2019 at 06:00PM",Scattered Thunderstorms,,24,33,Partly Cloudy,16,Southeast,2,55
+"January 18, 2019 at 06:00PM",Scattered Thunderstorms,,24,33,Partly Cloudy,16,Southeast,2,55
+"January 18, 2019 at 07:00PM",Partly Cloudy,,23,31,Partly Cloudy,13,South,0,61
+"January 18, 2019 at 08:00PM",Partly Cloudy,,23,29,Partly Cloudy,11,South,0,69
+"January 18, 2019 at 09:00PM",Partly Cloudy,,24,28,Fair,8,South,0,74
+"January 18, 2019 at 10:00PM",Partly Cloudy,,24,28,Fair,6,South,0,79
+"January 18, 2019 at 11:00PM",Partly Cloudy,,24,27,Partly Cloudy,5,Southwest,0,84
+"January 19, 2019 at 12:00AM",Partly Cloudy,,24,26,Partly Cloudy,8,Northwest,0,86
+"January 19, 2019 at 01:00AM",Partly Cloudy,,24,26,Partly Cloudy,6,Northwest,0,87
+"January 19, 2019 at 02:00AM",Partly Cloudy,,24,26,Partly Cloudy,8,Northwest,0,87
+"January 19, 2019 at 03:00AM",Partly Cloudy,,25,26,Partly Cloudy,8,Northwest,0,88
+"January 19, 2019 at 04:01AM",PM Thunderstorms,38,24,26,Partly Cloudy,6,Northwest,0,87
+"January 19, 2019 at 05:00AM",PM Thunderstorms,39,24,25,Partly Cloudy,8,North,0,87
+"January 19, 2019 at 06:00AM",PM Thunderstorms,39,24,26,Partly Cloudy,8,North,0,88
+"January 19, 2019 at 07:00AM",PM Thunderstorms,39,24,26,Partly Cloudy,11,North,0,85
+"January 19, 2019 at 08:00AM",PM Thunderstorms,39,24,27,Partly Cloudy,11,North,1,78
+"January 19, 2019 at 09:00AM",PM Thunderstorms,39,24,29,Partly Cloudy,14,North,3,70
+"January 19, 2019 at 10:00AM",PM Thunderstorms,39,24,31,Partly Cloudy,16,North,7,63
+"January 19, 2019 at 11:00AM",PM Thunderstorms,39,24,33,Partly Cloudy,14,North,11,55
+"January 19, 2019 at 12:00PM",PM Thunderstorms,38,24,36,Partly Cloudy,16,North,11,49
+"January 19, 2019 at 01:00PM",Thunderstorms,38,24,37,Partly Cloudy,16,North,11,43
+"January 19, 2019 at 02:00PM",Thunderstorms,38,24,38,Partly Cloudy,16,North,11,40
+"January 19, 2019 at 03:00PM",Thunderstorms,39,24,39,Fair,14,North,11,37
+"January 19, 2019 at 04:00PM",Thunderstorms Early,,24,38,Fair,13,North,8,41
+"January 19, 2019 at 05:00PM",Thunderstorms Early,,24,37,Partly Cloudy,13,North,5,44
+"January 19, 2019 at 06:00PM",Thunderstorms Early,,21,27,Rain Shower,8,Southeast,2,81
+"January 19, 2019 at 06:00PM",Thunderstorms Early,,21,27,Rain Shower,8,Southeast,2,81
+"January 19, 2019 at 07:00PM",Thunderstorms Early,,22,25,Thunderstorm,11,Southwest,0,90
+"January 19, 2019 at 08:00PM",Thunderstorms Early,,23,26,Rain,10,Southwest,0,90
+"January 19, 2019 at 09:00PM",Thunderstorms,,24,26,Rain,6,Southwest,0,90
+"January 19, 2019 at 10:00PM",Thunderstorms,,24,27,Light Rain,5,Southwest,0,82
+"January 19, 2019 at 11:00PM",Thunderstorms,,24,27,Light Rain,5,Northwest,0,82
+"January 20, 2019 at 12:00AM",Thunderstorms,,24,27,Mostly Cloudy,8,Northwest,0,83
+"January 20, 2019 at 01:00AM",Scattered Thunderstorms,,23,27,Mostly Cloudy,8,Northwest,0,85
+"January 20, 2019 at 02:00AM",Scattered Thunderstorms,,24,26,Partly Cloudy,5,North,0,87
+"January 20, 2019 at 03:00AM",Thunderstorms,36,24,26,Light Rain,6,North,0,88
+"January 20, 2019 at 04:00AM",Thunderstorms,36,24,26,Partly Cloudy,6,North,0,87
+"January 20, 2019 at 05:00AM",Thunderstorms,36,24,25,Partly Cloudy,6,North,0,90
+"January 20, 2019 at 06:00AM",Thunderstorms,36,24,25,Partly Cloudy,8,North,0,90
+"January 20, 2019 at 07:00AM",Thunderstorms,35,24,25,Partly Cloudy,11,Northeast,0,92
+"January 20, 2019 at 08:00AM",Thunderstorms,35,24,27,Partly Cloudy,10,North,1,85
+"January 20, 2019 at 09:00AM",Thunderstorms,36,24,29,Partly Cloudy,10,North,3,74
+"January 20, 2019 at 10:00AM",Thunderstorms,35,24,31,Partly Cloudy,10,North,6,66
+"January 20, 2019 at 11:00AM",Thunderstorms,35,24,33,Partly Cloudy,10,North,10,56
+"January 20, 2019 at 12:00PM",Thunderstorms,36,24,35,Partly Cloudy,10,North,11,48
+"January 20, 2019 at 01:00PM",Thunderstorms,34,24,29,Rain Shower,11,North,11,70
+"January 20, 2019 at 02:00PM",Thunderstorms,33,24,28,Rain Shower,11,Northeast,11,79
+"January 20, 2019 at 03:00PM",Thunderstorms,28,24,26,Rain,14,Southeast,10,90
+"January 20, 2019 at 04:00PM",Thunderstorms Early,,24,29,Rain Shower,14,Southeast,6,74
+"January 20, 2019 at 05:00PM",Thunderstorms Early,,24,28,Light Rain,16,Southeast,3,82
+"January 20, 2019 at 06:00PM",Thunderstorms Early,,24,26,Rain,16,Southeast,2,90
+"January 20, 2019 at 06:00PM",Thunderstorms Early,,24,26,Rain,16,Southeast,2,90
+"January 20, 2019 at 07:00PM",Thunderstorms Early,,24,26,Rain,14,South,0,90
+"January 20, 2019 at 08:00PM",Thunderstorms Early,,24,28,Light Rain,11,Southeast,0,85
+"January 20, 2019 at 09:00PM",Thunderstorms Early,,24,27,Showers in the Vicinity,8,South,0,84
+"January 20, 2019 at 10:00PM",Thunderstorms Early,,24,27,Rain Shower,8,South,0,90
+"January 20, 2019 at 11:00PM",Thunderstorms Early,,24,26,Cloudy,6,South,0,90
+"January 21, 2019 at 12:00AM",Isolated Thunderstorms,,24,26,Cloudy,8,Northwest,0,90
+"January 21, 2019 at 01:00AM",Cloudy,,24,26,Cloudy,5,Northwest,0,90
+"January 21, 2019 at 02:00AM",Cloudy,,24,26,Mostly Cloudy,6,North,0,89
+"January 21, 2019 at 03:00AM",Mostly Cloudy,,24,26,Mostly Cloudy,6,Northwest,0,90
+"January 21, 2019 at 04:00AM",PM Thunderstorms,38,24,25,Mostly Cloudy,6,North,0,90
+"January 21, 2019 at 05:00AM",PM Thunderstorms,38,24,25,Mostly Cloudy,8,North,0,90
+"January 21, 2019 at 06:00AM",Thunderstorms,38,24,25,Mostly Cloudy,8,North,0,91
+"January 21, 2019 at 07:00AM",PM Thunderstorms,37,24,25,Partly Cloudy,11,North,0,91
+"January 21, 2019 at 08:00AM",PM Thunderstorms,38,24,27,Partly Cloudy,11,North,1,83
+"January 21, 2019 at 09:00AM",PM Thunderstorms,37,23,30,Fair,14,Northeast,3,70
+"January 21, 2019 at 10:00AM",PM Thunderstorms,37,24,32,Sunny,14,North,6,61
+"January 21, 2019 at 11:00AM",PM Thunderstorms,38,24,34,Sunny,16,North,10,52
+"January 21, 2019 at 12:00PM",PM Thunderstorms,36,23,36,Sunny,18,North,11,47
+"January 21, 2019 at 01:00PM",Thunderstorms,37,24,37,Fair,16,North,11,44
+"January 21, 2019 at 02:00PM",Thunderstorms,29,24,38,Fair,14,North,11,41
+"January 21, 2019 at 03:00PM",Thunderstorms,28,23,38,Partly Cloudy,13,Northeast,11,44
+"January 21, 2019 at 04:01PM",Thunderstorms Early,,24,37,Showers in the Vicinity,11,Southeast,7,46
+"January 21, 2019 at 05:00PM",Thunderstorms Early,,23,25,Rain,10,South,6,89
+"January 21, 2019 at 06:00PM",Thunderstorms Early,,23,26,Rain,10,South,1,90
+"January 21, 2019 at 06:00PM",Thunderstorms Early,,23,26,Rain,10,South,1,90
+"January 21, 2019 at 07:00PM",Thunderstorms Early,,24,28,Light Rain,10,South,0,82
+"January 21, 2019 at 08:00PM",Thunderstorms Early,,24,28,Rain Shower,10,South,0,82
+"January 21, 2019 at 09:00PM",Thunderstorms Early,,24,28,Partly Cloudy,6,Northwest,0,80
+"January 21, 2019 at 10:00PM",Partly Cloudy,,24,28,Partly Cloudy,6,Northwest,0,81
+"January 21, 2019 at 11:00PM",Partly Cloudy,,24,28,Partly Cloudy,6,Northwest,0,81
+"January 22, 2019 at 12:00AM",Partly Cloudy,,23,27,Partly Cloudy,8,Northwest,0,85
+"January 22, 2019 at 01:00AM",Partly Cloudy,,24,27,Partly Cloudy,8,Northwest,0,87
+"January 22, 2019 at 02:00AM",Partly Cloudy,,24,26,Partly Cloudy,6,North,0,87
+"January 22, 2019 at 03:01AM",Partly Cloudy,,24,26,Partly Cloudy,8,Northwest,0,89
+"January 22, 2019 at 04:00AM",PM Thunderstorms,37,24,26,Partly Cloudy,8,Northwest,0,88
+"January 22, 2019 at 05:00AM",PM Thunderstorms,37,24,26,Partly Cloudy,8,North,0,87
+"January 22, 2019 at 06:00AM",Scattered Thunderstorms,37,24,26,Partly Cloudy,6,North,0,87
+"January 22, 2019 at 07:00AM",PM Thunderstorms,37,24,26,Sunny,10,North,0,86
+"January 22, 2019 at 08:00AM",Scattered Thunderstorms,36,24,27,Sunny,10,North,1,84
+"January 22, 2019 at 09:00AM",PM Thunderstorms,36,24,31,Fair,8,North,3,69
+"January 22, 2019 at 10:01AM",PM Thunderstorms,35,23,33,Partly Cloudy,8,North,7,60
+"January 22, 2019 at 11:00AM",PM Thunderstorms,36,24,34,Partly Cloudy,8,North,10,54
+"January 22, 2019 at 12:00PM",PM Thunderstorms,36,24,36,Partly Cloudy,13,North,11,52
+"January 22, 2019 at 01:00PM",Thunderstorms,36,24,36,Partly Cloudy,16,Southeast,11,53
+"January 22, 2019 at 02:00PM",Thunderstorms,32,24,36,Partly Cloudy,14,Southeast,11,53
+"January 22, 2019 at 03:00PM",Thunderstorms,32,24,28,Light Rain,18,South,9,82
+"January 22, 2019 at 04:00PM",Thunderstorms Early,,24,27,Light Rain,19,South,7,82
+"January 22, 2019 at 05:00PM",Thunderstorms Early,,23,31,Rain Shower,18,South,4,69
+"January 22, 2019 at 06:00PM",Thunderstorms Early,,23,32,Mostly Cloudy,14,South,1,62
+"January 22, 2019 at 06:00PM",Thunderstorms Early,,23,32,Mostly Cloudy,14,South,1,62
+"January 22, 2019 at 07:00PM",Isolated Thunderstorms,,24,31,Mostly Cloudy,13,Southeast,0,66
+"January 22, 2019 at 08:00PM",Partly Cloudy,,24,30,Mostly Cloudy,11,Southeast,0,71
+"January 22, 2019 at 09:00PM",Partly Cloudy,,24,28,Mostly Cloudy,8,South,0,77
+"January 22, 2019 at 10:00PM",Partly Cloudy,,24,28,Mostly Cloudy,6,Southeast,0,81
+"January 22, 2019 at 11:00PM",Partly Cloudy,,24,27,Mostly Cloudy,5,Southeast,0,85
+"January 23, 2019 at 12:00AM",Partly Cloudy,,24,26,Partly Cloudy,5,Southwest,0,90
+"January 23, 2019 at 01:00AM",Partly Cloudy,,24,26,Partly Cloudy,3,North,0,93
+"January 23, 2019 at 02:00AM",Partly Cloudy,,24,26,Partly Cloudy,3,North,0,92
+"January 23, 2019 at 03:00AM",Partly Cloudy,,24,25,Partly Cloudy,5,Northwest,0,93
+"January 23, 2019 at 04:00AM",Thunderstorms,35,23,24,Partly Cloudy,5,Northwest,0,94
+"January 23, 2019 at 05:00AM",Thunderstorms,35,23,24,Partly Cloudy,5,North,0,93
+"January 23, 2019 at 06:00AM",Thunderstorms,35,23,25,Partly Cloudy,5,Northeast,0,95
+"January 23, 2019 at 07:00AM",Thunderstorms,35,23,24,Partly Cloudy,5,North,0,95
+"January 23, 2019 at 08:00AM",Thunderstorms,34,23,27,Partly Cloudy,6,North,1,86
+"January 23, 2019 at 09:00AM",Thunderstorms,33,22,29,Partly Cloudy,6,North,3,77
+"January 23, 2019 at 10:00AM",Thunderstorms,34,23,31,Partly Cloudy,6,North,6,65
+"January 23, 2019 at 11:01AM",Thunderstorms,34,23,33,Partly Cloudy,8,North,10,60
+"January 23, 2019 at 12:01PM",Thunderstorms,34,23,34,Partly Cloudy,8,Northeast,11,55
+"January 23, 2019 at 01:00PM",Thunderstorms,30,23,34,Partly Cloudy,8,Northeast,11,54
+"January 23, 2019 at 02:00PM",Thunderstorms,29,23,26,Rain,10,Southeast,11,90
+"January 23, 2019 at 03:00PM",Thunderstorms,28,23,29,Rain Shower,13,Southeast,11,75
+"January 23, 2019 at 04:00PM",Thunderstorms Early,,23,35,Partly Cloudy,14,Southeast,8,56
+"January 23, 2019 at 05:00PM",Thunderstorms Early,,24,34,Partly Cloudy,14,Southeast,6,58
+"January 23, 2019 at 06:00PM",Thunderstorms Early,,24,26,Rain,14,Southeast,2,90
+"January 23, 2019 at 06:00PM",Thunderstorms Early,,24,26,Rain,14,Southeast,2,90
+"January 23, 2019 at 07:01PM",Thunderstorms Early,,24,26,Rain,16,South,1,90
+"January 23, 2019 at 08:00PM",Isolated Thunderstorms,,24,30,Partly Cloudy,13,Southeast,0,70
+"January 23, 2019 at 09:00PM",Partly Cloudy,,23,28,Partly Cloudy,11,South,0,76
+"January 23, 2019 at 10:00PM",Partly Cloudy,,24,28,Partly Cloudy,10,South,0,76
+"January 23, 2019 at 11:00PM",Partly Cloudy,,24,28,Partly Cloudy,6,South,0,79
+"January 24, 2019 at 12:00AM",Partly Cloudy,,24,27,Partly Cloudy,5,Southwest,0,81
+"January 24, 2019 at 01:00AM",Partly Cloudy,,23,26,Fair,5,Northwest,0,87
+"January 24, 2019 at 02:00AM",Mostly Clear,,23,26,Fair,5,Northwest,0,89
+"January 24, 2019 at 03:00AM",Mostly Clear,,24,26,Fair,6,North,0,89
+"January 24, 2019 at 04:01AM",Partly Cloudy,38,23,25,Fair,6,North,0,89
+"January 24, 2019 at 05:01AM",Partly Cloudy,37,22,25,Fair,6,North,0,89
+"January 24, 2019 at 06:00AM",Partly Cloudy,38,23,24,Clear,6,Northeast,0,91
+"January 24, 2019 at 07:00AM",Partly Cloudy,37,22,24,Sunny,10,North,0,88
+"January 24, 2019 at 08:00AM",Partly Cloudy,36,22,26,Fair,11,North,1,82
+"January 24, 2019 at 09:00AM",Partly Cloudy,37,23,29,Fair,13,North,3,67
+"January 24, 2019 at 10:01AM",Mostly Sunny,37,23,32,Fair,13,Northeast,6,57
+"January 24, 2019 at 11:00AM",Isolated Thunderstorms,37,23,34,Sunny,11,North,10,50
+"January 24, 2019 at 12:01PM",Isolated Thunderstorms,37,23,35,Sunny,13,North,11,44
+"January 24, 2019 at 01:00PM",Isolated Thunderstorms,37,23,36,Sunny,14,Northeast,11,42
+"January 24, 2019 at 02:00PM",Scattered Thunderstorms,37,23,37,Sunny,14,Northeast,11,42
+"January 24, 2019 at 03:00PM",Scattered Thunderstorms,37,23,37,Fair,16,Southeast,11,42
+"January 24, 2019 at 04:00PM",Thunderstorms Early,,23,36,Fair,16,Southeast,9,44
+"January 24, 2019 at 05:00PM",Thunderstorms Early,,23,34,Partly Cloudy,16,Southeast,6,48
+"January 24, 2019 at 06:00PM",Thunderstorms Early,,24,32,Partly Cloudy,19,South,1,56
+"January 24, 2019 at 06:00PM",Thunderstorms Early,,24,32,Partly Cloudy,19,South,1,56
+"January 24, 2019 at 07:00PM",Thunderstorms Early,,23,26,Light Rain,18,South,0,82
+"January 24, 2019 at 08:00PM",Partly Cloudy,,24,26,Rain Shower,13,Southeast,0,82
+"January 24, 2019 at 09:00PM",Partly Cloudy,,24,28,Partly Cloudy,8,South,0,74
+"January 24, 2019 at 10:00PM",Partly Cloudy,,24,28,Partly Cloudy,8,South,0,76
+"January 24, 2019 at 11:00PM",Partly Cloudy,,24,27,Partly Cloudy,8,Southwest,0,80
+"January 25, 2019 at 12:00AM",Partly Cloudy,,24,26,Partly Cloudy,10,West,0,85
+"January 25, 2019 at 01:00AM",Partly Cloudy,,24,26,Partly Cloudy,6,Northwest,0,86
+"January 25, 2019 at 02:00AM",Partly Cloudy,,24,25,Partly Cloudy,6,Northwest,0,89
+"January 25, 2019 at 03:00AM",Partly Cloudy,,24,25,Partly Cloudy,6,Northwest,0,89
+"January 25, 2019 at 04:01AM",Thunderstorms,33,22,24,Partly Cloudy,5,Northwest,0,90
+"January 25, 2019 at 05:00AM",Thunderstorms,33,22,24,Partly Cloudy,5,North,0,91
+"January 25, 2019 at 06:00AM",Thunderstorms,33,22,24,Partly Cloudy,5,Northeast,0,91
+"January 25, 2019 at 07:00AM",Thunderstorms,33,22,24,Partly Cloudy,8,North,0,92
+"January 25, 2019 at 08:00AM",Thunderstorms,31,22,26,Partly Cloudy,5,North,1,88
+"January 25, 2019 at 09:00AM",Thunderstorms,31,22,28,Partly Cloudy,8,North,3,77
+"January 25, 2019 at 10:00AM",Thunderstorms,32,23,31,Partly Cloudy,8,North,6,63
+"January 25, 2019 at 11:00AM",Thunderstorms,33,22,32,Partly Cloudy,10,North,10,57
+"January 25, 2019 at 12:00PM",Thunderstorms,33,23,33,Partly Cloudy,8,Northeast,11,56
+"January 25, 2019 at 01:00PM",Thunderstorms,28,23,32,Mostly Cloudy,8,Northeast,11,59
+"January 25, 2019 at 02:00PM",Thunderstorms,27,23,27,Rain Shower,13,Southeast,11,82
+"January 25, 2019 at 03:00PM",Thunderstorms,,22,25,Rain,14,Southeast,8,90
+"January 25, 2019 at 04:00PM",Thunderstorms,,23,25,Rain,16,South,7,90
+"January 25, 2019 at 05:00PM",Thunderstorms,,22,24,Rain,14,Southeast,4,90
+"January 25, 2019 at 06:00PM",Scattered Thunderstorms,,22,23,Thunderstorm,14,Southeast,1,87
+"January 25, 2019 at 06:00PM",Scattered Thunderstorms,,22,23,Thunderstorm,14,Southeast,1,87
+"January 25, 2019 at 07:00PM",Scattered Thunderstorms,,21,21,Rain,14,North,0,100
+"January 25, 2019 at 08:00PM",Thunderstorms Early,,21,22,Rain,8,South,0,98
+"January 25, 2019 at 09:00PM",Thunderstorms Early,,21,21,Rain Shower,6,Southwest,0,100
+"January 25, 2019 at 10:00PM",Thunderstorms Early,,22,22,Light Rain,6,Northwest,0,97
+"January 25, 2019 at 11:00PM",Isolated Thunderstorms,,22,22,Cloudy,8,Northwest,0,99
+"January 26, 2019 at 12:00AM",Cloudy,,21,22,Cloudy,10,Northwest,0,100
+"January 26, 2019 at 01:00AM",Cloudy,,22,22,Cloudy,10,North,0,95
+"January 26, 2019 at 02:00AM",Cloudy,,22,22,Cloudy,8,North,0,94
+"January 26, 2019 at 03:00AM",Cloudy,,22,22,Cloudy,8,North,0,94
+"January 26, 2019 at 04:00AM",PM Thunderstorms,34,22,22,Cloudy,8,North,0,93
+"January 26, 2019 at 05:00AM",PM Thunderstorms,34,22,22,Cloudy,6,North,0,93
+"January 26, 2019 at 06:00AM",Thunderstorms,34,22,22,Mostly Cloudy,8,North,0,92
+"January 26, 2019 at 07:00AM",PM Thunderstorms,34,22,22,Partly Cloudy,10,North,0,93
+"January 26, 2019 at 08:00AM",PM Thunderstorms,34,22,22,Partly Cloudy,10,North,1,88
+"January 26, 2019 at 09:00AM",PM Thunderstorms,34,22,25,Mostly Cloudy,11,North,3,79
+"January 26, 2019 at 10:00AM",Thunderstorms,34,22,27,Mostly Cloudy,14,North,5,72
+"January 26, 2019 at 11:00AM",Thunderstorms,34,22,27,Partly Cloudy,13,North,9,68
+"January 26, 2019 at 12:00PM",Thunderstorms,33,22,29,Partly Cloudy,13,North,11,63
+"January 26, 2019 at 01:00PM",Thunderstorms,32,21,31,Partly Cloudy,11,North,11,58
+"January 26, 2019 at 02:00PM",Thunderstorms,28,22,25,Rain Shower,13,North,11,81
+"January 26, 2019 at 03:00PM",Scattered Thunderstorms,26,22,23,Rain,13,Northeast,11,90
+"January 26, 2019 at 04:00PM",Thunderstorms Early,,22,23,Rain,14,East,9,90
+"January 26, 2019 at 05:00PM",Thunderstorms Early,,22,24,Rain,14,East,6,90
+"January 26, 2019 at 06:00PM",Thunderstorms Early,,22,26,Rain Shower,14,Southeast,2,82
+"January 26, 2019 at 06:00PM",Thunderstorms Early,,22,26,Rain Shower,14,Southeast,2,82
+"January 26, 2019 at 07:00PM",Thunderstorms Early,,22,29,Mostly Cloudy,11,Southeast,0,63
+"January 26, 2019 at 08:00PM",Thunderstorms Early,,22,28,Mostly Cloudy,6,Southeast,0,67
+"January 26, 2019 at 09:00PM",Isolated Thunderstorms,,20,26,Partly Cloudy,5,North,0,77
+"January 26, 2019 at 10:00PM",Partly Cloudy,,21,25,Partly Cloudy,5,Northwest,0,84
+"January 26, 2019 at 11:00PM",Partly Cloudy,,22,24,Partly Cloudy,6,Northwest,0,86
+"January 27, 2019 at 12:00AM",Partly Cloudy,,22,24,Partly Cloudy,10,North,0,87
+"January 27, 2019 at 01:00AM",Partly Cloudy,,21,23,Partly Cloudy,8,North,0,90
+"January 27, 2019 at 02:00AM",Partly Cloudy,,22,23,Partly Cloudy,8,North,0,90
+"January 27, 2019 at 03:00AM",Partly Cloudy,,22,23,Partly Cloudy,8,North,0,91
+"January 27, 2019 at 04:00AM",Partly Cloudy,37,23,23,Fair,8,North,0,91
+"January 27, 2019 at 05:00AM",Partly Cloudy,37,23,22,Partly Cloudy,8,North,0,90
+"January 27, 2019 at 06:00AM",Partly Cloudy,37,23,23,Partly Cloudy,8,North,0,90
+"January 27, 2019 at 07:00AM",Partly Cloudy,37,23,23,Sunny,11,North,0,87
+"January 27, 2019 at 08:00AM",Partly Cloudy,37,23,24,Fair,10,North,1,83
+"January 27, 2019 at 09:00AM",Partly Cloudy,37,23,28,Partly Cloudy,14,Northeast,3,70
+"January 27, 2019 at 10:00AM",Partly Cloudy,37,23,30,Partly Cloudy,14,North,6,64
+"January 27, 2019 at 11:00AM",Partly Cloudy,37,23,31,Partly Cloudy,16,North,10,60
+"January 27, 2019 at 12:00PM",Partly Cloudy,37,23,32,Partly Cloudy,18,North,11,54
+"January 27, 2019 at 01:00PM",Mostly Sunny,36,21,34,Partly Cloudy,16,North,11,48
+"January 27, 2019 at 02:00PM",Mostly Sunny,36,23,34,Fair,18,Northeast,11,46
+"January 27, 2019 at 03:00PM",Mostly Sunny,37,23,36,Fair,18,Northeast,11,38
+"January 27, 2019 at 04:00PM",Showers Early,,23,37,Fair,16,Northeast,9,36
+"January 27, 2019 at 05:00PM",Clear,,23,37,Fair,14,Northeast,6,36
+"January 27, 2019 at 06:00PM",Isolated Thunderstorms,,23,36,Fair,11,Northeast,2,38
+"January 27, 2019 at 06:00PM",Isolated Thunderstorms,,23,36,Fair,11,Northeast,2,38
+"January 27, 2019 at 07:00PM",Thunderstorms Early,,23,35,Fair,10,East,1,44
+"January 27, 2019 at 08:00PM",Clear,,23,33,Sunny,10,Southeast,0,50
+"January 27, 2019 at 09:00PM",Clear,,23,29,Clear,5,Northeast,0,63
+"January 27, 2019 at 10:00PM",Clear,,23,27,Clear,5,North,0,73
+"January 27, 2019 at 11:00PM",Clear,,23,27,Clear,8,North,0,74
+"January 28, 2019 at 12:00AM",Clear,,23,26,Clear,10,North,0,74
+"January 28, 2019 at 01:00AM",Clear,,23,26,Clear,10,North,0,76
+"January 28, 2019 at 02:00AM",Clear,,23,26,Clear,10,North,0,77
+"January 28, 2019 at 03:00AM",Clear,,23,25,Clear,10,North,0,79
+"January 28, 2019 at 04:00AM",Mostly Sunny,38,23,25,Clear,10,North,0,81
+"January 28, 2019 at 05:01AM",Mostly Sunny,38,23,24,Clear,10,North,0,82
+"January 28, 2019 at 06:00AM",Mostly Sunny,38,23,24,Clear,10,North,0,86
+"January 28, 2019 at 07:00AM",Mostly Sunny,37,23,24,Sunny,10,North,0,85
+"January 28, 2019 at 08:00AM",Mostly Sunny,37,23,26,Sunny,11,North,1,76
+"January 28, 2019 at 09:00AM",Mostly Sunny,37,23,29,Sunny,13,North,3,65
+"January 28, 2019 at 10:00AM",PM Thunderstorms,37,23,32,Sunny,13,North,6,57
+"January 28, 2019 at 11:00AM",PM Thunderstorms,37,23,33,Sunny,14,North,10,55
+"January 28, 2019 at 12:00PM",PM Thunderstorms,37,23,35,Sunny,14,North,11,48
+"January 28, 2019 at 01:00PM",Scattered Thunderstorms,37,23,36,Sunny,13,North,11,43
+"January 28, 2019 at 02:00PM",Scattered Thunderstorms,36,23,37,Fair,14,Northeast,11,39
+"January 28, 2019 at 03:00PM",Scattered Thunderstorms,37,23,37,Fair,14,Northeast,11,38
